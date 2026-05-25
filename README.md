@@ -36,7 +36,22 @@ The source of truth is:
 data/episodes.json
 ```
 
-The easiest workflow is to copy the draft template, fill it out, and run the add command:
+The easiest workflow is to use the local form:
+
+```text
+http://localhost:4173/admin.html
+```
+
+Paste a Google Docs-style draft with labels such as `Title:`, `Show Notes:`, and `Editorial Notes:`.
+The form generates the episode JSON for you.
+
+Save the generated JSON to `/tmp/neuroradio-new-episode.json`, then run:
+
+```bash
+node tools/add-episode.mjs /tmp/neuroradio-new-episode.json
+```
+
+You can also copy the draft template manually:
 
 ```bash
 cp data/new-episode.example.json /tmp/neuroradio-new-episode.json

@@ -490,6 +490,68 @@ h3 {
   margin-top: 16px;
 }
 
+.admin-page {
+  max-width: 1180px;
+  margin: 0 auto;
+  padding: 72px 24px;
+}
+
+.admin-hero {
+  margin-bottom: 36px;
+}
+
+.admin-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 24px;
+}
+
+.admin-panel {
+  background: var(--panel);
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+  padding: 24px;
+}
+
+.admin-panel h2 {
+  font-size: clamp(1.6rem, 3vw, 2.2rem);
+  margin-bottom: 12px;
+}
+
+.admin-textarea {
+  width: 100%;
+  min-height: 460px;
+  resize: vertical;
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  padding: 14px;
+  background: #fff;
+  color: var(--ink);
+  font: 0.95rem/1.65 ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+}
+
+.admin-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  margin-top: 14px;
+}
+
+.admin-command {
+  margin-top: 18px;
+  border-top: 1px solid var(--line);
+  padding-top: 18px;
+}
+
+.admin-command code {
+  display: block;
+  overflow-x: auto;
+  border-radius: var(--radius);
+  background: var(--soft);
+  padding: 12px;
+}
+
 .episode-page {
   max-width: 980px;
   margin: 0 auto;
@@ -686,7 +748,8 @@ h3 {
   .about-grid,
   .episode-grid,
   .starter-grid,
-  .notes-grid {
+  .notes-grid,
+  .admin-grid {
     grid-template-columns: 1fr;
   }
 
@@ -712,6 +775,7 @@ h3 {
   .episodes-section,
   .topics-section,
   .feature-section,
+  .admin-page,
   .site-footer {
     padding-left: 18px;
     padding-right: 18px;
