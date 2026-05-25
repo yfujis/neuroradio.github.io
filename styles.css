@@ -513,6 +513,20 @@ h3 {
   padding: 18px;
 }
 
+.spotify-embed {
+  background: var(--panel);
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+  padding: 12px;
+}
+
+.spotify-embed iframe {
+  display: block;
+  border: 0;
+  border-radius: calc(var(--radius) - 2px);
+}
+
 .episode-player-card img {
   border-radius: calc(var(--radius) - 2px);
 }

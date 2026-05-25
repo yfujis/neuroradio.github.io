@@ -42,6 +42,7 @@ for (const path of episodePaths) {
   assert(html.includes('lang="ja"'), `Episode page must be Japanese: ${path}`);
   assert(html.includes('href="/"'), `Episode page must link back to site root: ${path}`);
   assert(html.includes('href="/styles.css?v=20260525"'), `Episode page must use root CSS path: ${path}`);
+  assert(html.includes("spotify.com"), `Episode page must include Spotify embed: ${path}`);
   assert(html.includes('id="show-notes"'), `Episode page must include full Show Notes: ${path}`);
   if (episodesWithEditorialNotes.has(path)) {
     assert(html.includes('id="editorial-notes"'), `Episode page must include Editorial Notes: ${path}`);

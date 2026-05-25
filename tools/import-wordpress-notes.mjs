@@ -63,6 +63,18 @@ function extractSummary(content) {
   return match ? decodeEntities(match[1]) : "";
 }
 
+function extractSpotifyEmbed(content) {
+  const match = content.match(/<iframe[^>]+src="([^"]*(?:open|creators)\.spotify\.com[^"]*)"[^>]*><\/iframe>/);
+  if (!match) {
+    return "";
+  }
+
+  const src = match[1].replaceAll("&#038;", "&amp;");
+  return `<div class="spotify-embed">
+        <iframe src="${src}" width="100%" height="152" frameborder="0" allowfullscreen allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy" title="Spotify episode player"></iframe>
+      </div>`;
+}
+
 function extractNotes(content) {
   const afterMore = content.includes("<!--more-->") ? content.split("<!--more-->")[1] : content;
   return afterMore
@@ -134,6 +146,15 @@ function pageTemplate({ episode, title, summary, notes }) {
       <h1>${plainTitle}</h1>
       <p class="episode-date">${episode.date}</p>
       <p class="hero-lede">${summary}</p>
+      ${episode.spotifyEmbed || `<div class="episode-player-card">
+        <img src="/assets/neuroradio-cover.svg" alt="NeuroRadioのカバーアート">
+        <div>
+          <p class="eyebrow">Listen</p>
+          <h2>NeuroRadio #${episode.number}</h2>
+          <p>プレイヤーは本番移行時に埋め込み予定です。</p>
+          <a class="button primary" href="/#subscribe">購読する</a>
+        </div>
+      </div>`}
       <section class="episode-content" aria-label="${plainTitle} のShow NotesとEditorial Notes">
 ${notes.trim()}
       </section>
@@ -159,6 +180,7 @@ for (const episode of episodes) {
   const content = post.content.rendered;
   const summary = extractSummary(content);
   const notes = extractNotes(content);
+  episode.spotifyEmbed = extractSpotifyEmbed(content);
   const target = join(root, episode.path, "index.html");
 
   mkdirSync(dirname(target), { recursive: true });
