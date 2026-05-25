@@ -279,6 +279,10 @@ h3 {
   padding: 24px;
 }
 
+.latest-body h2 a {
+  text-decoration-thickness: 2px;
+}
+
 .latest-body p {
   margin-bottom: 0;
 }
