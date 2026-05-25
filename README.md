@@ -4,6 +4,8 @@ NeuroRadioのGitHub Pages向け静的サイトプロトタイプです。
 
 ## Preview locally
 
+For producer editing, serve the working folder:
+
 ```bash
 python3 -m http.server 4173
 ```
@@ -14,17 +16,37 @@ Then open:
 http://localhost:4173/
 ```
 
+For a public preview that excludes the local producer form:
+
+```bash
+node tools/build-public.mjs
+python3 -m http.server 4174 --directory public
+```
+
+Then open:
+
+```text
+http://localhost:4174/
+```
+
 ## GitHub Pages deployment notes
 
-This site is intentionally plain static HTML/CSS/JavaScript. No build step is required.
+This site is intentionally plain static HTML/CSS/JavaScript. The public deploy artifact is generated into:
+
+```text
+public/
+```
+
+`admin.html` and `assets/admin.js` are local producer tools and are not copied into `public/`.
 
 Recommended Pages setup once the repo is ready to publish:
 
 1. Push this branch or copy these files to the repository branch you want to publish.
 2. In GitHub, open `Settings` -> `Pages`.
-3. Set source to `Deploy from a branch`.
-4. Select the branch and `/ (root)` folder.
-5. Save.
+3. Set source to `GitHub Actions`.
+4. Run the included `Deploy static site to GitHub Pages` workflow.
+
+The workflow runs `node tools/build-public.mjs` and deploys only the generated `public/` folder.
 
 `.nojekyll` is included so GitHub Pages serves the static files directly without Jekyll processing.
 
@@ -102,6 +124,8 @@ node tools/check-static-site.mjs
 - `assets/neuroradio-cover.svg` - local cover artwork
 - `data/episodes.json` - episode data source
 - `tools/build-site.mjs` - generator for homepage and episode pages
+- `tools/build-public.mjs` - generator for the public deploy folder without admin tools
 - `tools/add-episode.mjs` - helper for adding one new episode from a draft JSON file
+- `.github/workflows/pages.yml` - GitHub Pages workflow that deploys only `public/`
 - `404.html` - GitHub Pages fallback page
 - `.nojekyll` - disables Jekyll processing on GitHub Pages
