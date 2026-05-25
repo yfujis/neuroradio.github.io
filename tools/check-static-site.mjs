@@ -12,6 +12,14 @@ const episodePaths = [
   "/2025/11/01/100-everything-in-its-right-place/",
 ];
 
+const episodesWithEditorialNotes = new Set([
+  "/2026/05/12/104-empire-social-state-of-mind/",
+  "/2026/04/08/103-real-projections-and-tangential-matters/",
+  "/2025/12/31/102-dome-sweet-dome-where-memory-finds-its-rhythm/",
+  "/2025/12/24/101-taco-chronicles/",
+  "/2025/11/01/100-everything-in-its-right-place/",
+]);
+
 function assert(condition, message) {
   if (!condition) {
     throw new Error(message);
@@ -34,6 +42,10 @@ for (const path of episodePaths) {
   assert(html.includes('lang="ja"'), `Episode page must be Japanese: ${path}`);
   assert(html.includes('href="/"'), `Episode page must link back to site root: ${path}`);
   assert(html.includes('href="/styles.css?v=20260525"'), `Episode page must use root CSS path: ${path}`);
+  assert(html.includes('id="show-notes"'), `Episode page must include full Show Notes: ${path}`);
+  if (episodesWithEditorialNotes.has(path)) {
+    assert(html.includes('id="editorial-notes"'), `Episode page must include Editorial Notes: ${path}`);
+  }
   assert(!html.includes("neuroradio.tokyo/2026") && !html.includes("neuroradio.tokyo/2025"), `Episode page should not link to old local episode URL externally: ${path}`);
 }
 

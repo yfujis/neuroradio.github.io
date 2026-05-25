@@ -522,6 +522,48 @@ h3 {
   padding-top: 36px;
 }
 
+.episode-content {
+  border-top: 1px solid var(--line);
+  padding-top: 36px;
+}
+
+.episode-content h2 {
+  font-size: clamp(1.8rem, 3vw, 2.7rem);
+  margin-top: 36px;
+  margin-bottom: 18px;
+}
+
+.episode-content h2:first-child {
+  margin-top: 0;
+}
+
+.episode-content ul {
+  background: var(--panel);
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  padding: 22px 22px 22px 44px;
+}
+
+.episode-content li + li {
+  margin-top: 10px;
+}
+
+.episode-content figure {
+  margin: 28px 0;
+}
+
+.episode-content figure img {
+  border-radius: var(--radius);
+  border: 1px solid var(--line);
+  max-height: 720px;
+  object-fit: contain;
+}
+
+.episode-content iframe {
+  width: 100%;
+  border: 0;
+}
+
 .episode-nav {
   border-top: 1px solid var(--line);
   padding-top: 24px;
