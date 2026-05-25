@@ -152,7 +152,7 @@ function pageTemplate({ episode, title, summary, notes }) {
           <p class="eyebrow">Listen</p>
           <h2>NeuroRadio #${episode.number}</h2>
           <p>プレイヤーは本番移行時に埋め込み予定です。</p>
-          <a class="button primary" href="/#subscribe">購読する</a>
+          <a class="button primary" href="/#subscribe">SUBSCRIBE</a>
         </div>
       </div>`}
       <section class="episode-content" aria-label="${plainTitle} のShow NotesとEditorial Notes">
