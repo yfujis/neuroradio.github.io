@@ -80,6 +80,7 @@ Prediction-Errorに関する[最新プレプリント](https://www.biorxiv.org/c
 
 
 ![Episode 62 image](/assets/episodes/62-beyond-predictions-part-1/unnamed-700x466.jpg)
+*しょーへーとけんた*
 
 Editorial Notes:
 ライミングを含め色々猛省します! (古)
