@@ -56,8 +56,9 @@ Opponent-process theory of motivation. [Solomon and Corbit 1974](https://psycnet
 利根川研のReward engramとextinctionの共通性に関する[論文](https://www.cell.com/neuron/fulltext/S0896-6273(19)31091-8)。
 [GRABセンサー](https://www.nature.com/articles/s41592-020-00981-9): Genetically-encoded neuromodulation sensorの一つ。Yulong Li Lab。
 
-
-![Episode 13 image](/assets/episodes/13-non-stealth-marketing-the-inaugural-1st-author-review/ITC_GIF.gif)
+<figure>
+  <img src="/assets/episodes/13-non-stealth-marketing-the-inaugural-1st-author-review/ITC_GIF.gif" alt="Episode 13 image">
+</figure>
 
 Editorial Notes:
 論文、発見自体の面白さもそうですが、Extended Data含め、萩原さんのFigへのこだわりや実験の上手さがダダ洩れな感じが非常に良かったです。改めておめです～（宮脇）

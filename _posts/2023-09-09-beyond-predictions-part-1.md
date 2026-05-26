@@ -78,14 +78,9 @@ Prediction-Errorに関する[最新プレプリント](https://www.biorxiv.org/c
 [Marcus Stephenson-Jones](https://www.sainsburywellcome.org/web/groups/stephenson-jones-lab)
 [Tom Misch](https://tommisch.com/)
 
-
-<figure style="text-align: center;">
-  <img src="/assets/episodes/62-beyond-predictions-part-1/unnamed-700x466.jpg"
-       alt="Episode 62 image"
-       width="700">
-  <figcaption>
-    しょーへーとけんた
-  </figcaption>
+<figure>
+  <img src="/assets/episodes/62-beyond-predictions-part-1/unnamed-700x466.jpg" alt="Episode 62 image">
+  <figcaption>しょーへーとけんた</figcaption>
 </figure>
 
 Editorial Notes:

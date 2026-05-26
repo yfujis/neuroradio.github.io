@@ -60,15 +60,19 @@ Show Notes:
 [伊佐先生](https://nscinbiol.med.kyoto-u.ac.jp/member/%E4%BC%8A%E4%BD%90%E6%AD%A3/)
 [ぼじりか](https://alleninstitute.org/person/bosiljka-tasic/)
 
-空のラボスペースでデスクワークしてる風景、ニューセンチメンタリティー。
+<figure>
+  <img src="/assets/episodes/103-real-projections-and-tangential-matters/image-1-700x525.jpeg" alt="">
+  <figcaption>空のラボスペースでデスクワークしてる風景、ニューセンチメンタリティー。</figcaption>
+</figure>
 
-![](/assets/episodes/103-real-projections-and-tangential-matters/image-1-700x525.jpeg)
+<figure>
+  <img src="/assets/episodes/103-real-projections-and-tangential-matters/image-2-700x525.jpeg" alt="">
+</figure>
 
-![](/assets/episodes/103-real-projections-and-tangential-matters/image-2-700x525.jpeg)
-
-ポルトの街並み綺麗でした
-
-![](/assets/episodes/103-real-projections-and-tangential-matters/image-700x438.jpeg)
+<figure>
+  <img src="/assets/episodes/103-real-projections-and-tangential-matters/image-700x438.jpeg" alt="">
+  <figcaption>ポルトの街並み綺麗でした</figcaption>
+</figure>
 
 Editorial Notes:
 喋ろうとしてたことを結構喋り忘れました。The Pittの話とかしたかったんですが、やはりメモ作らんとだめだな(萩)

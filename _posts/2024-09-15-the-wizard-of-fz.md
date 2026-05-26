@@ -79,9 +79,6 @@ Peel-and-paste：[これ](https://www.nature.com/articles/s41586-021-04058-1/fig
 [OMEGAのペーパーが出た時のNews and Views](https://www.nature.com/articles/d41586-021-02461-2)
 [ミミウイルス](https://ja.wikipedia.org/wiki/%E3%83%9F%E3%83%9F%E3%82%A6%E3%82%A4%E3%83%AB%E3%82%B9)
 [Robert Desimone](https://desimonelab.org/)
-女子高生相手にも手を抜かない齋藤博士：
-
-![](/assets/episodes/79-the-wizard-of-fz/458161307_875870067818756_7598641591929284764_n-700x525.jpg)
 
 [RSIの成果報告会で受賞したのが公表されたページ](https://www.cee.org/newsevents/press-releases/students-earn-top-awards-39th-annual-research-science-institute)
 [CSHLのCRISPR Meeting](https://meetings.cshl.edu/meetings.aspx?meet=crispr&year=22)
@@ -92,9 +89,6 @@ Peel-and-paste：[これ](https://www.nature.com/articles/s41586-021-04058-1/fig
 [StreckerのCAST論文](https://www.science.org/doi/10.1126/science.aax9181)
 [Peiyu Xu](https://www.researchgate.net/profile/Peiyu-Xu-4)
 [Guilhem Faure](https://scholar.google.fr/citations?user=779olI4AAAAJ&hl=en)
-2022年末のFanzorチーム：
-
-![](/assets/episodes/79-the-wizard-of-fz/457579910_1097694975310227_1444176213297576972_n.jpg)
 
 [2023年の日本ゲノム編集学会大会](https://www2.aeplan.co.jp/ge2023/)
 [COVID-19で一緒に働いた](https://www.nejm.org/doi/10.1056/NEJMc2026172)
@@ -184,6 +178,16 @@ Rockefellerインタビュー[6人中2人](https://www.rockefeller.edu/events-an
 [アメトーーク！](https://www.tv-asahi.co.jp/ametalk/)
 [齋藤さんMITのアドレス](https://bcs.mit.edu/directory/makoto-saito)
 [CAR-T](https://www.novartis.com/jp-ja/research-development/car-t)
+
+<figure>
+  <img src="/assets/episodes/79-the-wizard-of-fz/458161307_875870067818756_7598641591929284764_n-700x525.jpg" alt="">
+  <figcaption>女子高生相手にも手を抜かない齋藤博士：</figcaption>
+</figure>
+
+<figure>
+  <img src="/assets/episodes/79-the-wizard-of-fz/457579910_1097694975310227_1444176213297576972_n.jpg" alt="">
+  <figcaption>2022年末のFanzorチーム：</figcaption>
+</figure>
 
 Editorial Notes:
 夢をみることができなければ、未来を変えることはできません。— 華麗なる一族（TBSテレビ, 原作・山崎豊子, 2007）（齋藤）

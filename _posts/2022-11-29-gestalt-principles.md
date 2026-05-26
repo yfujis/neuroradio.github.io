@@ -99,8 +99,10 @@ LY6Aのついての[報告１](https://doi.org/10.1016/j.ymthe.2019.02.013) [報
 [Gradinaruのラボから、マカクで通るかもね、のプレプリント](https://www.biorxiv.org/content/10.1101/2022.01.08.475342v1)
 [北海道はルスツでスキーをしようの学会](https://brainmind.jnns.org/index.php/wt2023/)
 
-
-![Episode 50 image](/assets/episodes/50-gestalt-principles/tricaine-700x607.jpg)
+<figure>
+  <img src="/assets/episodes/50-gestalt-principles/tricaine-700x607.jpg" alt="Episode 50 image">
+  <figcaption>from Barabási, et al., bioRxiv 2022.10.24.513526 (2022)</figcaption>
+</figure>
 
 Editorial Notes:
 バラバシって今の大学院生にも人気なんでしょうか（脇）

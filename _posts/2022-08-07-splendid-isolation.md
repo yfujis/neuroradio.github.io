@@ -106,8 +106,9 @@ Auto Patcher？：マテメソ読んだ感じ手動でした笑
 エッセイ１：[Maintaining the joy of discovery](https://elifesciences.org/articles/80711)
 エッセイ２：[Crossing oceans](https://elifesciences.org/articles/00477)
 
-
-![Episode 43 image](/assets/episodes/43-splendid-isolation/catch43-700x677.jpg)
+<figure>
+  <img src="/assets/episodes/43-splendid-isolation/catch43-700x677.jpg" alt="Episode 43 image">
+</figure>
 
 Editorial Notes:
 Sodium とナトリウム、Potassiumとカリウムが混ざりました（宮脇）

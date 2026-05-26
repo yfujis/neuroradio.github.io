@@ -57,10 +57,13 @@ AllenのEM, [VIPは一部のSOMにしかいってない](https://www.biorxiv.org
 [齋藤さんめっちゃ活躍してる](https://www.nature.com/articles/s41586-023-06356-2)
 五十嵐さんのNR回[1](/2021/09/15/23-poor-is-the-pupil-who-does-not-surpass-his-master-part-1/)[2&3](/2021/09/22/24-25-poor-is-the-pupil-who-does-not-surpass-his-master-part-2-3/)[4](/2021/10/08/26-poor-is-the-pupil-who-does-not-surpass-his-master-part-4/)
 
+<figure>
+  <img src="/assets/episodes/63-beyond-predictions-part-2/unnamed-2-1-700x525.jpg" alt="Episode 63 image">
+</figure>
 
-![Episode 63 image](/assets/episodes/63-beyond-predictions-part-2/unnamed-2-1-700x525.jpg)
-
-![Episode 63 image](/assets/episodes/63-beyond-predictions-part-2/unnamed-1-1-700x525.jpg)
+<figure>
+  <img src="/assets/episodes/63-beyond-predictions-part-2/unnamed-1-1-700x525.jpg" alt="Episode 63 image">
+</figure>
 
 Editorial Notes:
 NRをお聴きの方々にとって有益な情報を盛り込めた気は全くしませんが、収録はとにかく楽しかったです。こいつなんか楽しそうにやってんなーぐらいに思っていただければ本望です。(古)

@@ -56,9 +56,6 @@ Meyer研からBDRで独立した方：調べたら[小長谷 有美さん](https
 [Future PI Slack](https://futurepislack.wordpress.com/) *は井上さんによる紹介でした
 [かりごうさん回](/2022/01/24/32-emotional-intent-of-a-pd-soon-to-be-a-pi/)
 Referenceをお願いした方々: [Paul Worley](https://neuroscience.jhu.edu/research/faculty/97) [狩野方伸先生](https://www3.med.teikyo-u.ac.jp/profile/ja.3865415e46b20070.html) [かりごう (Tomomi Karigo) さん](https://neuroscience.jhu.edu/research/faculty/161) [上阪さん](https://scholar.google.com/citations?user=fc8QHZ8AAAAJ&hl=ja)
-JaneliaのHopkins Neuroscience Retreat: 夜のDJ ダンスパーティの様子を貼っておきます（長濱）。
-
-![](/assets/episodes/96-crash-landing-on-u/Untitled-picture-700x525.png)
 
 [Nelson Spruston](https://www.janelia.org/people/nelson-spruston)
 Max Planck: Max Planck Florida Institute for Neuroscience（MPFI）
@@ -100,6 +97,11 @@ Bipolar disorderとSchizophreniaがgeneticに似ている [1](https://academic.o
 2026 Fall 4/6/2026-4/15/2026
 ポスドク：随時募集（予算次第ですが、興味がある方はお気軽にご連絡ください by長濱）
 [Lab HP](https://sites.google.com/view/nagahama-neuro-lab-unist/home)
+
+<figure>
+  <img src="/assets/episodes/96-crash-landing-on-u/Untitled-picture-700x525.png" alt="">
+  <figcaption>JaneliaのHopkins Neuroscience Retreat: 夜のDJ ダンスパーティの様子を貼っておきます（長濱）。</figcaption>
+</figure>
 
 Editorial Notes:
 熱意のある大学院生・ポスドクの方々絶賛募集中です。ラボメンが皆それぞれにhappyでいられるような環境作りに向けて努力していく所存です。”日本に帰るつもりだったなら、医師免許使えよ”というツッコミは、自身に臨床医としての自覚が欠如しているため、お控えください（長濱）。

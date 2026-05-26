@@ -56,8 +56,9 @@ Deisserothの[Projection](https://www.amazon.com/Projections-Story-Emotions-Karl
 LancetになったイスラエルMoHの[論文](https://doi.org/10.1016/S0140-6736(21)00947-8)。特に65歳以上では無症候感染への効果は&lt;90%なので、まだしばらくはuniveral maskingは有効だと個人的には思うのですが...。
 5G繋がる: ワクチンを打つこと (*なお副反応と免疫獲得には相関はないようなので、saline control(爆)でない限りは問題無いようです)
 
-
-![Episode 11 image](/assets/episodes/11-sequencing-the-connectome/%E7%84%A1%E9%A1%8C.png)
+<figure>
+  <img src="/assets/episodes/11-sequencing-the-connectome/%E7%84%A1%E9%A1%8C.png" alt="Episode 11 image">
+</figure>
 
 Editorial Notes:
 大きいFigは迫力がありますがレジェンドの可読性が低いのが難点ですね（宮脇）
