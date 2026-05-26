@@ -1,2 +1,6 @@
 .superpowers/
 .worktrees/
+_site/
+_site-jekyll-test/
+.jekyll-cache/
+.sass-cache/

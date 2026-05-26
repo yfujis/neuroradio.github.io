@@ -1,0 +1,20 @@
+<!doctype html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{% if page.title %}{{ page.title }} | {% endif %}NeuroRadio</title>
+  <meta name="description" content="{{ page.summary | default: site.description | strip_html | escape }}">
+  <meta property="og:title" content="{% if page.title %}{{ page.title }} | {% endif %}NeuroRadio">
+  <meta property="og:description" content="{{ page.summary | default: site.description | strip_html | escape }}">
+  <meta property="og:type" content="{% if page.layout == 'episode' %}article{% else %}website{% endif %}">
+  <meta property="og:image" content="{{ '/assets/neuroradio-cover.svg' | absolute_url }}">
+  <link rel="stylesheet" href="{{ '/styles.css?v=20260526' | relative_url }}">
+</head>
+<body>
+  <a class="skip-link" href="#main">本文へスキップ</a>
+  {% include header.html %}
+  {{ content }}
+  <script src="{{ '/script.js?v=20260526' | relative_url }}"></script>
+</body>
+</html>

@@ -1,0 +1,34 @@
+title: NeuroRadio
+description: 神経科学者による日本語Podcast。
+url: "https://neuroradio.tokyo"
+baseurl: ""
+timezone: Asia/Tokyo
+markdown: kramdown
+permalink: /:year/:month/:day/:title/
+
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: episode
+
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - tools
+  - public
+  - docs
+  - admin.html
+  - edit.html
+  - assets/admin.js
+  - assets/editor.js
+  - data/new-episode.example.json
+  - 2021
+  - 2022
+  - 2023
+  - 2024
+  - 2025
+  - 2026

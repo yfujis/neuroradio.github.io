@@ -1,0 +1,32 @@
+---
+layout: default
+title: エピソード
+summary: NeuroRadioのエピソード一覧。新しい順に表示しています。
+---
+<main id="main" class="archive-page">
+  <section class="archive-hero" aria-labelledby="archive-title">
+    <p class="eyebrow">Episodes</p>
+    <h1 id="archive-title">エピソード</h1>
+    <p class="hero-lede">新しい順に表示しています。</p>
+  </section>
+
+  <section class="archive-filter" aria-live="polite" hidden>
+    <p class="eyebrow">Filtered by</p>
+    <div class="selected-filters"></div>
+    <p><a href="{{ '/episodes/' | relative_url }}">すべて表示</a></p>
+  </section>
+
+  <section class="archive-list" aria-label="エピソード一覧">
+    {% for post in site.posts %}
+      <article class="archive-episode" data-topics="{{ post.topics | join: '|' }}" data-performers="{{ post.performers | join: '|' }}">
+        <p class="episode-date">{{ post.date | date: "%Y-%m-%d" }}</p>
+        <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
+        <p>{{ post.summary }}</p>
+        {% include tag_groups.html episode=post %}
+      </article>
+    {% endfor %}
+  </section>
+  <nav class="pagination" aria-label="エピソード一覧ページ" data-client-pagination></nav>
+</main>
+
+{% include footer.html %}

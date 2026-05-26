@@ -1,131 +1,116 @@
-# NeuroRadio Static Site
+# NeuroRadio Jekyll Site
 
-NeuroRadioのGitHub Pages向け静的サイトプロトタイプです。
+NeuroRadioのGitHub Pages向けJekyllサイトです。現在の見た目は保ちつつ、エピソードはMinimal Mistakesと同じように `_posts/` のMarkdownファイルとして管理します。
+
+## Backup
+
+Jekyll化する前の静的生成版はここにコピーしてあります。
+
+```text
+../backups/codex-neuroradio-static-showcase-before-jekyll-20260526
+```
 
 ## Preview locally
 
-For producer editing, serve the working folder:
+初回だけ依存関係を入れます。
 
 ```bash
-python3 -m http.server 4173
+bundle install
+```
+
+ローカルプレビュー:
+
+```bash
+bundle exec jekyll serve
 ```
 
 Then open:
 
 ```text
-http://localhost:4173/
+http://localhost:4000/
 ```
 
-For a public preview that excludes the local producer form:
+JekyllがMarkdownの変更を監視して自動で再生成します。
 
-```bash
-node tools/build-public.mjs
-python3 -m http.server 4174 --directory public
-```
-
-Then open:
-
-```text
-http://localhost:4174/
-```
-
-## GitHub Pages deployment notes
-
-This site is intentionally plain static HTML/CSS/JavaScript. The public deploy artifact is generated into:
-
-```text
-public/
-```
-
-`admin.html` and `assets/admin.js` are local producer tools and are not copied into `public/`.
-
-Recommended Pages setup once the repo is ready to publish:
-
-1. Push this branch or copy these files to the repository branch you want to publish.
-2. In GitHub, open `Settings` -> `Pages`.
-3. Set source to `GitHub Actions`.
-4. Run the included `Deploy static site to GitHub Pages` workflow.
-
-The workflow runs `node tools/build-public.mjs` and deploys only the generated `public/` folder.
-
-`.nojekyll` is included so GitHub Pages serves the static files directly without Jekyll processing.
+If local `bundle install` hits an EventMachine/native extension issue on macOS, the GitHub Actions build should still work on Ubuntu. On this machine I verified the site with the already-installed system Jekyll.
 
 ## Add a new episode
 
-The source of truth is:
+`_posts/` に新しいMarkdownファイルを追加します。ファイル名は日付から始めます。
 
 ```text
-data/episodes.json
+_posts/2026-06-01-new-episode-title.md
 ```
 
-The easiest workflow is to use the local form:
+テンプレート:
+
+```markdown
+---
+layout: episode
+title: "#105 New Episode Title"
+episode_number: "105"
+date: 2026-06-01
+permalink: /2026/06/01/105-new-episode-title/
+spotify: "https://open.spotify.com/embed/episode/..."
+performers: ["ゲスト名", "宮脇健行", "藤島悠貴"]
+topics: ["ゲスト回", "研究生活"]
+summary: "ここにエピソードの短い説明を書きます。"
+---
+
+Summary:
+ここにエピソードの短い説明を書きます。
+
+Show Notes:
+1つ目のShow Note
+2つ目のShow Note
+
+Editorial Notes:
+編集後記をここに書きます。（藤島）
+複数人のコメントは項目を分けると読みやすいです。（宮脇）
+```
+
+本文側はGoogle Docsから貼りやすいラベル形式です。リンクはMarkdown形式で書きます。
+
+```markdown
+[表示テキスト](https://example.com)
+```
+
+## Edit an episode
+
+既存エピソードは `_posts/` の該当ファイルを編集します。例:
 
 ```text
-http://localhost:4173/admin.html
+_posts/2026-04-08-real-projections-and-tangential-matters.md
 ```
 
-Paste a Google Docs-style draft with labels such as `Title:`, `Show Notes:`, and `Editorial Notes:`.
-The form generates the episode JSON for you.
+`bundle exec jekyll serve` 実行中なら、保存するとローカルサイトが自動で更新されます。
 
-Save the generated JSON to `/tmp/neuroradio-new-episode.json`, then run:
+## GitHub Pages deployment
 
-```bash
-node tools/add-episode.mjs /tmp/neuroradio-new-episode.json
-```
+GitHub PagesはGitHub Actionsで `_site/` をデプロイします。`.github/workflows/pages.yml` が `bundle exec jekyll build` を実行します。
 
-You can also copy the draft template manually:
+推奨設定:
 
-```bash
-cp data/new-episode.example.json /tmp/neuroradio-new-episode.json
-```
+1. GitHubで `Settings` -> `Pages` を開く。
+2. Sourceを `GitHub Actions` にする。
+3. mainブランチにpushする、またはworkflowを手動実行する。
 
-Edit `/tmp/neuroradio-new-episode.json`, then run:
+## Notes
 
-```bash
-node tools/add-episode.mjs /tmp/neuroradio-new-episode.json
-```
-
-The command will:
-
-1. add the new episode to `data/episodes.json`
-2. generate the individual episode page at the original-style path
-3. update `index.html` so the new episode becomes the latest episode
-4. run the static site checks
-
-Required draft fields:
-
-- `number`
-- `title`
-- `date`
-- `summary`
-- `spotifyEmbedSrc`
-- `showNotes`
-- `editorialNotes`
-
-Optional:
-
-- `topics`
-- `path` if you need to override the automatically generated path
-- `showNotesHtml` / `editorialNotesHtml` for imported WordPress-style HTML
-
-You can also edit `data/episodes.json` directly and rebuild:
-
-```bash
-node tools/build-site.mjs
-node tools/check-build-workflow.mjs
-node tools/check-static-site.mjs
-```
+- `_posts/*.md` がエピソードの編集元です。
+- `permalink` を元サイトと同じURLにすることで、移行後もURLを維持します。
+- `_plugins/episode_parser.rb` が `Summary:`, `Show Notes:`, `Editorial Notes:` のラベル形式を読み取り、現在のデザインに合うHTMLへ変換します。
+- `styles.css` と `script.js` は現在のNeuroRadioデザインをそのまま使います。
 
 ## Files
 
-- `index.html` - main Japanese podcast homepage
+- `_posts/*.md` - エピソード本文
+- `_layouts/episode.html` - 個別エピソードの見た目
+- `_layouts/default.html` - 共通HTML
+- `_includes/` - header/footer/tag UI
+- `_plugins/episode_parser.rb` - ラベル形式のMarkdownを読むJekyll plugin
+- `index.html` - ホーム
+- `episodes/index.html` - エピソード一覧
+- `otayori/index.html` - お便りページ
 - `styles.css` - responsive visual system
-- `script.js` - mobile navigation and topic filtering
-- `assets/neuroradio-cover.svg` - local cover artwork
-- `data/episodes.json` - episode data source
-- `tools/build-site.mjs` - generator for homepage and episode pages
-- `tools/build-public.mjs` - generator for the public deploy folder without admin tools
-- `tools/add-episode.mjs` - helper for adding one new episode from a draft JSON file
-- `.github/workflows/pages.yml` - GitHub Pages workflow that deploys only `public/`
-- `404.html` - GitHub Pages fallback page
-- `.nojekyll` - disables Jekyll processing on GitHub Pages
+- `script.js` - mobile navigation and archive filtering/pagination

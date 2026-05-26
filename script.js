@@ -1,8 +1,15 @@
 (function () {
   const navToggle = document.querySelector(".nav-toggle");
   const navLinks = document.querySelector("#nav-links");
-  const topicFilters = document.querySelectorAll(".topic-filter");
-  const episodeCards = document.querySelectorAll(".episode-card");
+  const archiveFilter = document.querySelector(".archive-filter");
+  const selectedFilters = document.querySelector(".selected-filters");
+  const archiveEpisodes = document.querySelectorAll(".archive-episode");
+  const archiveList = document.querySelector(".archive-list");
+  const archivePagination = document.querySelector("[data-client-pagination]");
+  const archiveBasePath = window.location.pathname.includes("/episodes/")
+    ? `${window.location.pathname.split("/episodes/")[0]}/episodes/`
+    : "/episodes/";
+  const pageSize = 10;
 
   function closeNavigation() {
     if (!navToggle || !navLinks) {
@@ -24,25 +31,155 @@
     });
   }
 
-  function setActiveFilter(activeButton) {
-    topicFilters.forEach(function (button) {
-      button.classList.toggle("active", button === activeButton);
+  function selectedValues(params, name) {
+    return params.getAll(name).filter(Boolean);
+  }
+
+  function splitDataList(value) {
+    return (value || "").split("|").filter(Boolean);
+  }
+
+  function hasEveryFilter(values, selected) {
+    return selected.every(function (item) {
+      return values.includes(item);
     });
   }
 
-  function filterEpisodes(filter) {
-    episodeCards.forEach(function (card) {
-      const topics = (card.dataset.topics || "").split(/\s+/).filter(Boolean);
-      const shouldShow = filter === "all" || topics.includes(filter);
-      card.hidden = !shouldShow;
+  function renderSelectedFilters(topics, performers) {
+    if (!selectedFilters) return;
+
+    selectedFilters.replaceChildren();
+
+    function icon(type) {
+      const wrapper = document.createElement("span");
+      wrapper.className = "selected-filter-icon";
+      wrapper.setAttribute("aria-hidden", "true");
+      wrapper.innerHTML = type === "performer"
+        ? '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2a3 3 0 0 0-3 3v7a3 3 0 0 0 6 0V5a3 3 0 0 0-3-3Z"></path><path d="M19 10v2a7 7 0 0 1-14 0v-2"></path><path d="M12 19v3"></path></svg>'
+        : '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 14c.2-1 .7-1.7 1.5-2.5A5 5 0 1 0 8 11.5c.8.8 1.3 1.5 1.5 2.5"></path><path d="M9 18h6"></path><path d="M10 22h4"></path></svg>';
+      return wrapper;
+    }
+
+    function chip(type, value, label) {
+      const item = document.createElement("span");
+      item.className = `selected-filter ${type}-filter`;
+      item.setAttribute("aria-label", `${label}: ${value}`);
+      item.append(icon(type), document.createTextNode(value));
+      selectedFilters.append(item);
+    }
+
+    performers.forEach(function (performer) {
+      chip("performer", performer, "出演者");
+    });
+
+    topics.forEach(function (topic) {
+      chip("topic", topic, "Topic");
     });
   }
 
-  topicFilters.forEach(function (button) {
-    button.addEventListener("click", function () {
-      const filter = button.dataset.filter || "all";
-      setActiveFilter(button);
-      filterEpisodes(filter);
+  function uniqueValues(values) {
+    return Array.from(new Set(values.filter(Boolean)));
+  }
+
+  function applyArchiveTagLinks(topics, performers) {
+    if (!archiveList) return;
+
+    archiveList.querySelectorAll(".tags a[data-filter-type]").forEach(function (link) {
+      const type = link.dataset.filterType;
+      const value = link.textContent.trim();
+      const params = new URLSearchParams();
+      const nextPerformers = type === "performer" ? uniqueValues([...performers, value]) : performers;
+      const nextTopics = type === "topic" ? uniqueValues([...topics, value]) : topics;
+
+      nextPerformers.forEach(function (performer) {
+        params.append("performer", performer);
+      });
+      nextTopics.forEach(function (topic) {
+        params.append("topic", topic);
+      });
+
+      link.href = `${archiveBasePath}?${params.toString()}`;
     });
-  });
+  }
+
+  if (archiveFilter && selectedFilters && archiveEpisodes.length > 0) {
+    const params = new URLSearchParams(window.location.search);
+    const legacyTag = params.get("tag");
+    const topics = uniqueValues(selectedValues(params, "topic"));
+    const performers = uniqueValues(selectedValues(params, "performer"));
+
+    if (legacyTag && topics.length === 0) {
+      topics.push(legacyTag);
+    }
+
+    applyArchiveTagLinks(topics, performers);
+
+    function matchingEpisodes() {
+      return Array.from(archiveEpisodes).filter(function (episode) {
+        const episodeTopics = splitDataList(episode.dataset.topics);
+        const episodePerformers = splitDataList(episode.dataset.performers);
+        return hasEveryFilter(episodeTopics, topics) && hasEveryFilter(episodePerformers, performers);
+      });
+    }
+
+    function pageUrl(pageNumber) {
+      const next = new URLSearchParams(window.location.search);
+      if (pageNumber <= 1) {
+        next.delete("page");
+      } else {
+        next.set("page", String(pageNumber));
+      }
+      const query = next.toString();
+      return query ? `${archiveBasePath}?${query}` : archiveBasePath;
+    }
+
+    function renderPagination(totalPages, currentPage) {
+      if (!archivePagination) return;
+      archivePagination.replaceChildren();
+      if (totalPages <= 1) return;
+
+      const numbers = document.createElement("div");
+      numbers.className = "page-numbers";
+      for (let pageNumber = 1; pageNumber <= totalPages; pageNumber += 1) {
+        if (pageNumber === currentPage) {
+          const current = document.createElement("span");
+          current.setAttribute("aria-current", "page");
+          current.textContent = String(pageNumber);
+          numbers.append(current);
+        } else {
+          const link = document.createElement("a");
+          link.href = pageUrl(pageNumber);
+          link.textContent = String(pageNumber);
+          numbers.append(link);
+        }
+      }
+      archivePagination.append(numbers);
+
+      if (currentPage < totalPages) {
+        const nextLink = document.createElement("a");
+        nextLink.className = "next-page";
+        nextLink.href = pageUrl(currentPage + 1);
+        nextLink.textContent = "次へ";
+        archivePagination.append(nextLink);
+      }
+    }
+
+    const matches = matchingEpisodes();
+    const totalPages = Math.max(1, Math.ceil(matches.length / pageSize));
+    const requestedPage = Number(params.get("page") || "1");
+    const currentPage = Math.min(Math.max(requestedPage || 1, 1), totalPages);
+    const start = (currentPage - 1) * pageSize;
+    const visible = new Set(matches.slice(start, start + pageSize));
+
+    archiveEpisodes.forEach(function (episode) {
+      episode.hidden = !visible.has(episode);
+    });
+    renderPagination(totalPages, currentPage);
+
+    if (topics.length > 0 || performers.length > 0) {
+      renderSelectedFilters(topics, performers);
+      archiveFilter.hidden = false;
+      archiveFilter.setAttribute("data-count", String(matches.length));
+    }
+  }
 })();
