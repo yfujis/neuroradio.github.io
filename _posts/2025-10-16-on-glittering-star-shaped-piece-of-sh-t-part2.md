@@ -5,8 +5,8 @@ episode_number: "98"
 date: 2025-10-16
 permalink: /2025/10/16/98-on-glittering-star-shaped-piece-of-sh-t-part2/
 spotify: "https://open.spotify.com/embed/episode/6yjPfScHjo3HIZCFNRbfFL?utm_source=generator"
-performers: []
-topics: []
+performers: ["長井淳", "萩原賢太", "宮脇健行", "藤島悠貴"]
+topics: ["ゲスト回", "グリア", "アストロサイト", "記憶"]
 summary: "理研CBSの長井淳さん(@JunNagaiLab)ゲスト回(後編)。アストロサイトが日をまたいだエピソード記憶の安定化に寄与するという新作論文の解説、人の採用、PIとしていかに研究に時間を使うかなど (9/19 収録)"
 ---
 

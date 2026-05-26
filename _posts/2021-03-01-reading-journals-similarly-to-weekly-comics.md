@@ -5,8 +5,8 @@ episode_number: "1"
 date: 2021-03-01
 permalink: /2021/03/01/1-reading-journals-similarly-to-weekly-comics/
 spotify: "https://anchor.fm/neuroradio/embed/episodes/1-Reading-journals-similarly-to-weekly-comics-eruho7"
-performers: []
-topics: []
+performers: ["萩原賢太", "宮脇健行"]
+topics: ["雑談", "研究生活"]
 summary: "ポッドキャスト紹介回として、主にポッドキャストを始めた動機に関して２人で話しました。今後予定しているコンテンツ、等"
 ---
 

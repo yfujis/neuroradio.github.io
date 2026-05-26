@@ -5,8 +5,8 @@ episode_number: "58"
 date: 2023-06-29
 permalink: /2023/06/29/58-not-necessarily-necessary/
 spotify: "https://podcasters.spotify.com/pod/show/neuroradio/embed/episodes/58-Not-necessarily-necessary-e26b14n"
-performers: []
-topics: []
+performers: ["萩原賢太", "宮脇健行"]
+topics: ["雑談", "論文解説", "データ解析", "技術"]
 summary: "ラボマネ・プロマネ事情、クラウドでのデータ管理・解析、マウス/キーボード談義。論文紹介は、AAV搭載可能な最小プロモーター、AAVのBBB通過に関与する受容体の同定、高所恐怖症の回路、嗅内皮質活動の回転対称性の変化、必要十分の不必要性、について (6/25収録)"
 ---
 

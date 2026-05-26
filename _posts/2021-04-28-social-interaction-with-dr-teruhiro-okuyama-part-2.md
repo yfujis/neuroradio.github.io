@@ -5,8 +5,8 @@ episode_number: "9"
 date: 2021-04-28
 permalink: /2021/04/28/9-social-interaction-with-dr-teruhiro-okuyama-part-2/
 spotify: "https://anchor.fm/neuroradio/embed/episodes/9-Social-Interaction-with-Dr--Teruhiro-Okuyama--Part-2-evqp2q"
-performers: []
-topics: []
+performers: ["奥山輝大", "萩原賢太", "宮脇健行"]
+topics: ["ゲスト回", "記憶", "社会行動", "論文解説"]
 summary: "奥山輝大さん（@Teru_Okuyama）ゲスト回後編。メダカ論文の裏話、利根川進先生と一緒に研究をすること、LOF/GOF一辺倒の研究に対して思うこと、などをお話しいただきました。"
 ---
 

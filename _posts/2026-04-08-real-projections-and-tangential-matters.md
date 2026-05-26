@@ -6,7 +6,7 @@ date: 2026-04-08
 permalink: /2026/04/08/103-real-projections-and-tangential-matters/
 spotify: "https://creators.spotify.com/pod/profile/neuroradio/embed/episodes/103-Real-Projections-and-Tangential-Matters-e3hja58/a-acj1het"
 performers: ["宮脇健行", "藤島悠貴"]
-topics: ["学会", "研究生活"]
+topics: ["雑談", "学会", "研究生活", "旅行"]
 summary: "COSYNE2026の様子、ポルトガル旅行、萩原ラボ立ち上げ等、近況報告雑談。 (2026/04/04 収録)"
 ---
 

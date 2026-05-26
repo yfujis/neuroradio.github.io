@@ -5,8 +5,8 @@ episode_number: "22"
 date: 2021-09-08
 permalink: /2021/09/08/22-artificial-artifactual-neural-manipulations/
 spotify: "https://anchor.fm/neuroradio/embed/episodes/22-ArtificialArtifactual-neural-manipulations-e171dob"
-performers: []
-topics: []
+performers: ["萩原賢太", "宮脇健行"]
+topics: ["雑談", "ライティング", "オプトジェネティクス", "論文解説"]
 summary: "印象に残っている歴史上の研究者、総説のライティング、オプトジェネティクスのアーティファクトを取り扱った論文等について話しました (9/5収録)"
 ---
 

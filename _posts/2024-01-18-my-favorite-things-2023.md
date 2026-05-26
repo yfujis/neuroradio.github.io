@@ -5,8 +5,8 @@ episode_number: "71"
 date: 2024-01-18
 permalink: /2024/01/18/71-my-favorite-things-2023/
 spotify: "https://podcasters.spotify.com/pod/show/neuroradio/embed/episodes/71-My-Favorite-Things-2023-e2ei62n"
-performers: []
-topics: []
+performers: ["萩原賢太", "宮脇健行"]
+topics: ["雑談", "お便り", "音楽"]
 summary: "新年のんびり雑談回。去年の振り返りと今年の抱負、おたより回は実現可能なのか。後半は2023年お気に入りアルバム10選、お気に入りYouTubeチャンネル5選。(1/11収録)"
 ---
 

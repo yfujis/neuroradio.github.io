@@ -5,8 +5,8 @@ episode_number: "23"
 date: 2021-09-15
 permalink: /2021/09/15/23-poor-is-the-pupil-who-does-not-surpass-his-master-part-1/
 spotify: "https://anchor.fm/neuroradio/embed/episodes/23-Poor-is-the-pupil-who-does-not-surpass-his-master---Part-1-e1783qr"
-performers: []
-topics: []
+performers: ["五十嵐啓", "萩原賢太", "宮脇健行"]
+topics: ["ゲスト回", "研究生活", "留学", "PI・キャリア"]
 summary: "UC Irvineの五十嵐啓さん(@kei_m_igarashi)にお越しいただき、学部・大学院時代のお話、特に『失敗談』– あるいは地獄の釜の底 – について伺いました（8/31収録）"
 ---
 

@@ -5,8 +5,8 @@ episode_number: "75"
 date: 2024-07-02
 permalink: /2024/07/02/75-dreaming-of-dreams/
 spotify: "https://podcasters.spotify.com/pod/show/neuroradio/embed/episodes/75-Dreaming-of-dreams-e2lfk4e"
-performers: []
-topics: []
+performers: ["千歳雄大", "萩原賢太", "宮脇健行"]
+topics: ["ゲスト回", "記憶", "PI・キャリア", "留学"]
 summary: "Northwestern Universityで来年1月から独立する千歳雄大さん(@yutasenzai)さんがゲスト。BuzsakiラボでのPhD、Scanzianiラボでのポスドク、ジョブハントで苦労したこと、独立後の研究計画について伺いました (6/20 収録)"
 ---
 

@@ -5,8 +5,8 @@ episode_number: "50"
 date: 2022-11-29
 permalink: /2022/11/29/50-gestalt-principles/
 spotify: "https://anchor.fm/neuroradio/embed/episodes/50-Gestalt-principles-e1rjs8l"
-performers: []
-topics: []
+performers: ["萩原賢太", "宮脇健行"]
+topics: ["雑談", "学会", "論文解説", "オプトジェネティクス"]
 summary: "久々のSfN参加、初Thanksgiving、Twitterからの移行に関する雑談。論文紹介は、カリウム選択的チャネルロドプシンの構造、魚の脳発達は氏か育ちか、プルダウンアッセイと機械学習によるAAVの指向進化、など (11/26収録)"
 ---
 

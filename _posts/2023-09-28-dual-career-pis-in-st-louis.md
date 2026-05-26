@@ -5,8 +5,8 @@ episode_number: "65"
 date: 2023-09-28
 permalink: /2023/09/28/65-dual-career-pis-in-st-louis/
 spotify: "https://podcasters.spotify.com/pod/show/neuroradio/embed/episodes/65-Dual-career-PIs-in-St--Louis-e29dofh"
-performers: []
-topics: []
+performers: ["井上昌俊", "井上清香", "萩原賢太", "宮脇健行"]
+topics: ["ゲスト回", "PI・キャリア", "ジョブハント", "研究生活"]
 summary: "Washington University in St. Louis でそれぞれ独立PIになる井上昌俊さん（@feynman1104）と井上清香さん（@s_k_inoue）がゲスト。最新ジョブハント事情、パートナーとのジョブハント、WashUでの研究プランなど（9/5 収録）"
 ---
 

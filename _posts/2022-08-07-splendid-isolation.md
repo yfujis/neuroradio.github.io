@@ -5,8 +5,8 @@ episode_number: "43"
 date: 2022-08-07
 permalink: /2022/08/07/43-splendid-isolation/
 spotify: "https://anchor.fm/neuroradio/embed/episodes/43--Splendid-isolation-e1m6p54"
-performers: []
-topics: []
+performers: ["萩原賢太", "宮脇健行"]
+topics: ["雑談", "論文解説", "オプトジェネティクス", "ドパミン"]
 summary: "伏線回収、円安・オイル高騰中の海外生活・学会参加に関する雑談など。後半は、SNcドパミン神経の細胞体と軸索＠線条体の活動をサブタイプ毎に観察した仕事、カリウム選択的なチャネルロドプシンに関する論文×２、Eve Marderのエッセイを元にしたディスカッション（7/16収録）"
 ---
 

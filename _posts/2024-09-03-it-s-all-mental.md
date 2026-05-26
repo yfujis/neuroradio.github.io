@@ -5,8 +5,8 @@ episode_number: "78"
 date: 2024-09-03
 permalink: /2024/09/03/78-it-s-all-mental/
 spotify: "https://podcasters.spotify.com/pod/show/neuroradio/embed/episodes/78-Its-all-mental-e2ntv3r"
-performers: []
-topics: []
+performers: ["萩原賢太", "宮脇健行"]
+topics: ["雑談", "論文解説", "Placebo", "技術"]
 summary: "神経科学会と関連ソーシャル振り返り、Paperpileの運用、Figを作るためのソフトウェアについて雑談。後半は、任意の抗原をトリガーとして働くGPCR、“Placebo”による鎮痛を担うかもしれない神経回路について (9/1収録)"
 ---
 

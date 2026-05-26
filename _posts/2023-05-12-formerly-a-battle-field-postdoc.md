@@ -5,8 +5,8 @@ episode_number: "56"
 date: 2023-05-12
 permalink: /2023/05/12/56-formerly-a-battle-field-postdoc/
 spotify: "https://podcasters.spotify.com/pod/show/neuroradio/embed/episodes/56-Formerly-a-battle-field-postdoc-e23t6eb"
-performers: []
-topics: []
+performers: ["田坂元一", "萩原賢太", "宮脇健行"]
+topics: ["ゲスト回", "研究生活", "留学", "論文解説"]
 summary: "理研BDR宮道ラボの田坂元一さん aka 戦場ポスドクさんがゲスト。Adiラボ＠ヘブライ大学での仕事の背景、イスラエルでの生活、最新プレプリントのディスカッション (5/8 収録)"
 ---
 

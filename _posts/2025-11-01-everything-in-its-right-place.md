@@ -6,7 +6,7 @@ date: 2025-11-01
 permalink: /2025/11/01/100-everything-in-its-right-place/
 spotify: "https://open.spotify.com/embed/episode/3fntvnZRFXDFHXdSDEvgLW?utm_source=generator&amp;t=0"
 performers: ["萩原賢太", "宮脇健行", "藤島悠貴"]
-topics: ["PI・キャリア", "研究生活", "ゲスト回"]
+topics: ["ゲスト回", "PI・キャリア", "研究生活", "記憶"]
 summary: "自然科学研究機構・生理学研究所にて独立する萩原賢太さんゲスト回。アメリカの現状と脱出に至る過程、立ち上げるラボでのプロジェクト、五十嵐ラボ@東北大、など。 (9/16 収録)"
 ---
 

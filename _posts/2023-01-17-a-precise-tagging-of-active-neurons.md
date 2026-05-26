@@ -5,8 +5,8 @@ episode_number: "51"
 date: 2023-01-17
 permalink: /2023/01/17/51-a-precise-tagging-of-active-neurons/
 spotify: "https://anchor.fm/neuroradio/embed/episodes/51-A-precise-tagging-of-active-neurons-e1thtd3"
-performers: []
-topics: []
+performers: ["長濱健一郎", "萩原賢太", "宮脇健行"]
+topics: ["ゲスト回", "イメージング", "細胞標識", "キャリア"]
 summary: "Hyungbae Kwonラボの長濱健一郎さん(@k_hammer_1001)ゲスト回。初期研修から基礎研究に進んだ経緯、狩野研でのスライスパッチャー生活、Hyungbae Kwonラボの現在の方向性、最近のST Cal..."
 ---
 

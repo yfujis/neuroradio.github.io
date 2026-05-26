@@ -5,8 +5,8 @@ episode_number: "10"
 date: 2021-04-29
 permalink: /2021/04/29/10-retrospection-of-engrams/
 spotify: "https://anchor.fm/neuroradio/embed/episodes/10-Retrospection-of-Engrams-e100nl5"
-performers: []
-topics: []
+performers: ["萩原賢太", "宮脇健行"]
+topics: ["雑談", "記憶", "論文解説"]
 summary: "ゲスト回を振り返ってEngramについて雑談したり、最近目にした面白い論文をフラッシュトーク的に紹介しあったりしました。(収録:4/24)"
 ---
 

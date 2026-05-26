@@ -5,8 +5,8 @@ episode_number: "24"
 date: 2021-09-22
 permalink: /2021/09/22/24-and-25-poor-is-the-pupil-who-does-not-surpass-his-master-part-2-and-3/
 spotify: "https://anchor.fm/neuroradio/embed/episodes/24-Poor-is-the-pupil-who-does-not-surpass-his-master---Part-2-e17h18b"
-performers: []
-topics: []
+performers: ["五十嵐啓", "萩原賢太", "宮脇健行"]
+topics: ["ゲスト回", "研究生活", "PI・キャリア", "記憶"]
 summary: "Part 2: UC Irvineの五十嵐啓さん(@kei_m_igarashi)にお越しいただき、モーザーラボでのポスドク時代、ジョブハント、独立してからのお話をしていただきました。そして最後に今回のNature論文を少し頭出ししていただきました（8/31収録）"
 ---
 

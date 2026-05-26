@@ -5,8 +5,8 @@ episode_number: "31"
 date: 2022-01-15
 permalink: /2022/01/15/31-new-moves-new-variants/
 spotify: "https://anchor.fm/neuroradio/embed/episodes/31-New-moves--new-variants-e1d0lhe"
-performers: []
-topics: []
+performers: ["萩原賢太", "宮脇健行"]
+topics: ["雑談", "研究生活", "ウイルス・トレーシング"]
 summary: "大陸をまたいでの２人収録。オミクロン株が蔓延する中での新生活セットアップ、Allen Institute for Neural Dynamicsの第一印象など。後半では、最近神経科学界隈で話題のウイルスの新規変異（AAV.CAP-B10）や弱毒ワクチン（YFV-17D）について（1/4収録）"
 ---
 

@@ -5,8 +5,8 @@ episode_number: "16"
 date: 2021-06-28
 permalink: /2021/06/28/16-mechanistic-vs-population-codes-inter-show-interaction-with-ayaka-kato/
 spotify: "https://anchor.fm/neuroradio/embed/episodes/16-Mechanistic-vs-population-codes--Inter-show-interaction-with-Ayaka-Kato-e13i8tb"
-performers: []
-topics: []
+performers: ["加藤郁佳", "萩原賢太", "宮脇健行"]
+topics: ["ゲスト回", "研究生活", "モデル動物", "ポッドキャスト"]
 summary: "理研風間研・研エンの仲ポッドキャスターの加藤郁佳さん（@kayautoka）をゲストに、これまでのキャリア、モデル動物選択、これからポスドク先を選ぶにあたっての悩みなどを共有して頂きました。(6/6収録)"
 ---
 

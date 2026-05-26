@@ -5,8 +5,8 @@ episode_number: "95"
 date: 2025-08-30
 permalink: /2025/08/30/95-the-invention-of-solitude/
 spotify: "https://podcasters.spotify.com/pod/show/neuroradio/embed/episodes/95-The-Invention-of-Solitude-e37fo6h"
-performers: []
-topics: []
+performers: ["萩原賢太", "宮脇健行", "藤島悠貴"]
+topics: ["お便り", "雑談", "ソロ回"]
 summary: "１人雑談、１人宣伝、１人お便りフォーム回収回。 (8/15-18 収録)"
 ---
 

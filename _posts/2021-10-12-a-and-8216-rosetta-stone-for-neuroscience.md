@@ -5,8 +5,8 @@ episode_number: "27"
 date: 2021-10-12
 permalink: /2021/10/12/27-a-and-8216-rosetta-stone-for-neuroscience/
 spotify: "https://anchor.fm/neuroradio/embed/episodes/27-A-Rosetta-Stone-for-neuroscience-e18l29g"
-performers: []
-topics: []
+performers: ["萩原賢太", "宮脇健行"]
+topics: ["論文解説", "細胞タイプ", "トランスクリプトミクス", "BRAIN Initiative"]
 summary: "Brain Initiative Cell Census Network (BICCN) のNature誌ジャックに触発され、多くの論文に関わってるThe Allen Instituteのこと、BICCNプロジェクトの全容、今回の17報の論文がそれぞれどういう位置づけにあるのか、などについて話しました（10/10収録）"
 ---
 

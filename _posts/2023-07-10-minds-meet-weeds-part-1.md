@@ -5,8 +5,8 @@ episode_number: "59"
 date: 2023-07-10
 permalink: /2023/07/10/59-minds-meet-weeds-part-1/
 spotify: "https://podcasters.spotify.com/pod/show/neuroradio/embed/episodes/59-Minds-Meet-Weeds---Part-1-e26oupt"
-performers: []
-topics: []
+performers: ["登達也", "萩原賢太", "宮脇健行"]
+topics: ["ゲスト回", "植物", "ゲノミクス", "トランスクリプトミクス"]
 summary: "Salk Institute のEckerラボ で宿主-微生物相互作用研究とゲノミクス技術開発を行っており、来年夏からイギリスのThe Sainsbury Laboratoryで独立予定の登達也さん(@nobolly, @tnobo_ktcs)がゲスト。植物を研究対象としたきっかけ、マックスプランクでのPhD3部作、ポスドクでの3部作の解説、近年のSpatial Transcriptomics技術開発トレンドに関するディスカッション。後半に続く (6/22収録)"
 ---
 

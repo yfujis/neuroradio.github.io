@@ -5,8 +5,8 @@ episode_number: "14"
 date: 2021-06-10
 permalink: /2021/06/10/14-dual-career-at-stanford-dr-sayaka-inoue-and-dr-masatoshi-inoue-part-1/
 spotify: "https://anchor.fm/neuroradio/embed/episodes/14-Dual-career-at-Stanford-Dr--Sayaka-Inoue-and-Dr--Masatoshi-Inoue--Part-1-e12j1an"
-performers: []
-topics: []
+performers: ["井上昌俊", "井上清香", "萩原賢太", "宮脇健行"]
+topics: ["ゲスト回", "ツール開発", "社会行動", "イメージング"]
 summary: "日本神経科学会の奨励賞を夫妻でそれぞれ受賞した井上昌俊さん（まささん）@feynman1104・井上清香さん（さやかさん）@s_k_inoueをゲストに、お二人の論文の裏話、スタンフォード大学で神経科学を研究する醍醐味などについて伺いました。後半に続きます。（5/28収録）"
 ---
 

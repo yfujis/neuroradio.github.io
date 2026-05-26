@@ -5,8 +5,8 @@ episode_number: "60"
 date: 2023-07-17
 permalink: /2023/07/17/60-minds-meet-weeds-part-2/
 spotify: "https://podcasters.spotify.com/pod/show/neuroradio/embed/episodes/60-Minds-Meet-Weeds---Part-2-e270c2r"
-performers: []
-topics: []
+performers: ["登達也", "萩原賢太", "宮脇健行"]
+topics: ["ゲスト回", "植物", "細胞タイプ", "PI・キャリア"]
 summary: "登達也さん(@nobolly, @tnobo_ktcs)ゲスト回、後編。Cell-type談義、あったら嬉しいツール談義、Assistant Features エディター経験、ジョブハント、新しく開くラボについて。(6/22収録)"
 ---
 

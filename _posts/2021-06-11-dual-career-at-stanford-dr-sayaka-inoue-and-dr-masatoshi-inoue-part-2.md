@@ -5,8 +5,8 @@ episode_number: "15"
 date: 2021-06-11
 permalink: /2021/06/11/15-dual-career-at-stanford-dr-sayaka-inoue-and-dr-masatoshi-inoue-part-2/
 spotify: "https://anchor.fm/neuroradio/embed/episodes/15-Dual-career-at-Stanford-Dr--Sayaka-Inoue-and-Dr--Masatoshi-Inoue--Part-2-e1312dd"
-performers: []
-topics: []
+performers: ["井上昌俊", "井上清香", "萩原賢太", "宮脇健行"]
+topics: ["ゲスト回", "研究生活", "留学", "子育て"]
 summary: "前回に引き続き、井上夫妻 (@feynman1104 , @s_k_inoue ) をゲストに、これまでとこれからのキャリア、ポスドクのお金事情、アメリカでの子育て、生活tips等について伺いました。（5/28収録）"
 ---
 

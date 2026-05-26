@@ -5,8 +5,8 @@ episode_number: "12"
 date: 2021-05-23
 permalink: /2021/05/23/12-retrospection-on-retroinfection/
 spotify: "https://anchor.fm/neuroradio/embed/episodes/12-Retrospection-on-Retroinfection-e11fmej"
-performers: []
-topics: []
+performers: ["萩原賢太", "宮脇健行"]
+topics: ["論文解説", "ウイルス・トレーシング", "技術"]
 summary: "前回の補足も兼ねて、Pseudo-typed Rabies Virusの原理と、その開発の歴史、今後の展望について萩原がサクッと解説。（5/22収録）"
 ---
 

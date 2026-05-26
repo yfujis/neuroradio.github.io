@@ -5,8 +5,8 @@ episode_number: "2"
 date: 2021-03-02
 permalink: /2021/03/02/2-the-grid-cells-are-a-torus/
 spotify: "https://anchor.fm/neuroradio/embed/episodes/2-The-grid-cells-are-a-torus-erui2b"
-performers: []
-topics: []
+performers: ["萩原賢太", "宮脇健行"]
+topics: ["論文解説", "空間認知", "記憶"]
 summary: "論文紹介#1。\"グリッド細胞の集合的な活動がドーナツ型になる\" ことを示したプレプリントについて話しています。"
 ---
 

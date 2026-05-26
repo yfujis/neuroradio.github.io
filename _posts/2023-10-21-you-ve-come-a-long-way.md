@@ -5,8 +5,8 @@ episode_number: "67"
 date: 2023-10-21
 permalink: /2023/10/21/67-you-ve-come-a-long-way/
 spotify: "https://podcasters.spotify.com/pod/show/neuroradio/embed/episodes/67-Youve-come-a-long-way-e2aq454"
-performers: []
-topics: []
+performers: ["萩原賢太", "宮脇健行"]
+topics: ["雑談", "論文解説", "ライティング", "学会"]
 summary: "Lake Conferenceレポート、DJ Clubなどについて雑談。論文紹介は、intrabodyベースの順行性モノシナプティックトレーサ、CSとUSが離れた味覚嫌悪条件づけの神経基盤、授乳期の骨形成を担うホルモンの発見、ライティング時の注意に関するエッセイ (10/14収録)"
 ---
 

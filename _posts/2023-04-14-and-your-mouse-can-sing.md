@@ -5,8 +5,8 @@ episode_number: "55"
 date: 2023-04-14
 permalink: /2023/04/14/55-and-your-mouse-can-sing/
 spotify: "https://podcasters.spotify.com/pod/show/neuroradio/embed/episodes/55-And-Your-Mouse-Can-Sing-e22cduh"
-performers: []
-topics: []
+performers: ["萩原賢太", "宮脇健行", "藤島悠貴"]
+topics: ["ゲスト回", "留学", "PhD出願", "行動"]
 summary: "NYUでResearch associate, 秋から米国PhDコースの藤島悠貴さん(@yfujishima_) がゲスト。RA応募時のこと、現在行っているSinging Mouseの研究、PhDアプリケーション全敗から２年間のRAを経てオファー大量獲得へと至った経緯、思考プロセス、得たノウハウ等を伺いました (4/5収録)"
 ---
 

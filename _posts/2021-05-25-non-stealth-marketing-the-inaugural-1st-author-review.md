@@ -5,8 +5,8 @@ episode_number: "13"
 date: 2021-05-25
 permalink: /2021/05/25/13-non-stealth-marketing-the-inaugural-1st-author-review/
 spotify: "https://anchor.fm/neuroradio/embed/episodes/13-Non-stealth-marketing--the-inaugural-1st-author-review-e11kbtq"
-performers: []
-topics: []
+performers: ["萩原賢太", "宮脇健行"]
+topics: ["論文解説", "情動", "回路"]
 summary: "扁桃体Intercalted clusters (ITC) の亜核ITCdm/ITCvm (背側核/腹側核)が真逆の機能を持つこと、相互抑制の回路モチーフを持つこと、異なる投射先を協調制御していること等を報告した自身の最近の仕事について、萩原が裏話も交えながら紹介。"
 ---
 

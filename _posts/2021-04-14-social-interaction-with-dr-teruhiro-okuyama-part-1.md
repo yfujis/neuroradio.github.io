@@ -5,8 +5,8 @@ episode_number: "8"
 date: 2021-04-14
 permalink: /2021/04/14/8-social-interaction-with-dr-teruhiro-okuyama-part-1/
 spotify: "https://anchor.fm/neuroradio/embed/episodes/8-Social-Interaction-with-Dr--Teruhiro-Okuyama--Part-1-ev33at"
-performers: []
-topics: []
+performers: ["奥山輝大", "萩原賢太", "宮脇健行"]
+topics: ["ゲスト回", "PI・キャリア", "記憶", "社会行動"]
 summary: "東大定量研の奥山輝大さん（@Teru_Okuyama）をゲストに迎え、大学院時代、ポスドク時代、キャリア選択の際に考えていたこと、新PIとしての３年間についてお話しいただきました。後編(Part2)に続きます。"
 ---
 

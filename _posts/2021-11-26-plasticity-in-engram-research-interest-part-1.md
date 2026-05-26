@@ -5,8 +5,8 @@ episode_number: "28"
 date: 2021-11-26
 permalink: /2021/11/26/28-plasticity-in-engram-research-interest-part-1/
 spotify: "https://anchor.fm/neuroradio/embed/episodes/28-Plasticity-in-engramresearch-interest-Part--1-e1arbb9"
-performers: []
-topics: []
+performers: ["北沢太郎", "萩原賢太"]
+topics: ["ゲスト回", "研究生活", "PI・キャリア", "記憶"]
 summary: "デンマーク・オーフス大のDANDRITE研究所で来夏独立予定の北沢太郎さん(@kitazawa_taro, 現FMI Rijliラボ)をゲストに、これまでのキャリア・興味の変遷、FMI、ヨーロッパでの就活などなどについて話しました。(11/4収録 * 初のin-person収録ということで宮脇はお休み)"
 ---
 

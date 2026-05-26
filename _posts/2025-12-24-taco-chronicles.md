@@ -5,8 +5,8 @@ episode_number: "101"
 date: 2025-12-24
 permalink: /2025/12/24/101-taco-chronicles/
 spotify: "https://open.spotify.com/embed/episode/6jRFth2fBJcvSi3VPMsfLs?utm_source=generator&amp;t=0"
-performers: ["宮脇健行", "藤島悠貴"]
-topics: ["学会", "研究生活"]
+performers: ["萩原賢太", "宮脇健行", "藤島悠貴"]
+topics: ["雑談", "学会", "研究生活", "旅行"]
 summary: "SfN2025反省会。メキシコ旅行、学会での社交、ポスター発表でのコミュニケーション方法など雑談。 (2025/12/06 収録)"
 ---
 

@@ -5,8 +5,8 @@ episode_number: "33"
 date: 2022-02-17
 permalink: /2022/02/17/33-33-reviewing-the-art-of-review/
 spotify: "https://anchor.fm/neuroradio/embed/episodes/33-Reviewing-the-Art-of-Review-e1eii8e"
-performers: []
-topics: []
+performers: ["萩原賢太", "宮脇健行"]
+topics: ["雑談", "査読", "研究生活"]
 summary: "生活立ち上げPart 2、研究所システムの便利なところと融通が利かないところ、意外と良いアメリカの飲み物事情。後半はeLifeでの査読体験と実験医学の『査読の技法』をネタにPeer Reviewのやり方について雑談（2/12収録）"
 ---
 

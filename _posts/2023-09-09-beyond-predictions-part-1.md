@@ -5,8 +5,8 @@ episode_number: "62"
 date: 2023-09-09
 permalink: /2023/09/09/62-beyond-predictions-part-1/
 spotify: "https://podcasters.spotify.com/pod/show/neuroradio/embed/episodes/62-Beyond-predictions---Part-1-e292lt6"
-performers: []
-topics: []
+performers: ["古館昌平", "萩原賢太", "宮脇健行"]
+topics: ["ゲスト回", "留学", "研究生活", "PI・キャリア"]
 summary: "Sainsbury Wellcome Centreの古館昌平さん(@ShoheiFurutachi, e-mail) ゲスト回、雑談メインの前編。留学時に分野を大きく変えた動機とそれに伴う苦労、PI（TomとSonja）のスタイル、SWCの雰囲気やロンドン生活について伺いました（9/2 収録）"
 ---
 

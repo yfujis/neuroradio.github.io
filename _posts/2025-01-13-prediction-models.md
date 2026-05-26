@@ -5,8 +5,8 @@ episode_number: "85"
 date: 2025-01-13
 permalink: /2025/01/13/85-prediction-models/
 spotify: "https://podcasters.spotify.com/pod/show/neuroradio/embed/episodes/85-Prediction-models-e2ta79h"
-performers: []
-topics: []
+performers: ["萩原賢太", "宮脇健行", "藤島悠貴"]
+topics: ["お便り", "雑談", "予測", "神経科学業界"]
 summary: "新年の抱負、第二回おたよりコーナー、2025年に起こる神経科学まわりの出来事予測 Top 5 (1/5収録)"
 ---
 
