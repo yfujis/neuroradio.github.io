@@ -78,6 +78,9 @@ Prediction-Errorに関する[最新プレプリント](https://www.biorxiv.org/c
 [Marcus Stephenson-Jones](https://www.sainsburywellcome.org/web/groups/stephenson-jones-lab)
 [Tom Misch](https://tommisch.com/)
 
+
+![Episode 62 image](/assets/episodes/62-beyond-predictions-part-1/unnamed-700x466.jpg)
+
 Editorial Notes:
 ライミングを含め色々猛省します! (古)
 合同セミナーでの「発表前に靭帯切れてG先生ブチ切れ」というイントロを謎に覚えています（脇）

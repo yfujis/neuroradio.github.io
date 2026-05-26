@@ -122,6 +122,9 @@ Nkx2.5：:転写因子らしいです
 [Topological Action Potential の仕事](https://www.nature.com/articles/s41567-022-01853-z)
 動物園と繋がっているらしい[Henrik Kaessmannラボ](https://www.zmbh.uni-heidelberg.de/Kaessmann/)
 
+
+![Episode 54 image](/assets/episodes/54-it-takes-two/BLPgif_L-3.gif)
+
 Editorial Notes:
 どうも最近記憶してるreferenceの年が1-2年ズレる。単に歳なのか、paperpileが便利すぎて文献整理に記憶を必要としなくなっているからなのか(萩原)
 イカ養殖手法開発がBSIディレクター就任に繋がるとは(脇)

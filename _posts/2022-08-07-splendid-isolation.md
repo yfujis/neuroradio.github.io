@@ -106,6 +106,9 @@ Auto Patcher？：マテメソ読んだ感じ手動でした笑
 エッセイ１：[Maintaining the joy of discovery](https://elifesciences.org/articles/80711)
 エッセイ２：[Crossing oceans](https://elifesciences.org/articles/00477)
 
+
+![Episode 43 image](/assets/episodes/43-splendid-isolation/catch43-700x677.jpg)
+
 Editorial Notes:
 Sodium とナトリウム、Potassiumとカリウムが混ざりました（宮脇）
 エスプレッソマシン、むかし友人を説得して業務用の中ではお手頃なシモネリのオスカーを買わせて一緒に遊んだりしてたのですが、洗浄が面倒すぎて一瞬で売り飛ばしていました笑
