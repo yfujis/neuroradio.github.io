@@ -4,7 +4,7 @@ title: "#39 A biophysicist-turned-neuroscientist"
 episode_number: "39"
 date: 2022-06-22
 permalink: /2022/06/22/39-a-biophysicist-turned-neuroscientist/
-spotify: "https://anchor.fm/neuroradio/embed/episodes/39-A-biophyisicist-turned-neuroscientist-e1k7s3c"
+spotify: "https://open.spotify.com/embed/episode/7uPSKbsJumQvt4xhxmiX7A?utm_source=generator"
 performers: ["安田涼平", "萩原賢太", "宮脇健行"]
 topics: ["ゲスト回", "イメージング", "シナプス", "研究生活"]
 summary: "マックスプランクフロリダの安田涼平さん（@Ryohei_Neuro）をゲストに、１分子イメージングから１スパイン・分子活性のイメージングへと分野を変えていった時に考えていたこと、Karel Svobodaのラボでポスドク..."

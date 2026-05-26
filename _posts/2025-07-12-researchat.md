@@ -4,7 +4,7 @@ title: "#92 Researchat"
 episode_number: "92"
 date: 2025-07-12
 permalink: /2025/07/12/92-researchat/
-spotify: "https://podcasters.spotify.com/pod/show/neuroradio/embed/episodes/92-Researchat-e35e74p"
+spotify: "https://open.spotify.com/embed/episode/3TlO0qf3JnyJawwUvGnfF5?utm_source=generator"
 performers: ["野崎維", "萩原賢太", "宮脇健行"]
 topics: ["ゲスト回", "PI・キャリア", "遺伝学", "Researchat"]
 summary: "Klecknerラボ、この秋からUMass アマーストで独立予定、Researchat.fmのTadasu Nozaki (@tadasu443)さんがゲスト。大学の近況、ジョブハント経験談、独立後の研究の方向性、染色体ペアリング馴れ初め、授業計画、遺伝研での生活について (5/25 収録)"

@@ -4,7 +4,7 @@ title: "#37 Robust routing to strong physiology + molecular research at KIS - Pa
 episode_number: "37"
 date: 2022-05-24
 permalink: /2022/05/24/37-robust-routing-to-strong-physiology-molecular-research-at-kis-part-2/
-spotify: "https://anchor.fm/neuroradio/embed/episodes/37-Robust-routing-to-strong-physiology--molecular-research-at-KIS---Part-2-e1isinj"
+spotify: "https://open.spotify.com/embed/episode/0lZWBbwcHoDPPbvqFVpPo6?utm_source=generator"
 performers: ["北西卓磨", "萩原賢太", "宮脇健行"]
 topics: ["ゲスト回", "PI・キャリア", "電気生理", "データ解析"]
 summary: "北西卓磨さん(@tkitanishi)ゲスト回、後編。予算申請書の書き方、研究室のスタッフから独立ポジションに移るまでのこと、今後行っていく大規模記録・多変量解析の方針などについて伺いました（4/27収録）"

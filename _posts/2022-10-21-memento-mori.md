@@ -4,7 +4,7 @@ title: "#49 Memento Mori"
 episode_number: "49"
 date: 2022-10-21
 permalink: /2022/10/21/49-memento-mori/
-spotify: "https://anchor.fm/neuroradio/embed/episodes/49-Memento-Mori-e1pjc93"
+spotify: "https://open.spotify.com/embed/episode/0GjG0u575HgA0xPHtvTPHq?utm_source=generator"
 performers: ["萩原賢太", "宮脇健行"]
 topics: ["雑談", "論文解説", "記憶", "技術"]
 summary: "ゲスト回ラッシュの振り返り、感染フラグ、前向性健忘に関する雑談。フラッシュ論文紹介は、皮質と海馬のタスクルール表象の違い、内在mRNA依存的な外来mRNA翻訳制御法、方位選択性コラムの起源示唆、マイクログリア用AAV、実験メタデータ管理、１分子プロテインシーケンシング、等(10/15収録)"

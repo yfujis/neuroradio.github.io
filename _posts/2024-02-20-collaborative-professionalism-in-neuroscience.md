@@ -4,7 +4,7 @@ title: "#72 Collaborative professionalism in neuroscience"
 episode_number: "72"
 date: 2024-02-20
 permalink: /2024/02/20/72-collaborative-professionalism-in-neuroscience/
-spotify: "https://podcasters.spotify.com/pod/show/neuroradio/embed/episodes/72-Collaborative-professionalism-in-neuroscience-e2fvags"
+spotify: "https://open.spotify.com/embed/episode/3Gcb2D7E6X5Lc4M2dIBRU3?utm_source=generator"
 performers: ["大久保達夫", "萩原賢太", "宮脇健行"]
 topics: ["ゲスト回", "システム神経科学", "データ解析", "研究生活"]
 summary: "北京脳科学研究所の大久保達夫さんゲスト回。工学部からシステム神経科学に進んだきっかけ、FeeラボPhD時代、WilsonラボPD時代、現在のデータ解析を中心とした働き方の狙い、専門の分業に関するディスカッション、等 (12/30 収録)"

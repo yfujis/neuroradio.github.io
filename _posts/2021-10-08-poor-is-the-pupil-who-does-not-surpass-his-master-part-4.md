@@ -4,7 +4,7 @@ title: "#26 Poor is the pupil who does not surpass his master - Part 4"
 episode_number: "26"
 date: 2021-10-08
 permalink: /2021/10/08/26-poor-is-the-pupil-who-does-not-surpass-his-master-part-4/
-spotify: "https://anchor.fm/neuroradio/embed/episodes/26-Poor-is-the-pupil-who-does-not-surpass-his-master--Part-4-e18do4t"
+spotify: "https://open.spotify.com/embed/episode/0Gv9esz4g6IGNtgCh0wSEg?utm_source=generator"
 performers: ["五十嵐啓", "萩原賢太", "宮脇健行"]
 topics: ["ゲスト回", "研究生活", "PI・キャリア", "記憶"]
 summary: "五十嵐さん回その4。収録終了後の雑談からオムニバス的に編集。最近の海馬でのSpatial+α表象の仕事についての見解、リバッタルでのレビュワーとのやり取り、新メンバーのテーマ設定、などなど（8/31+9/1収録）。"

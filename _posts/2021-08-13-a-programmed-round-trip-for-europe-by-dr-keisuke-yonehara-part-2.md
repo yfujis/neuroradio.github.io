@@ -4,7 +4,7 @@ title: "#21. A programmed round-trip for Europe by Dr. Keisuke Yonehara - Part 2
 episode_number: "21"
 date: 2021-08-13
 permalink: /2021/08/13/21-a-programmed-round-trip-for-europe-by-dr-keisuke-yonehara-part-2/
-spotify: "https://anchor.fm/neuroradio/embed/episodes/21-A-programmed-round-trip-for-Europe-by-Dr--Keisuke-Yonehara-Part-2-e15pdts"
+spotify: "https://open.spotify.com/embed/episode/51toxZ4sUAKwhAPT3LaTLz?utm_source=generator"
 performers: ["米原圭祐", "萩原賢太", "宮脇健行"]
 topics: ["ゲスト回", "PI・キャリア", "留学", "視覚"]
 summary: "Part 1に引き続き、DANDRITE＆遺伝研（10月から）の米原圭祐さん(@K_Reisfeld)にお越しいただき、欧州のスタートアップグラント事情、ポスドク時代に欧州からのジョブハントで苦労したこと、今回Neuronにアクセプトされた双極細胞の軸索末端におけるsubcellular computation論文の内容紹介、遺伝研でのこれからの研究の方向性について伺いました（7/10収録）"

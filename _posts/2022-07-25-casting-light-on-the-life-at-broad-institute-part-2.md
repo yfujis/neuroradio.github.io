@@ -4,7 +4,7 @@ title: "#41 CASTing light on the life at Broad Institute - Part 2"
 episode_number: "41"
 date: 2022-07-25
 permalink: /2022/07/25/41-casting-light-on-the-life-at-broad-institute-part-2/
-spotify: "https://anchor.fm/neuroradio/embed/episodes/41-CASTing-light-on-the-life-at-Broad-Institute---Part-2-e1lkb6h"
+spotify: "https://open.spotify.com/embed/episode/78b2Ud2UClMvsjy204JuIz?utm_source=generator"
 performers: ["齋藤諒", "萩原賢太", "宮脇健行"]
 topics: ["ゲスト回", "CRISPR", "PI・キャリア", "研究生活"]
 summary: "齋藤諒さんゲスト回、後編。Broad Institute、他ラボとの差別化、CRISPRの賞レース、ボスと異なる独自性を出すこと、について伺いました（7/9収録）"

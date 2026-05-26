@@ -4,7 +4,7 @@ title: "#68 Foraging under the Sun"
 episode_number: "68"
 date: 2023-11-22
 permalink: /2023/11/22/68-foraging-under-the-sun/
-spotify: "https://podcasters.spotify.com/pod/show/neuroradio/embed/episodes/68-Foraging-under-the-Sun-e2c5iqu"
+spotify: "https://open.spotify.com/embed/episode/6oW3kbT1DrwqiTov6PyCt3?utm_source=generator"
 performers: ["服部亮磨", "萩原賢太", "宮脇健行"]
 topics: ["ゲスト回", "PI・キャリア", "意思決定", "論文解説"]
 summary: "UF Scripps服部亮磨さん (@ryhattori, gmail) がゲスト。PIとしてフロリダで働き始めた様子、OFCメタ強化学習論文の紹介、今後の展開・手術ロボット談義など（11/10 収録）"

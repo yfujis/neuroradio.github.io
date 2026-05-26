@@ -4,7 +4,7 @@ title: "#34 Catch-22 in code-switching"
 episode_number: "34"
 date: 2022-03-27
 permalink: /2022/03/27/34-catch-22-in-code-switching/
-spotify: "https://anchor.fm/neuroradio/embed/episodes/34-Catch-22-in-code-switching-e1gbfa0"
+spotify: "https://open.spotify.com/embed/episode/5ZbbJ51IvPMkLa0nW6TCkV?utm_source=generator"
 performers: ["萩原賢太", "宮脇健行"]
 topics: ["雑談", "論文解説", "イメージング", "記憶"]
 summary: "アメリカでの運転免許取得、Mini2P、MATLABからPythonへの移行に関する雑談。フラッシュ論文紹介は海馬４重vivoパッチ、BLAドパミンREM睡眠、シータ波と歩くリズムの同期、第三世代Rabies、投射先アストロサイト標識、eVLPについて。(3/19収録)"

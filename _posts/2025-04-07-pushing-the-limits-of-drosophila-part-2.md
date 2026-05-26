@@ -4,7 +4,7 @@ title: "#87 Pushing the limits of Drosophila – Part 2"
 episode_number: "87"
 date: 2025-04-07
 permalink: /2025/04/07/87-pushing-the-limits-of-drosophila-part-2/
-spotify: "https://podcasters.spotify.com/pod/show/neuroradio/embed/episodes/87-Pushing-the-limits-of-Drosophila--Part-2-e315llc"
+spotify: "https://open.spotify.com/embed/episode/4XfGajSJmqVQy1uggZKU6B?utm_source=generator"
 performers: ["山本慎也", "萩原賢太", "宮脇健行"]
 topics: ["ゲスト回", "モデル動物", "疾患", "PI・キャリア"]
 summary: "Baylor College of Medicineの山本慎也さんがゲスト。後編。ハエの疾患モデルとしての限界、凍結保存ができない問題とそれが育んだコラボレーション文化、留学を選択肢と考えるための本の執筆、PhDを取った機関でポスドクを飛ばしてPIになることについて (3/28収録)"

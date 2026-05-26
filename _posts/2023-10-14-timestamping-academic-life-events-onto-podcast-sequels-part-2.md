@@ -4,7 +4,7 @@ title: "#66 Timestamping academic life events onto podcast sequels - Part 2"
 episode_number: "66"
 date: 2023-10-14
 permalink: /2023/10/14/66-timestamping-academic-life-events-onto-podcast-sequels-part-2/
-spotify: "https://podcasters.spotify.com/pod/show/neuroradio/embed/episodes/66-Timestamping-academic-life-events-onto-podcast-sequels---Part-2-e2ah5ff"
+spotify: "https://open.spotify.com/embed/episode/45fmrj4MXl9KFPQKGBa0y4?utm_source=generator"
 performers: ["北沢太郎", "萩原賢太"]
 topics: ["ゲスト回", "PI・キャリア", "記憶", "研究生活"]
 summary: "定期ゲスト北沢さん (@kitazawa_taro) のデンマーク・DANDRITE生活１年目の振り返り、ラボ立ち上げ・プロジェクトの経過、Fosの発現メカニズムに関するJC、など (10/1 収録)"

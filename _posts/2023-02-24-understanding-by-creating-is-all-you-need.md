@@ -4,7 +4,7 @@ title: "#53 Understanding by creating is all you need"
 episode_number: "53"
 date: 2023-02-24
 permalink: /2023/02/24/53-understanding-by-creating-is-all-you-need/
-spotify: "https://anchor.fm/neuroradio/embed/episodes/53-Understanding-by-creating-is-all-you-need-e1veral"
+spotify: "https://open.spotify.com/embed/episode/5oYQbaqTLzT3V31FN3aATH?utm_source=generator"
 performers: ["牧野博史", "萩原賢太", "宮脇健行"]
 topics: ["ゲスト回", "AI", "表象", "PI・キャリア"]
 summary: "シンガポール、南洋理工大学の牧野さん(@Hiroshi_Makino_)がゲスト。UCSD交換留学、CSHLでのPhD時代とUCSDでのポスドク時代、シンガポールの研究環境、独立後に行っているAIと脳の表象比較研究について伺いました（2/14収録）"

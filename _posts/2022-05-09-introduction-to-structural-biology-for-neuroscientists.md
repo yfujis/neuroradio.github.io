@@ -4,7 +4,7 @@ title: "#35 Introduction to structural biology for neuroscientists"
 episode_number: "35"
 date: 2022-05-09
 permalink: /2022/05/09/35-introduction-to-structural-biology-for-neuroscientists/
-spotify: "https://anchor.fm/neuroradio/embed/episodes/35-Introduction-to-structural-biology-for-neuroscientists-e1i9tq2"
+spotify: "https://open.spotify.com/embed/episode/54MHnmCjeqCInha6uCGXjs?utm_source=generator"
 performers: ["加藤英明", "萩原賢太", "宮脇健行"]
 topics: ["ゲスト回", "構造生物学", "オプトジェネティクス", "ツール開発"]
 summary: "東大先進科学機構の加藤英明さん(@emeKato)をゲストに、今回のChRmine構造論文やこれまでの仕事の背景、神経科学者が構造生物学について知っておくと良いこと、今後の構造生物学の展開等を伺いました。(2/20収録)"
