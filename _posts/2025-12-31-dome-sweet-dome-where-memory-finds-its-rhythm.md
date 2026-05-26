@@ -6,7 +6,7 @@ date: 2025-12-31
 permalink: /2025/12/31/102-dome-sweet-dome-where-memory-finds-its-rhythm/
 spotify: "https://open.spotify.com/embed/episode/2O56H6gJl6HYdZdKVCtsnZ?utm_source=generator"
 performers: ["末岡陽太朗", "藤島悠貴"]
-topics: ["ゲスト回", "記憶", "論文解説", "留学"]
+topics: ["ゲスト回", "記憶", "海馬", "空間認知", "論文解説", "留学"]
 summary: "Johns Hopkins University、Neuroscience PhD Candidateの末岡陽太朗さんゲスト回。今年出た1つ目のPhDメイン仕事、theta precession、JHUやMITでの学生生活、など。 (2025/12/14 収録)"
 ---
 
