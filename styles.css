@@ -255,13 +255,12 @@ h3 {
 }
 
 .latest-art {
-  align-self: center;
   background: var(--panel);
 }
 
 .latest-art img {
-  aspect-ratio: 1 / 1;
   display: block;
+  height: 100%;
   object-fit: cover;
   width: 100%;
 }
