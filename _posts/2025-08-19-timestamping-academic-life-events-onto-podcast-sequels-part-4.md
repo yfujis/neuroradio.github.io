@@ -5,7 +5,7 @@ episode_number: "94"
 date: 2025-08-19
 permalink: /2025/08/19/94-timestamping-academic-life-events-onto-podcast-sequels-part-4/
 spotify: "https://podcasters.spotify.com/pod/show/neuroradio/embed/episodes/94-Timestamping-academic-life-events-onto-podcast-sequels--Part-4-e3701qq"
-performers: ["北沢太郎", "萩原賢太", "宮脇健行"]
+performers: ["北沢太郎", "萩原賢太"]
 topics: ["ゲスト回", "記憶", "論文解説", "技術"]
 summary: "定期ゲスト北沢太郎さん(@kitazawa_taro) 回。直近に公開した自身のHisTrac-seqプレプリントと(と競合LagTagプレプリントの)解説回 (8/17 収録)"
 ---

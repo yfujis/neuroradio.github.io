@@ -5,7 +5,7 @@ episode_number: "80"
 date: 2024-10-20
 permalink: /2024/10/20/80-beyond-a-predictive-machine/
 spotify: "https://podcasters.spotify.com/pod/show/neuroradio/embed/episodes/80-Beyond-a-predictive-machine-e2psg1a"
-performers: ["古館昌平", "萩原賢太", "宮脇健行"]
+performers: ["古館昌平", "萩原賢太"]
 topics: ["ゲスト回", "研究生活", "PI・キャリア", "視覚"]
 summary: "古館さん(@ShoheiFurutachi) in-person収録＠Allen Institute。直近の論文リバイズ中の出来事、最近の興味、ネタ被りに関する様々な考え方、ジョブハントの様子、東大での某失敗談の詳細 (10/13 収録)"
 ---
