@@ -78,12 +78,28 @@ module NeuroRadio
       line.to_s.strip.sub(/^[-*・]\s*/, "")
     end
 
-    def inline_markdown_to_html(value)
+    def asset_url(src, baseurl)
+      value = src.to_s
+      return value unless value.start_with?("/")
+      return value if baseurl.to_s.empty? || value.start_with?("#{baseurl}/")
+
+      "#{baseurl}#{value}"
+    end
+
+    def rewrite_local_image_sources(html, baseurl)
+      html.to_s.gsub(/\bsrc=(["'])(\/[^"']*)\1/) do
+        quote = Regexp.last_match(1)
+        src = Regexp.last_match(2)
+        %(src=#{quote}#{asset_url(src, baseurl)}#{quote})
+      end
+    end
+
+    def inline_markdown_to_html(value, baseurl = "")
       escaped = CGI.escapeHTML(value.to_s)
       escaped.gsub(/(!?)\[([^\]]*)\]\(([^)]+)\)/) do
         bang = Regexp.last_match(1)
         label = CGI.escapeHTML(Regexp.last_match(2))
-        href = CGI.escapeHTML(Regexp.last_match(3))
+        href = CGI.escapeHTML(asset_url(Regexp.last_match(3), baseurl))
         if bang == "!"
           %(<figure><img src="#{href}" alt="#{label}"></figure>)
         else
@@ -92,31 +108,57 @@ module NeuroRadio
       end
     end
 
-    def notes_to_html(value)
+    def notes_to_html(value, baseurl = "")
       lines = value.to_s.lines.map { |line| clean_note_line(line) }
       blocks = []
       items = []
 
       flush = lambda do
         unless items.empty?
-          blocks << "<ul>\n#{items.map { |item| "<li>#{inline_markdown_to_html(item)}</li>" }.join("\n")}\n</ul>"
+          blocks << "<ul>\n#{items.map { |item| "<li>#{inline_markdown_to_html(item, baseurl)}</li>" }.join("\n")}\n</ul>"
           items = []
         end
       end
 
+      html_block = []
+
       lines.each do |line|
+        if html_block.any?
+          html_block << line
+          if line.include?("</figure>")
+            blocks << rewrite_local_image_sources(html_block.join("\n"), baseurl)
+            html_block = []
+          end
+          next
+        end
+
         if line.empty?
           flush.call
+          next
+        end
+
+        if line.start_with?("<figure")
+          flush.call
+          html_block << line
+          if line.include?("</figure>")
+            blocks << rewrite_local_image_sources(html_block.join("\n"), baseurl)
+            html_block = []
+          end
           next
         end
 
         image = line.match(/^!\[([^\]]*)\]\(([^)]+)\)$/)
         if image
           flush.call
-          blocks << %(<figure><img src="#{CGI.escapeHTML(image[2])}" alt="#{CGI.escapeHTML(image[1])}"></figure>)
+          src = CGI.escapeHTML(asset_url(image[2], baseurl))
+          blocks << %(<figure><img src="#{src}" alt="#{CGI.escapeHTML(image[1])}"></figure>)
         else
           items << line
         end
+      end
+
+      if html_block.any?
+        blocks << rewrite_local_image_sources(html_block.join("\n"), baseurl)
       end
 
       flush.call
@@ -127,6 +169,7 @@ end
 
 Jekyll::Hooks.register :posts, :pre_render do |post|
   sections = NeuroRadio::EpisodeParser.parse(post.content)
+  baseurl = post.site.config["baseurl"].to_s.chomp("/")
 
   post.data["episode_number"] ||= NeuroRadio::EpisodeParser.first(sections, "episode_number").sub(/^#/, "")
   post.data["title"] ||= NeuroRadio::EpisodeParser.first(sections, "title")
@@ -134,6 +177,6 @@ Jekyll::Hooks.register :posts, :pre_render do |post|
   post.data["performers"] ||= NeuroRadio::EpisodeParser.split_list(NeuroRadio::EpisodeParser.first(sections, "performers"))
   post.data["topics"] ||= NeuroRadio::EpisodeParser.split_list(NeuroRadio::EpisodeParser.first(sections, "topics"))
   post.data["summary"] ||= NeuroRadio::EpisodeParser.block(sections, "summary_text")
-  post.data["show_notes_html"] = NeuroRadio::EpisodeParser.notes_to_html(NeuroRadio::EpisodeParser.block(sections, "show_notes_text"))
-  post.data["editorial_notes_html"] = NeuroRadio::EpisodeParser.notes_to_html(NeuroRadio::EpisodeParser.block(sections, "editorial_notes_text"))
+  post.data["show_notes_html"] = NeuroRadio::EpisodeParser.notes_to_html(NeuroRadio::EpisodeParser.block(sections, "show_notes_text"), baseurl)
+  post.data["editorial_notes_html"] = NeuroRadio::EpisodeParser.notes_to_html(NeuroRadio::EpisodeParser.block(sections, "editorial_notes_text"), baseurl)
 end
