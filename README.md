@@ -1,38 +1,6 @@
 # NeuroRadio Jekyll Site
 
-NeuroRadioのGitHub Pages向けJekyllサイトです。現在の見た目は保ちつつ、エピソードはMinimal Mistakesと同じように `_posts/` のMarkdownファイルとして管理します。
-
-## Backup
-
-Jekyll化する前の静的生成版はここにコピーしてあります。
-
-```text
-../backups/codex-neuroradio-static-showcase-before-jekyll-20260526
-```
-
-## Preview locally
-
-初回だけ依存関係を入れます。
-
-```bash
-bundle install
-```
-
-ローカルプレビュー:
-
-```bash
-bundle exec jekyll serve
-```
-
-Then open:
-
-```text
-http://localhost:4000/
-```
-
-JekyllがMarkdownの変更を監視して自動で再生成します。
-
-If local `bundle install` hits an EventMachine/native extension issue on macOS, the GitHub Actions build should still work on Ubuntu. On this machine I verified the site with the already-installed system Jekyll.
+NeuroRadioのGitHub Pages向けJekyllサイトです。エピソードは `_posts/` のMarkdownファイルとして管理します。
 
 ## Add a new episode
 
