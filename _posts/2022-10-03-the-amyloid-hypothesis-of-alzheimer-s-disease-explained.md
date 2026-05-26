@@ -6,7 +6,7 @@ date: 2022-10-03
 permalink: /2022/10/03/45-the-amyloid-hypothesis-of-alzheimer-s-disease-explained/
 spotify: "https://anchor.fm/neuroradio/embed/episodes/45-The-amyloid-hypothesis-of-Alzheimers-disease--explained-e1om3bp"
 performers: ["佐野俊春", "萩原賢太", "宮脇健行"]
-topics: ["ゲスト回", "アルツハイマー病", "疾患", "論文解説"]
+topics: ["ゲスト回", "アルツハイマー病", "疾患", "論文解説", "記憶"]
 summary: "認知症研究者の佐野俊春さん（@tsano321）に、アルツハイマー型認知症のAβ仮説の歴史と論拠、最近の基礎研究・臨床試験の動向、今後の展望について教えていただきました（9/3収録）"
 ---
 
