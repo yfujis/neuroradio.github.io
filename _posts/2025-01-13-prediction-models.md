@@ -6,7 +6,7 @@ date: 2025-01-13
 permalink: /2025/01/13/85-prediction-models/
 spotify: "https://open.spotify.com/embed/episode/2lmm5zByI7YXIsLaY2IQ3e?utm_source=generator"
 performers: ["萩原賢太", "宮脇健行"]
-topics: ["お便り", "雑談", "予測", "神経科学業界"]
+topics: ["お便り", "雑談回", "予測", "神経科学業界"]
 summary: "新年の抱負、第二回おたよりコーナー、2025年に起こる神経科学まわりの出来事予測 Top 5 (1/5収録)"
 ---
 

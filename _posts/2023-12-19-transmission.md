@@ -6,7 +6,7 @@ date: 2023-12-19
 permalink: /2023/12/19/70-transmission/
 spotify: "https://open.spotify.com/embed/episode/5mAJNMAr8eyWIQs7fP2Dut?utm_source=generator"
 performers: ["萩原賢太", "宮脇健行"]
-topics: ["雑談", "論文解説", "SynBio", "理論"]
+topics: ["雑談回", "論文解説", "SynBio", "理論"]
 summary: "有識者会議、Seattle Hub for SynBio、マイク談義、理論系とのコラボについて雑談。論文紹介は、性周期に依存した報酬予測誤差シグナルの違い、Cas9 RNPそのものを細胞内に導入する手法、マウス用VRゴー..."
 ---
 
