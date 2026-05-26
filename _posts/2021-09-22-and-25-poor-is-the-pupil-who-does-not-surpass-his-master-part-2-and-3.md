@@ -6,7 +6,7 @@ date: 2021-09-22
 permalink: /2021/09/22/24-and-25-poor-is-the-pupil-who-does-not-surpass-his-master-part-2-and-3/
 spotify: "https://open.spotify.com/embed/episode/6PYBB3UZgvOtMDvv3GnIkd?utm_source=generator"
 performers: ["五十嵐啓", "萩原賢太", "宮脇健行"]
-topics: ["ゲスト回", "研究生活", "PI・キャリア", "記憶"]
+topics: ["ゲスト回", "PI・キャリア", "記憶"]
 summary: "Part 2: UC Irvineの五十嵐啓さん(@kei_m_igarashi)にお越しいただき、モーザーラボでのポスドク時代、ジョブハント、独立してからのお話をしていただきました。そして最後に今回のNature論文を少し頭出ししていただきました（8/31収録）"
 ---
 

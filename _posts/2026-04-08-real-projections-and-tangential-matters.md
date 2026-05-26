@@ -6,7 +6,7 @@ date: 2026-04-08
 permalink: /2026/04/08/103-real-projections-and-tangential-matters/
 spotify: "https://open.spotify.com/embed/episode/1HSI14Qb71Cgr0Bzv3cy2m?utm_source=generator"
 performers: ["萩原賢太", "藤島悠貴"]
-topics: ["雑談", "学会", "研究生活", "旅行"]
+topics: ["雑談", "学会", "旅行"]
 summary: "COSYNE2026の様子、ポルトガル旅行、萩原ラボ立ち上げ等、近況報告雑談。 (2026/04/04 収録)"
 ---
 

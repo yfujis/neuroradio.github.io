@@ -6,7 +6,7 @@ date: 2023-09-02
 permalink: /2023/09/02/61-august-green/
 spotify: "https://open.spotify.com/embed/episode/2uF7xmfd9tRoGyAG0wM7m1?utm_source=generator"
 performers: ["萩原賢太", "宮脇健行"]
-topics: ["雑談", "論文解説", "イメージング", "研究生活"]
+topics: ["雑談", "論文解説", "イメージング"]
 summary: "一時帰国とオフ会、オフィスのデスク削減方法、総合誌に載るマニアックな論文談義。論文紹介は、磁場によるタンパク質の蛍光強度調節、マウスの眼優位性カラム？、新タイプの近赤外Caセンサー、等 (8/27 収録)"
 ---
 

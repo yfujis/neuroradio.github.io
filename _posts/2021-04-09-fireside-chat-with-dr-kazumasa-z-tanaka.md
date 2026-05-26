@@ -6,7 +6,7 @@ date: 2021-04-09
 permalink: /2021/04/09/7-fireside-chat-with-dr-kazumasa-z-tanaka/
 spotify: "https://open.spotify.com/embed/episode/5l60lalvK8xeHpvcjqDI60?utm_source=generator"
 performers: ["田中和正", "萩原賢太", "宮脇健行"]
-topics: ["ゲスト回", "PI・キャリア", "研究生活"]
+topics: ["ゲスト回", "PI・キャリア"]
 summary: "OISTの田中和正さん（@Kazu_ZT）をゲストにお招きし、OISTの研究環境、新PIのラボ運営、これからの研究方針、過去の研究の裏話などについて伺いました"
 ---
 

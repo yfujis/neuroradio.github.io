@@ -6,7 +6,7 @@ date: 2021-06-11
 permalink: /2021/06/11/15-dual-career-at-stanford-dr-sayaka-inoue-and-dr-masatoshi-inoue-part-2/
 spotify: "https://open.spotify.com/embed/episode/65ZmN9Yy4AKwCbfV2RHMzF?utm_source=generator"
 performers: ["井上昌俊", "井上清香", "萩原賢太", "宮脇健行"]
-topics: ["ゲスト回", "研究生活", "留学", "子育て"]
+topics: ["ゲスト回", "留学", "子育て"]
 summary: "前回に引き続き、井上夫妻 (@feynman1104 , @s_k_inoue ) をゲストに、これまでとこれからのキャリア、ポスドクのお金事情、アメリカでの子育て、生活tips等について伺いました。（5/28収録）"
 ---
 

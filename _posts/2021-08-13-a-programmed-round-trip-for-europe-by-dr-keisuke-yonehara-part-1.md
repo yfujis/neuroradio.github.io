@@ -6,7 +6,7 @@ date: 2021-08-13
 permalink: /2021/08/13/20-a-programmed-round-trip-for-europe-by-dr-keisuke-yonehara-part-1/
 spotify: "https://open.spotify.com/embed/episode/7eCXYzLroTfhtpy0eBughx?utm_source=generator"
 performers: ["米原圭祐", "萩原賢太", "宮脇健行"]
-topics: ["ゲスト回", "PI・キャリア", "留学", "研究生活"]
+topics: ["ゲスト回", "PI・キャリア", "留学"]
 summary: "デンマーク、オーフス大学DANDRITE研究所＆遺伝研（10月から）の米原圭祐さん(@K_Reisfeld)にお越しいただき、これまでのキャリアと、海外と日本でJunior PIをやることの比較、Junior PIとして地位を確立する際に苦労したこと、等をお話しいただきました（7/10収録）"
 ---
 

@@ -6,7 +6,7 @@ date: 2023-11-30
 permalink: /2023/11/30/69-phd-programme-at-the-centre/
 spotify: "https://open.spotify.com/embed/episode/72wctGKNBKxt72Lv14sc00?utm_source=generator"
 performers: ["黒田澄哉", "中野誠大", "萩原賢太", "宮脇健行"]
-topics: ["ゲスト回", "PhD", "留学", "研究生活"]
+topics: ["ゲスト回", "PhD", "留学"]
 summary: "University College London/Sainsbury Wellcome Centre 博士課程の黒田澄哉さん(@_sumiyakuroda)、中野誠大さん(@_mnakano)がゲスト。UCL/SWCでのPhDコース、Tom (& Tim) ラボでの仕事の様子、PhDアプリケーション時の話、ロンドン生活について伺いました (11/10収録)"
 ---
 

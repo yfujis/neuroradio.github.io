@@ -6,7 +6,7 @@ date: 2022-10-16
 permalink: /2022/10/16/48-in-search-of-thalamo-cortical-computational-principles/
 spotify: "https://open.spotify.com/embed/episode/2oM31InzxVXq5zQy9hrgBm?utm_source=generator"
 performers: ["Lukas Ian Schmitt", "萩原賢太", "宮脇健行"]
-topics: ["ゲスト回", "回路", "視床皮質", "研究生活"]
+topics: ["ゲスト回", "回路", "視床皮質"]
 summary: "We sat down with Lukas Ian Schmitt (@lucidianS), a team leader at RIKEN CBS, and talked about his trajectory, life in Japan, past and ongoing projects about the distributed computation in the cortico-thalamic loop, and related works (Recorded on 9/10)"
 ---
 
