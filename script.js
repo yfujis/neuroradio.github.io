@@ -6,6 +6,8 @@
   const archiveEpisodes = document.querySelectorAll(".archive-episode");
   const archiveList = document.querySelector(".archive-list");
   const archivePagination = document.querySelector("[data-client-pagination]");
+  const tagSearchInput = document.querySelector("#tag-search-input");
+  const tagSuggestions = document.querySelector("[data-tag-suggestions]");
   const archiveBasePath = window.location.pathname.includes("/episodes/")
     ? `${window.location.pathname.split("/episodes/")[0]}/episodes/`
     : "/episodes/";
@@ -81,24 +83,28 @@
     return Array.from(new Set(values.filter(Boolean)));
   }
 
+  function archiveUrlFor(topics, performers) {
+    const params = new URLSearchParams();
+    uniqueValues(performers).forEach(function (performer) {
+      params.append("performer", performer);
+    });
+    uniqueValues(topics).forEach(function (topic) {
+      params.append("topic", topic);
+    });
+    const query = params.toString();
+    return query ? `${archiveBasePath}?${query}` : archiveBasePath;
+  }
+
   function applyArchiveTagLinks(topics, performers) {
     if (!archiveList) return;
 
     archiveList.querySelectorAll(".tags a[data-filter-type]").forEach(function (link) {
       const type = link.dataset.filterType;
       const value = link.textContent.trim();
-      const params = new URLSearchParams();
       const nextPerformers = type === "performer" ? uniqueValues([...performers, value]) : performers;
       const nextTopics = type === "topic" ? uniqueValues([...topics, value]) : topics;
 
-      nextPerformers.forEach(function (performer) {
-        params.append("performer", performer);
-      });
-      nextTopics.forEach(function (topic) {
-        params.append("topic", topic);
-      });
-
-      link.href = `${archiveBasePath}?${params.toString()}`;
+      link.href = archiveUrlFor(nextTopics, nextPerformers);
     });
   }
 
@@ -113,6 +119,73 @@
     }
 
     applyArchiveTagLinks(topics, performers);
+
+    function candidateKey(candidate) {
+      return `${candidate.type}:${candidate.value}`;
+    }
+
+    function allTagCandidates() {
+      const candidates = [];
+      archiveEpisodes.forEach(function (episode) {
+        splitDataList(episode.dataset.performers).forEach(function (performer) {
+          candidates.push({ type: "performer", value: performer });
+        });
+        splitDataList(episode.dataset.topics).forEach(function (topic) {
+          candidates.push({ type: "topic", value: topic });
+        });
+      });
+      const seen = new Set();
+      return candidates
+        .filter(function (candidate) {
+          const key = candidateKey(candidate);
+          if (seen.has(key)) return false;
+          seen.add(key);
+          return true;
+        })
+        .sort(function (a, b) {
+          if (a.type !== b.type) return a.type === "performer" ? -1 : 1;
+          return a.value.localeCompare(b.value, "ja");
+        });
+    }
+
+    function renderTagSuggestions() {
+      if (!tagSearchInput || !tagSuggestions) return;
+
+      const search = tagSearchInput.value.trim().toLowerCase();
+      const selectedKeys = new Set([
+        ...performers.map(function (performer) { return `performer:${performer}`; }),
+        ...topics.map(function (topic) { return `topic:${topic}`; }),
+      ]);
+      const matches = allTagCandidates().filter(function (candidate) {
+        if (selectedKeys.has(candidateKey(candidate))) return false;
+        if (!search) return true;
+        return candidate.value.toLowerCase().includes(search);
+      });
+
+      tagSuggestions.replaceChildren();
+      matches.forEach(function (candidate) {
+        const link = document.createElement("a");
+        const nextPerformers = candidate.type === "performer" ? [...performers, candidate.value] : performers;
+        const nextTopics = candidate.type === "topic" ? [...topics, candidate.value] : topics;
+        link.className = `tag-suggestion ${candidate.type}-suggestion`;
+        link.href = archiveUrlFor(nextTopics, nextPerformers);
+        link.textContent = candidate.value;
+        link.setAttribute("data-label", candidate.type === "performer" ? "出演者" : "Topic");
+        tagSuggestions.append(link);
+      });
+
+      if (matches.length === 0) {
+        const empty = document.createElement("p");
+        empty.className = "tag-suggestions-empty";
+        empty.textContent = "一致するタグはありません";
+        tagSuggestions.append(empty);
+      }
+    }
+
+    if (tagSearchInput && tagSuggestions) {
+      renderTagSuggestions();
+      tagSearchInput.addEventListener("input", renderTagSuggestions);
+    }
 
     function matchingEpisodes() {
       return Array.from(archiveEpisodes).filter(function (episode) {
