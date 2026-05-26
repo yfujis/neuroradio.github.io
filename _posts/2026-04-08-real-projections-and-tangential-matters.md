@@ -62,13 +62,13 @@ Show Notes:
 
 空のラボスペースでデスクワークしてる風景、ニューセンチメンタリティー。
 
-![](/assets/uploads/2026/04/image-1-700x525.jpeg)
+![](/assets/episodes/103-real-projections-and-tangential-matters/image-1-700x525.jpeg)
 
-![](/assets/uploads/2026/04/image-2-700x525.jpeg)
+![](/assets/episodes/103-real-projections-and-tangential-matters/image-2-700x525.jpeg)
 
 ポルトの街並み綺麗でした
 
-![](/assets/uploads/2026/04/image-700x438.jpeg)
+![](/assets/episodes/103-real-projections-and-tangential-matters/image-700x438.jpeg)
 
 Editorial Notes:
 喋ろうとしてたことを結構喋り忘れました。The Pittの話とかしたかったんですが、やはりメモ作らんとだめだな(萩)

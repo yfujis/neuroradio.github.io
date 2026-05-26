@@ -76,9 +76,9 @@ Linラボに入って最初にrevisionを手伝った論文: [Wang et al., 2019]
 
 収録終了の翌朝、さっそくApollo Bagelsに行ってきました。確かに、ベーグル屋には似つかわしくないキラキラ系のお客さんがたくさん並んでました（美味しかったです）。
 
-![](/assets/uploads/2026/05/image-700x525.jpeg)
+![](/assets/episodes/104-empire-social-state-of-mind/image-700x525.jpeg)
 
-![](/assets/uploads/2026/05/image-1-700x765.jpeg)
+![](/assets/episodes/104-empire-social-state-of-mind/image-1-700x765.jpeg)
 
 Editorial Notes:
 働き方に関する議論は大変参考になります。しかし、いやなんでそれ知ってんの...？っていう情報が公開部分外で繰り広げられていて「僕は耳と目を閉じ、口をつぐんだ人間になろうと考えた」状態です。(or shouldn’t I?) (萩)

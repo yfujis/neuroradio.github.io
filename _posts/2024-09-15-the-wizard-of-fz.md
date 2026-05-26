@@ -81,7 +81,7 @@ Peel-and-paste：[これ](https://www.nature.com/articles/s41586-021-04058-1/fig
 [Robert Desimone](https://desimonelab.org/)
 女子高生相手にも手を抜かない齋藤博士：
 
-![](/assets/uploads/2024/09/458161307_875870067818756_7598641591929284764_n-700x525.jpg)
+![](/assets/episodes/79-the-wizard-of-fz/458161307_875870067818756_7598641591929284764_n-700x525.jpg)
 
 [RSIの成果報告会で受賞したのが公表されたページ](https://www.cee.org/newsevents/press-releases/students-earn-top-awards-39th-annual-research-science-institute)
 [CSHLのCRISPR Meeting](https://meetings.cshl.edu/meetings.aspx?meet=crispr&year=22)
@@ -94,7 +94,7 @@ Peel-and-paste：[これ](https://www.nature.com/articles/s41586-021-04058-1/fig
 [Guilhem Faure](https://scholar.google.fr/citations?user=779olI4AAAAJ&hl=en)
 2022年末のFanzorチーム：
 
-![](/assets/uploads/2024/09/457579910_1097694975310227_1444176213297576972_n.jpg)
+![](/assets/episodes/79-the-wizard-of-fz/457579910_1097694975310227_1444176213297576972_n.jpg)
 
 [2023年の日本ゲノム編集学会大会](https://www2.aeplan.co.jp/ge2023/)
 [COVID-19で一緒に働いた](https://www.nejm.org/doi/10.1056/NEJMc2026172)

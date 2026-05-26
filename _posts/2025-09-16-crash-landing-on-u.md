@@ -58,7 +58,7 @@ Meyer研からBDRで独立した方：調べたら[小長谷 有美さん](https
 Referenceをお願いした方々: [Paul Worley](https://neuroscience.jhu.edu/research/faculty/97) [狩野方伸先生](https://www3.med.teikyo-u.ac.jp/profile/ja.3865415e46b20070.html) [かりごう (Tomomi Karigo) さん](https://neuroscience.jhu.edu/research/faculty/161) [上阪さん](https://scholar.google.com/citations?user=fc8QHZ8AAAAJ&hl=ja)
 JaneliaのHopkins Neuroscience Retreat: 夜のDJ ダンスパーティの様子を貼っておきます（長濱）。
 
-![](/assets/uploads/2025/09/Untitled-picture-700x525.png)
+![](/assets/episodes/96-crash-landing-on-u/Untitled-picture-700x525.png)
 
 [Nelson Spruston](https://www.janelia.org/people/nelson-spruston)
 Max Planck: Max Planck Florida Institute for Neuroscience（MPFI）
