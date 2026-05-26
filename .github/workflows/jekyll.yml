@@ -1,12 +1,9 @@
-# .github/workflows/jekyll.yml
-
 name: Deploy Jekyll site to Pages
 
 on:
   push:
     branches:
       - main
-
   workflow_dispatch:
 
 permissions:
@@ -21,6 +18,8 @@ concurrency:
 jobs:
   build:
     runs-on: ubuntu-latest
+    env:
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 
     steps:
       - name: Checkout
@@ -36,9 +35,6 @@ jobs:
         id: pages
         uses: actions/configure-pages@v4
 
-      - name: Install dependencies
-        run: bundle install
-
       - name: Build with Jekyll
         run: bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
         env:
@@ -51,8 +47,9 @@ jobs:
 
   deploy:
     needs: build
-
     runs-on: ubuntu-latest
+    env:
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 
     environment:
       name: github-pages
