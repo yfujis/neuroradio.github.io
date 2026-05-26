@@ -1,7 +1,7 @@
 title: NeuroRadio
 description: 神経科学者による日本語Podcast。
 url: "https://yfujis.github.io"
-baseurl: "/neuroradio.github.io"
+baseurl: "/neuroradio"
 timezone: Asia/Tokyo
 markdown: kramdown
 permalink: /:year/:month/:day/:title/
