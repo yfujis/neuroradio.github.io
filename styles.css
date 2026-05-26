@@ -471,16 +471,14 @@ h3 {
   text-decoration: none;
 }
 
-.tag-suggestion::before {
-  color: var(--muted);
-  content: attr(data-label);
-  font-size: .66rem;
-  text-transform: uppercase;
-}
-
 .performer-suggestion {
   background: #e3e3e0;
   border: 1px solid #d2d2cd;
+}
+
+.host-suggestion {
+  background: #eef5fb;
+  border: 1px solid #d7e6f2;
 }
 
 .topic-suggestion {

@@ -13,6 +13,7 @@
   const archiveBasePath = window.location.pathname.includes("/episodes/")
     ? `${window.location.pathname.split("/episodes/")[0]}/episodes/`
     : "/episodes/";
+  const hostOrder = ["萩原賢太", "宮脇健行", "藤島悠貴"];
   const pageSize = 10;
 
   function closeNavigation() {
@@ -146,6 +147,15 @@
         })
         .sort(function (a, b) {
           if (a.type !== b.type) return a.type === "performer" ? -1 : 1;
+          if (a.type === "performer") {
+            const aHostIndex = hostOrder.indexOf(a.value);
+            const bHostIndex = hostOrder.indexOf(b.value);
+            if (aHostIndex !== -1 || bHostIndex !== -1) {
+              if (aHostIndex === -1) return 1;
+              if (bHostIndex === -1) return -1;
+              return aHostIndex - bHostIndex;
+            }
+          }
           return a.value.localeCompare(b.value, "ja");
         });
     }
@@ -170,9 +180,11 @@
         const nextPerformers = candidate.type === "performer" ? [...performers, candidate.value] : performers;
         const nextTopics = candidate.type === "topic" ? [...topics, candidate.value] : topics;
         link.className = `tag-suggestion ${candidate.type}-suggestion`;
+        if (hostOrder.includes(candidate.value)) {
+          link.classList.add("host-suggestion");
+        }
         link.href = archiveUrlFor(nextTopics, nextPerformers);
         link.textContent = candidate.value;
-        link.setAttribute("data-label", candidate.type === "performer" ? "出演者" : "Topic");
         tagSuggestions.append(link);
       });
 
