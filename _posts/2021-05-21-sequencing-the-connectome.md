@@ -58,6 +58,7 @@ LancetになったイスラエルMoHの[論文](https://doi.org/10.1016/S0140-67
 
 <figure>
   <img src="/assets/episodes/11-sequencing-the-connectome/%E7%84%A1%E9%A1%8C.png" alt="Episode 11 image">
+  <figcaption>From Kebschull et al., bioRxiv 10.1101/054312v2 (2016)</figcaption>
 </figure>
 
 Editorial Notes:

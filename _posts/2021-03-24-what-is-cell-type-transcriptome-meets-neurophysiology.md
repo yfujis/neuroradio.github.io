@@ -40,6 +40,7 @@ Allenによるenhancerを利用したsubclassへの[genetic access](https://www.
 
 <figure>
   <img src="/assets/episodes/4-what-is-cell-type-transcriptome-meets-neurophysiology/CRACK_eyecatch-700x484.png" alt="Episode 4 image">
+  <figcaption>from Condylis et al., bioRxiv 2021.02.23.432355 (2021)</figcaption>
 </figure>
 
 Editorial Notes:

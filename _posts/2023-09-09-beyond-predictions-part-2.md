@@ -63,6 +63,7 @@ AllenのEM, [VIPは一部のSOMにしかいってない](https://www.biorxiv.org
 
 <figure>
   <img src="/assets/episodes/63-beyond-predictions-part-2/unnamed-1-1-700x525.jpg" alt="Episode 63 image">
+  <figcaption>さぼてんと痛がるしょーへー。チョラサボテンは世界一痛いらしい。</figcaption>
 </figure>
 
 Editorial Notes:

@@ -108,6 +108,7 @@ Auto Patcher？：マテメソ読んだ感じ手動でした笑
 
 <figure>
   <img src="/assets/episodes/43-splendid-isolation/catch43-700x677.jpg" alt="Episode 43 image">
+  <figcaption>from Vierock et al., bioRxiv 2022, 2022.07.02.498568 (2022)</figcaption>
 </figure>
 
 Editorial Notes:
