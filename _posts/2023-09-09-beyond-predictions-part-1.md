@@ -79,8 +79,14 @@ Prediction-Errorに関する[最新プレプリント](https://www.biorxiv.org/c
 [Tom Misch](https://tommisch.com/)
 
 
-![Episode 62 image](/assets/episodes/62-beyond-predictions-part-1/unnamed-700x466.jpg)
-*しょーへーとけんた*
+<figure style="text-align: center;">
+  <img src="/assets/episodes/62-beyond-predictions-part-1/unnamed-700x466.jpg"
+       alt="Episode 62 image"
+       width="700">
+  <figcaption>
+    しょーへーとけんた
+  </figcaption>
+</figure>
 
 Editorial Notes:
 ライミングを含め色々猛省します! (古)
