@@ -5,7 +5,7 @@ episode_number: "88"
 date: 2025-04-17
 permalink: /2025/04/17/88-absolutely-not-absolute/
 spotify: "https://podcasters.spotify.com/pod/show/neuroradio/embed/episodes/88-Absolutely-not-absolute-e31jl2m"
-performers: ["萩原賢太", "宮脇健行", "藤島悠貴"]
+performers: ["萩原賢太", "宮脇健行"]
 topics: ["雑談", "論文解説", "資産運用", "技術"]
 summary: "予算カット、２年ルールWaiver、資産運用への影響、メールでのコミュニケーションなど。論文紹介は、実装が簡単な高速FLIMと、Sequeincing by expansion (4/9収録)"
 ---

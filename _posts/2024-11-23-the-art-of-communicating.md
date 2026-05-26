@@ -5,7 +5,7 @@ episode_number: "82"
 date: 2024-11-23
 permalink: /2024/11/23/82-the-art-of-communicating/
 spotify: "https://podcasters.spotify.com/pod/show/neuroradio/embed/episodes/82-The-Art-of-Communicating-e2rboqp"
-performers: ["菅野康太", "萩原賢太", "宮脇健行", "藤島悠貴"]
+performers: ["菅野康太", "萩原賢太", "宮脇健行"]
 topics: ["ゲスト回", "社会行動", "心理学", "サイエンスコミュニケーション"]
 summary: "鹿児島大学の菅野康太さん(@canno696show)がゲスト。マウスのコミュニケーション研究をするに至った経緯、地方国立大での研究や心理学教育、サイエンスコミュニケーション活動について伺いました (10/30収録)"
 ---

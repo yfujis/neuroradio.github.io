@@ -5,7 +5,7 @@ episode_number: "86"
 date: 2025-04-02
 permalink: /2025/04/02/86-pushing-the-limits-of-drosophila-part-1/
 spotify: "https://podcasters.spotify.com/pod/show/neuroradio/embed/episodes/86-Pushing-the-limits-of-Drosophila--Part-1-e30v1is"
-performers: ["山本慎也", "萩原賢太", "宮脇健行", "藤島悠貴"]
+performers: ["山本慎也", "萩原賢太", "宮脇健行"]
 topics: ["ゲスト回", "モデル動物", "疾患", "遺伝学"]
 summary: "Baylor College of Medicineの山本慎也さんがゲスト。前編。ツールとしてハエを使うNeuroscientistと脳を見ているハエGeneticistの違い、ハエForward geneticsからヒト希少疾患研究に繋がった経緯、Living test tubeとしてのハエの魅力、Reverse geneticsによるヒト化ハエのRare disease・Common disease・感染症研究への応用について (3/28収録)"
 ---
