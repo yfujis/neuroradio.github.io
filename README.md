@@ -89,6 +89,8 @@ _posts/2026-04-08-real-projections-and-tangential-matters.md
 
 GitHub PagesはGitHub Actionsで `_site/` をデプロイします。`.github/workflows/pages.yml` が `bundle exec jekyll build` を実行します。
 
+現在の `_config.yml` はGitHub PagesのプレビューURL用に `baseurl: "/neuroradio.github.io"` にしています。`neuroradio.tokyo` へ本番移行するときは `url: "https://neuroradio.tokyo"`、`baseurl: ""` に戻します。
+
 推奨設定:
 
 1. GitHubで `Settings` -> `Pages` を開く。
