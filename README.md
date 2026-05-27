@@ -2,15 +2,25 @@
 
 NeuroRadioのGitHub Pages向けJekyllサイトです。エピソードは `_posts/` のMarkdownファイルとして管理します。
 
-## Add a new episode
+## 新しいエピソードを追加する
 
-`_posts/` に新しいMarkdownファイルを追加します。ファイル名は日付から始めます。
+新しいエピソードは `_posts/` にMarkdownファイルを1つ追加すると作れます。JSONや管理画面は使いません。
+
+ファイル名は `YYYY-MM-DD-slug.md` にします。
 
 ```text
 _posts/2026-06-01-new-episode-title.md
 ```
 
-テンプレート:
+`slug` はURLに入る英数字の短い名前です。元サイトとURLを揃えるため、`permalink` にはエピソード番号を含めます。
+
+```text
+/2026/06/01/105-new-episode-title/
+```
+
+### テンプレート
+
+以下をコピーして、新しいファイルに貼り付けてください。
 
 ```markdown
 ---
@@ -21,7 +31,7 @@ date: 2026-06-01
 permalink: /2026/06/01/105-new-episode-title/
 spotify: "https://open.spotify.com/embed/episode/..."
 performers: ["ゲスト名", "宮脇健行", "藤島悠貴"]
-topics: ["ゲスト回", "研究生活"]
+topics: ["ゲスト回", "論文解説"]
 summary: "ここにエピソードの短い説明を書きます。"
 ---
 
@@ -37,13 +47,69 @@ Editorial Notes:
 複数人のコメントは項目を分けると読みやすいです。（宮脇）
 ```
 
-本文側はGoogle Docsから貼りやすいラベル形式です。リンクはMarkdown形式で書きます。
+### 書き方
+
+`Summary:`、`Show Notes:`、`Editorial Notes:` のラベルは消さないでください。Jekyll pluginがこのラベルを読んで、現在のデザインに変換します。
+
+Show NotesとEditorial Notesは、Google Docsからそのまま貼りやすいように、各項目の先頭に `-` を付けなくて大丈夫です。1行が1項目として表示されます。
+
+リンクはMarkdown形式で書きます。
 
 ```markdown
 [表示テキスト](https://example.com)
 ```
 
-## Edit an episode
+### Spotify埋め込みURL
+
+Spotifyのエピソードページから埋め込みURLを取得し、`spotify:` に入れます。形式はこのようにします。
+
+```text
+https://open.spotify.com/embed/episode/xxxxxxxxxxxxxxxxxxxxxx?utm_source=generator
+```
+
+### 出演者とトピック
+
+`performers` と `topics` はエピソード一覧のフィルターに使われます。
+
+出演者はゲストを先に書き、そのあとにホストを書きます。ホストを書く場合はこの順番にします。
+
+```text
+萩原賢太, 宮脇健行, 藤島悠貴
+```
+
+例:
+
+```yaml
+performers: ["ゲスト名", "萩原賢太", "宮脇健行"]
+topics: ["ゲスト回", "論文解説", "留学"]
+```
+
+### 画像を入れる場合
+
+画像ファイルはエピソードごとのフォルダに入れます。
+
+```text
+assets/episodes/105-new-episode-title/image-1.jpg
+```
+
+画像はShow Notesの最後、`Editorial Notes:` の直前に置きます。キャプションがある場合は `<figcaption>` に書きます。
+
+```html
+<figure>
+  <img src="/assets/episodes/105-new-episode-title/image-1.jpg" alt="">
+  <figcaption>ここにキャプションを書きます。</figcaption>
+</figure>
+```
+
+キャプションがない場合:
+
+```html
+<figure>
+  <img src="/assets/episodes/105-new-episode-title/image-1.jpg" alt="">
+</figure>
+```
+
+## 既存エピソードを編集する
 
 既存エピソードは `_posts/` の該当ファイルを編集します。例:
 
@@ -53,11 +119,27 @@ _posts/2026-04-08-real-projections-and-tangential-matters.md
 
 `bundle exec jekyll serve` 実行中なら、保存するとローカルサイトが自動で更新されます。
 
-## GitHub Pages deployment
+## ローカルで確認する
+
+初回だけ依存関係を入れます。
+
+```sh
+bundle install
+```
+
+ローカルサーバーを起動します。
+
+```sh
+bundle exec jekyll serve
+```
+
+表示されたURLをブラウザで開いて確認します。
+
+## GitHub Pagesデプロイ
 
 GitHub PagesはGitHub Actionsで `_site/` をデプロイします。`.github/workflows/pages.yml` が `bundle exec jekyll build` を実行します。
 
-現在の `_config.yml` はGitHub PagesのプレビューURL用に `baseurl: "/neuroradio.github.io"` にしています。`neuroradio.tokyo` へ本番移行するときは `url: "https://neuroradio.tokyo"`、`baseurl: ""` に戻します。
+現在の `_config.yml` は `https://yukifujishima.com/neuroradio/` 用に `baseurl: "/neuroradio"` にしています。`neuroradio.tokyo` へ本番移行するときは `url: "https://neuroradio.tokyo"`、`baseurl: ""` に戻します。
 
 推奨設定:
 
@@ -70,6 +152,7 @@ GitHub PagesはGitHub Actionsで `_site/` をデプロイします。`.github/wo
 - `_posts/*.md` がエピソードの編集元です。
 - `permalink` を元サイトと同じURLにすることで、移行後もURLを維持します。
 - `_plugins/episode_parser.rb` が `Summary:`, `Show Notes:`, `Editorial Notes:` のラベル形式を読み取り、現在のデザインに合うHTMLへ変換します。
+- 画像は `/assets/episodes/...` と書けば、GitHub Pages上では自動で `/neuroradio/assets/episodes/...` として表示されます。
 - `styles.css` と `script.js` は現在のNeuroRadioデザインをそのまま使います。
 
 ## Files
