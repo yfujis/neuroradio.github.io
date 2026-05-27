@@ -6,7 +6,7 @@ date: 2021-10-08
 permalink: /2021/10/08/26-poor-is-the-pupil-who-does-not-surpass-his-master-part-4/
 spotify: "https://open.spotify.com/embed/episode/0Gv9esz4g6IGNtgCh0wSEg?utm_source=generator"
 performers: ["ゲスト", "萩", "脇"]
-topics: ["ゲスト回", "PI・キャリア", "記憶", "再登場"]
+topics: ["ゲスト回", "PI・キャリア", "記憶"]
 summary: "五十嵐さん回その4。収録終了後の雑談からオムニバス的に編集。最近の海馬でのSpatial+α表象の仕事についての見解、リバッタルでのレビュワーとのやり取り、新メンバーのテーマ設定、などなど（8/31+9/1収録）。"
 ---
 

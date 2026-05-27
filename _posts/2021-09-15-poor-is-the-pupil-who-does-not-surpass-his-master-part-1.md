@@ -6,7 +6,7 @@ date: 2021-09-15
 permalink: /2021/09/15/23-poor-is-the-pupil-who-does-not-surpass-his-master-part-1/
 spotify: "https://open.spotify.com/embed/episode/6RA7yPR0JOHxZxOcSmwCyd?utm_source=generator"
 performers: ["ゲスト", "萩", "脇"]
-topics: ["ゲスト回", "PI・キャリア", "記憶", "再登場"]
+topics: ["ゲスト回", "PI・キャリア", "記憶"]
 summary: "UC Irvineの五十嵐啓さん(@kei_m_igarashi)にお越しいただき、学部・大学院時代のお話、特に『失敗談』– あるいは地獄の釜の底 – について伺いました（8/31収録）"
 ---
 

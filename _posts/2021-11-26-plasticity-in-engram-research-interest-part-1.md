@@ -6,7 +6,7 @@ date: 2021-11-26
 permalink: /2021/11/26/28-plasticity-in-engram-research-interest-part-1/
 spotify: "https://open.spotify.com/embed/episode/3NbOPIuu9zGKFnVE4TpT7T?utm_source=generator"
 performers: ["ゲスト", "萩"]
-topics: ["ゲスト回", "PI・キャリア", "記憶", "再登場"]
+topics: ["ゲスト回", "PI・キャリア", "記憶"]
 summary: "デンマーク・オーフス大のDANDRITE研究所で来夏独立予定の北沢太郎さん(@kitazawa_taro, 現FMI Rijliラボ)をゲストに、これまでのキャリア・興味の変遷、FMI、ヨーロッパでの就活などなどについて話しました。(11/4収録 * 初のin-person収録ということで宮脇はお休み)"
 ---
 

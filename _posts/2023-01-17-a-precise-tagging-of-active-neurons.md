@@ -6,7 +6,7 @@ date: 2023-01-17
 permalink: /2023/01/17/51-a-precise-tagging-of-active-neurons/
 spotify: "https://open.spotify.com/embed/episode/2YZcY0TnfMBAHRmAKH8VkU?utm_source=generator"
 performers: ["ゲスト", "萩", "脇"]
-topics: ["ゲスト回", "イメージング", "細胞標識", "キャリア", "再登場"]
+topics: ["ゲスト回", "イメージング", "細胞標識", "キャリア"]
 summary: "Hyungbae Kwonラボの長濱健一郎さん(@k_hammer_1001)ゲスト回。初期研修から基礎研究に進んだ経緯、狩野研でのスライスパッチャー生活、Hyungbae Kwonラボの現在の方向性、最近のST Cal..."
 ---
 
