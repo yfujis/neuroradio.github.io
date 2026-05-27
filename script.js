@@ -180,9 +180,6 @@
         const nextPerformers = candidate.type === "performer" ? [...performers, candidate.value] : performers;
         const nextTopics = candidate.type === "topic" ? [...topics, candidate.value] : topics;
         link.className = `tag-suggestion ${candidate.type}-suggestion`;
-        if (hostOrder.includes(candidate.value)) {
-          link.classList.add("host-suggestion");
-        }
         link.href = archiveUrlFor(nextTopics, nextPerformers);
         link.textContent = candidate.value;
         tagSuggestions.append(link);
