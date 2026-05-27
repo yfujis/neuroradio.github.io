@@ -71,12 +71,6 @@ https://open.spotify.com/embed/episode/xxxxxxxxxxxxxxxxxxxxxx?utm_source=generat
 
 `performers` と `topics` はエピソード一覧のフィルターに使われます。
 
-出演者はゲストを先に書き、そのあとにホストを書きます。ホストを書く場合はこの順番にします。
-
-```text
-萩原賢太, 宮脇健行, 藤島悠貴
-```
-
 例:
 
 ```yaml
