@@ -13,7 +13,7 @@
   const archiveBasePath = window.location.pathname.includes("/episodes/")
     ? `${window.location.pathname.split("/episodes/")[0]}/episodes/`
     : "/episodes/";
-  const hostOrder = ["萩", "脇", "藤"];
+  const hostOrder = ["ゲスト", "萩", "脇", "藤"];
   const pageSize = 10;
 
   function closeNavigation() {

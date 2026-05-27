@@ -10,7 +10,7 @@
     </span>
     <div class="tags">
       {% for performer in include.episode.performers %}
-        <a class="{% if performer == '萩' or performer == '脇' or performer == '藤' %}host-tag{% endif %}" href="{{ '/episodes/' | relative_url }}?performer={{ performer | uri_escape }}" data-filter-type="performer">{{ performer }}</a>
+        <a class="{% if performer == 'ゲスト' or performer == '萩' or performer == '脇' or performer == '藤' %}host-tag{% endif %}" href="{{ '/episodes/' | relative_url }}?performer={{ performer | uri_escape }}" data-filter-type="performer">{{ performer }}</a>
       {% else %}
         <span>未設定</span>
       {% endfor %}
