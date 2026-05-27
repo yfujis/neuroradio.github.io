@@ -77,7 +77,7 @@ AAV2-rgのトロピズム、[これ](https://www.cell.com/neuron/fulltext/S0896-
 論文２：[A neural mechanism for learning from delayed postingestive feedback](https://www.biorxiv.org/content/10.1101/2023.10.06.561214v1)
 [Richard Palmiter](https://www.hhmi.org/scientists/richard-d-palmiter)
 [Parabrachial CGRP がCTAに効いてるというNeuronの仕事](https://www.cell.com/neuron/fulltext/S0896-6273(18)30834-1)
-[慈恵の渡部さん](http://watabe-lab.jp/)
+[慈恵の渡部さん](https://watabe-lab.jp/)
 の[仕事](https://www.sciencedirect.com/science/article/abs/pii/S2352154618300688?via%3Dihub)
 Hailan Huの2報 [1](https://www.nature.com/articles/nature25509) [2](https://www.nature.com/articles/nature25752) (と言ってたら10/18に[続報がまたN](https://doi.org/10.1038/s41586-023-06624-1)に)
 リチウムは[これ](https://www.nature.com/articles/nature15526)とHailan Huが混乱してた感じが 萩

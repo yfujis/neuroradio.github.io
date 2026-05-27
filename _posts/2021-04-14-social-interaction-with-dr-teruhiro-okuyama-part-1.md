@@ -14,9 +14,9 @@ Summary:
 東大定量研の奥山輝大さん（@Teru_Okuyama）をゲストに迎え、大学院時代、ポスドク時代、キャリア選択の際に考えていたこと、新PIとしての３年間についてお話しいただきました。後編(Part2)に続きます。
 
 Show Notes:
-[奥山ラボHP](http://www.iam.u-tokyo.ac.jp/okuyamalab/)
+[奥山ラボHP](https://www.iam.u-tokyo.ac.jp/okuyamalab/)
 [バイリンガルニュース](https://bilingualnews.jp/)
-定量研…東京大学の附置研、[定量生命科学研究所](http://www.iam.u-tokyo.ac.jp/)のこと。
+定量研…東京大学の附置研、[定量生命科学研究所](https://www.iam.u-tokyo.ac.jp/)のこと。
 メダカの性行動の論文…[A Neural Mechanism Underlying Mating Preferences for Familiar Individuals in Medaka Fish](https://science.sciencemag.org/content/343/6166/91) 奥山さんが博士課程で行った、メダカの『単純接触効果』の神経基盤に迫った仕事。メダカのメスは、配偶者を選択する際、事前に視覚的に認識していた見知ったオスを記憶していて、その求愛を積極的に受け入れる。そのような行動を示さない変異体をフォワード遺伝学により同定し、始原生殖細胞の増減に関わることで有名な遺伝子を釣ってきたが、始原生殖細胞の増減は上記の行動には関係なく、あまり有名でない機能（性腺刺激ホルモン放出ホルモン（GnRH）ニューロン発生への関与）が原因であることを発見。特に、GnRH3ニューロンが正常に発生すること、その特徴的な発火パターンが求愛の拒絶から受入への変化に重要であることを突き止めた。
 記憶の論文…[Ventral CA1 neurons store social memory](https://science.sciencemag.org/content/353/6307/1536) 奥山さんがポスドクで行った、マウスが他人を記憶する仕組みに迫った仕事。マウスは、よく知っている相手よりも、知らない新規な相手に近づくという性質を持つ。この行動に、腹側海馬のCA1、特に側坐核に投射する細胞集団が必要であることを、独自の行動試験と光遺伝学によって実証。また、腹側海馬CA1に良く知った相手特異的に活動する細胞が多くいることを、プリズムを用いたCaイメージングと、c-fosプロモーター下で発現し、時間が経つにつれて色が変わるタンパク質（FT-Slow）によって発見。更に、c-fosによってラベルしたこの細胞集団を、人工的に活性化することで記憶を呼び起こしたり、忌避的・嗜好的な情動を他者の記憶の情報に紐づけられることから、腹側CA1の細胞が他者の記憶を保持していることを示した。
 鉄緑会…代々木の進学塾
@@ -26,7 +26,7 @@ SfN…北米神経科学会（の年会）
 すすむ…利根川進のこと
 川島くん…ワイツマン研究所の[川島尚之さん](https://www.weizmann.ac.il/neurobiology/labs/kawashima/)のこと
 透明な魚…例えば：[A crystal-clear zebrafish for in vivo imaging](https://www.nature.com/articles/srep29490)
-スティーブ…利根川研Engram時代を支えた[Steve Ramirez](http://theramirezgroup.org/team/steve-ramirez)のこと。
+スティーブ…利根川研Engram時代を支えた[Steve Ramirez](https://theramirezgroup.org/team/steve-ramirez)のこと。
 3チャンバー試験…社会性を定量するための行動試験。檻に閉じ込められたマウスがいる部屋、空の部屋、檻だけがある部屋の３つをつなげて自由に行き来できるようにし、空の部屋に入れられたマウスが、それぞれの部屋に滞在する時間を定量する。
 奥山さんが用いた行動試験…典型的な３チャンバーではなく、楕円型のオープンフィールドの両端におりを置いている。
 [建物の重要性について語る利根川先生](https://bcs.mit.edu/news-events/media/professor-susumu-tonegawa-architect-charles-correa)

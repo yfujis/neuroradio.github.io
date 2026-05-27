@@ -28,10 +28,10 @@ Allen Instituteの[Next Generation Leader](https://alleninstitute.org/what-we-do
 [K99](https://www.niddk.nih.gov/research-funding/process/apply/funding-mechanisms/k-awards/k99-r00)：PhD取得後４年以内の人を対象とした、ポスドクから独立までをサポートするための予算。これを持ってるとジョブが取りやすい…らしい。
 [HFSP](https://www.hfsp.org/funding/hfsp-funding/postdoctoral-fellowships)：ポスドクで別の国に移動する人向けのフェローシップ
 [EMBO](https://www.embo.org/funding/fellowships-grants-and-career-support/postdoctoral-fellowships/)：ヨーロッパでポスドクをするひと向けのフェローシップ
-[SNF-Ambizione](http://www.snf.ch/en/funding/careers/ambizione/Pages/default.aspx)：スイスのシニアポスドク用半独立フェローシップ
+[SNF-Ambizione](https://www.snf.ch/en/funding/careers/ambizione/Pages/default.aspx)：スイスのシニアポスドク用半独立フェローシップ
 [シャオ・ワン](https://www.wangxiaolab.org/)：D-labで３次元組織でin situ sequencingをする[STARmap](https://science.sciencemag.org/content/361/6400/eaat5691)論文を出して現在Broad Instituteで独立
 [Glassdoor](https://www.glassdoor.com/index.htm)
-[Helen Hay](http://hhwf.org/research-fellowship/)
+[Helen Hay](https://hhwf.org/research-fellowship/)
 冠が付くと：Professorの前にヒトの名前が付く。Karlの肩書は D.H. Chen Professor, Georgeの肩書はRobert Winthrop Professor.
 [Breakthrough prize](https://breakthroughprize.org/)：300万ドル
 [京都賞](https://www.kyotoprize.org/)：１億円

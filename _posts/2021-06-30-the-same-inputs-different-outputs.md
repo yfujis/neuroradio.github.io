@@ -27,7 +27,7 @@ Show Notes:
 論文その１：[Geometry of abstract learned knowledge in the hippocampus](https://www.nature.com/articles/s41586-021-03652-7)
 [David Tank](https://pni.princeton.edu/faculty/david-tank)
 MINDの手法論文：[Probing variability in a cognitive map using manifold inference from neural dynamics](https://www.biorxiv.org/content/10.1101/418939v2)
-[Carlos Brody ラボ](http://brodylab.org/)
+[Carlos Brody ラボ](https://brodylab.org/)
 Aronovの[non-spatial mapping論文](https://www.nature.com/articles/nature21692)
 Harveyの[parietal cortex論文](https://www.nature.com/articles/nature10918)
 bioRxiv に上がってる[Cortexの方の論文](https://www.biorxiv.org/content/10.1101/801654v2.full.pdf+html)
@@ -47,7 +47,7 @@ ATAC-seqについての[ブログ](https://www.activemotif.jp/blog-atac-seq)
 Auditory Cortexの[Drift](https://www.sciencedirect.com/science/article/pii/S0896627315009186) (PVでなくSOMでした...汗)
 Visual CortexのDriftに関するZivのbioRxiv[プレプリント](https://www.biorxiv.org/content/10.1101/2020.10.05.327049v1)
 論文その２：[A gradual backward shift of dopamine responses during associative learning](https://www.biorxiv.org/content/10.1101/2020.10.04.325324v1)
-[ViDA](http://www.vidaconference.com/)
+[ViDA](https://www.vidaconference.com/)
 Shultzらの仕事に関してはsee #16 shownotes.
 Temporal Difference Learningに基づいたシミュレーションについての[日本語解説](https://compneuro-julia.github.io/reinforcement-learning/td-learning.html) (Juliaで学ぶ計算論的神経科学から)。説明が不十分だったtap-delay-line(aka CSC)による実装は、内田さんによるこの[総説](https://projects.iq.harvard.edu/files/uchidalab/files/starkweather_and_uchida_2020.pdf)(直.pdf注意)のFig2がわかりやすい。
 電気生理・GCaMP・GRAB-DAで基本的には同じ現象が見える、についての[論文](https://www.sciencedirect.com/science/article/pii/S0092867420315300) (Kim, Uchida et al)

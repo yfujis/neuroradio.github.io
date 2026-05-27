@@ -118,8 +118,8 @@ Deliveryの話、例えば[コレ](https://www.nature.com/articles/s41586-023-05
 [東大の真下先生](https://www.ims.u-tokyo.ac.jp/animal-genetics/professor.html)
 [Cas3の論文](https://www.nature.com/articles/s41467-019-13226-x)
 [五神真先生](https://www.riken.jp/pr/closeup/2022/20220530_1/index.html)
-[大阪大学の蛋白質研究所](http://www.protein.osaka-u.ac.jp/)
-[定量研と卓越研究員制度](http://shochou-kaigi.org/center/%E6%9D%B1%E4%BA%AC%E5%A4%A7%E5%AD%A6%E5%AE%9A%E9%87%8F%E7%94%9F%E5%91%BD%E7%A7%91%E5%AD%A6%E7%A0%94%E7%A9%B6%E6%89%80/)
+[大阪大学の蛋白質研究所](https://www.protein.osaka-u.ac.jp/)
+[定量研と卓越研究員制度](https://shochou-kaigi.org/center/%E6%9D%B1%E4%BA%AC%E5%A4%A7%E5%AD%A6%E5%AE%9A%E9%87%8F%E7%94%9F%E5%91%BD%E7%A7%91%E5%AD%A6%E7%A0%94%E7%A9%B6%E6%89%80/)
 [今年は加藤セチプログラムのみ](https://www.riken.jp/pr/news/2024/20240426_1/index.html)
 [Max君は本当にすごい](https://scholar.google.co.uk/citations?user=EijrlGsAAAAJ&hl=en)
 Rockefellerインタビュー[6人中2人](https://www.rockefeller.edu/events-and-lectures/56358-faculty-search-science-symposium-13/)がうちのラボ
@@ -150,7 +150,7 @@ Rockefellerインタビュー[6人中2人](https://www.rockefeller.edu/events-an
 [本田圭佑](https://www.media.mit.edu/people/keisukeh/overview/)
 [HFSPミーティング](https://www.hfsp.org/aam)
 [長田重一先生](https://brh.co.jp/s_library/interview/66/)
-[アポトーシスの写真](http://genes.atspace.org/27.11.html)
+[アポトーシスの写真](https://genes.atspace.org/27.11.html)
 [二階堂先生](https://bit.riken.jp/ja/)　ありがとうございました、引き続きよろしくお願いいたします！（by齋藤）
 [加藤英明先生](https://park.itc.u-tokyo.ac.jp/hekato_lab/)　ありがとうございました、引き続きよろしくお願いいたします！（by齋藤）
 [奥山先生](https://www.iqb.u-tokyo.ac.jp/okuyamalab/)　ありがとうございました、引き続きよろしくお願いいたします！（by齋藤）

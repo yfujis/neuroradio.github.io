@@ -64,13 +64,13 @@ Ben Barresの有名なコラム [1](https://www.nature.com/scitable/content/does
 David Andersonラボと出した[PKC-δ論文](https://www.nature.com/articles/nature09553)
 [CAR論文](https://www.sciencedirect.com/science/article/pii/S0896627318304264)
 [CAVとHSVを混ぜた系](https://www.sciencedirect.com/science/article/pii/S0896627313010404)。なんか片方だとpreの細胞の場所が偏るとかよくわからないトロピズムがあって混ぜたということらしいです。
-[Nikolas Karalis](http://nikolaskaralis.gr/)
+[Nikolas Karalis](https://nikolaskaralis.gr/)
 [米原さんのGCaMP6sの初出](https://www.science.org/doi/10.1126/science.aab1687)
 [米原ラボ](https://yoneharalab.org/)
-[Chunっていうポスドク](http://english.cebsit.cas.cn/LABORATORIES/XuChun/People/)@ION
+[Chunっていうポスドク](https://english.cebsit.cas.cn/LABORATORIES/XuChun/People/)@ION
 [CallawayのSAD-B19](https://www.sciencedirect.com/science/article/pii/S0896627307000785)
 [Osakadaプロトコル論文](https://www.nature.com/articles/nprot.2013.094)
-[小坂田ラボ](http://www.ps.nagoya-u.ac.jp/lab_pages/Pharmacology/)
+[小坂田ラボ](https://www.ps.nagoya-u.ac.jp/lab_pages/Pharmacology/)
 [最近出てきたYFV](https://www.nature.com/articles/s41592-021-01319-9)
 ３報目：[A Novel Single Vector Intersectional AAV Strategy for Interrogating Cellular Diversity and Brain Function](https://www.biorxiv.org/content/10.1101/2023.02.07.527312v1)
 [Lindsay Schwarzラボ](https://www.stjude.org/research/labs/schwarz-lab.html)
@@ -88,10 +88,10 @@ AllenによるLCの[in vivoキャラクタライゼーションpreprint](https:/
 [Linda Richards](https://qbi.uq.edu.au/profile/108/linda-richards)
 [Callosal Projectionのdevelopment](https://doi.org/10.1016/j.neuron.2014.04.040)をやっていた
 [in pouch エレポはメソッド論文が先に出ていた](https://www.sciencedirect.com/science/article/pii/S0165027017303254)
-[遺伝研の岩里先生](http://iwasato-lab.sakura.ne.jp/)
+[遺伝研の岩里先生](https://iwasato-lab.sakura.ne.jp/)
 論文がいくつか [1](https://doi.org/10.1016/j.celrep.2017.12.012)[2](https://www.nature.com/articles/s41467-018-05563-0)[3](https://www.jneurosci.org/content/40/40/7637)
 [かじぽふさん](https://www.ial-developmental-neurobiology.com/en/members/132-roustem-khazipov-en) (ブザキ弟子でした)
-[Arthur Konnerthラボ](http://www.ifn.med.tum.de/new/konnerth.php)
+[Arthur Konnerthラボ](https://www.ifn.med.tum.de/new/konnerth.php)
 による[自発活動のキャラクタライゼーション](https://www.pnas.org/doi/full/10.1073/pnas.0907660106)
 ５報目：[Functional organization of visual responses in the octopus optic lobe](https://www.biorxiv.org/content/10.1101/2023.02.16.528734v1)
 [大木先生の2005年の論文](https://www.nature.com/articles/nature03274)
@@ -108,12 +108,12 @@ AllenによるLCの[in vivoキャラクタライゼーションpreprint](https:/
 [失敗してた](https://www.nature.com/articles/s41591-022-01770-x)
 そういえば…[某Xenotransplantationスタートアップ](https://egenesisbio.com/xenotransplant/)
 ６報目：[A bioelectrical phase transition patterns the first beats of a vertebrate heart](https://www.biorxiv.org/content/10.1101/2022.12.06.519309v1)
-[Adam Cohenラボ](http://cohenweb.rc.fas.harvard.edu/)
+[Adam Cohenラボ](https://cohenweb.rc.fas.harvard.edu/)
 [Sean Megasonラボ](https://sysbio.med.harvard.edu/sean-megason)
 イジケビッチ本：[Dynamical Systems in Neuroscience](https://www.izhikevich.org/publications/dsn.pdf) (PDF)
-[Morris-Lecar model](http://www.scholarpedia.org/article/Morris-Lecar_model)
-[SNIC分岐](http://www.scholarpedia.org/article/User:Eugene_M._Izhikevich/Proposed/Saddle-node_bifurcation_on_invariant_circle)（イジケビッチはScholarpediaのEiCらしい）
-[Quadratic Integrate-and-Fire Model](http://math.bu.edu/people/mak/MA565/qif_book.pdf) (PDF)
+[Morris-Lecar model](https://www.scholarpedia.org/article/Morris-Lecar_model)
+[SNIC分岐](https://www.scholarpedia.org/article/User:Eugene_M._Izhikevich/Proposed/Saddle-node_bifurcation_on_invariant_circle)（イジケビッチはScholarpediaのEiCらしい）
+[Quadratic Integrate-and-Fire Model](https://math.bu.edu/people/mak/MA565/qif_book.pdf) (PDF)
 [牧野さんの回](/2023/02/24/53-understanding-by-creating-is-all-you-need/)
 [Overdrive Suppression](https://new.jhrs.or.jp/contents_jse/words/view.php?id=317&page=32)
 Nkx2.5：:転写因子らしいです

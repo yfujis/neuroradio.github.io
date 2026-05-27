@@ -50,7 +50,7 @@ Goldman-Rakicの[obituary](https://www.nature.com/articles/nn1003-1015) in Natur
 そういえばLIPあんまり重要でなさそうという[AlexHuk論文](https://www.nature.com/articles/nature18617)を議論してもよかったなと思いました。その後の展開をちゃんと追ってないので、LIP詳しい人のコメントを聞いてみたかったのでもしよかったらここで。(萩)
 
 [Zhou & Freedman](https://www.science.org/doi/10.1126/science.aaw8347) は抑制したLIPの応答視覚領域(Response Field)の中に視覚刺激(ランダムドット)がある場合とターゲットがある場合を比較して、前者の方が後者より正答率が顕著に低下することを示しました。
-LIP抑制ではないですが、[Fetsch et al](https://elifesciences.org/articles/36523)はMTが抑制されても残存領域の代替により、意思決定機能は速やかに回復することを示しました。同様の現象は齧歯類でも報告があります([Kawai et al](http://dx.doi.org/10.1016/j.neuron.2015.03.024), [Mizes et al](https://www.nature.com/articles/s41593-024-01792-3), [Hong et al](https://www.nature.com/articles/s41586-024-07799-x), [Quintana et al](https://www.biorxiv.org/content/10.1101/2023.05.11.540397v2))。私自身も実験を通じて経験しており、[今後の研究テーマ](https://www.kiralab.org/research)(脳の機能回復メカニズム)として掲げています。(吉良)
+LIP抑制ではないですが、[Fetsch et al](https://elifesciences.org/articles/36523)はMTが抑制されても残存領域の代替により、意思決定機能は速やかに回復することを示しました。同様の現象は齧歯類でも報告があります([Kawai et al](https://dx.doi.org/10.1016/j.neuron.2015.03.024), [Mizes et al](https://www.nature.com/articles/s41593-024-01792-3), [Hong et al](https://www.nature.com/articles/s41586-024-07799-x), [Quintana et al](https://www.biorxiv.org/content/10.1101/2023.05.11.540397v2))。私自身も実験を通じて経験しており、[今後の研究テーマ](https://www.kiralab.org/research)(脳の機能回復メカニズム)として掲げています。(吉良)
 
 [Eb Fetz](https://depts.washington.edu/fetzweb/) (UW)
 [Roozbeh Kiani](https://www.cns.nyu.edu/kianilab/Home.html) (NYU)
@@ -58,7 +58,7 @@ LIP抑制ではないですが、[Fetsch et al](https://elifesciences.org/articl
 [Anne Churchland](https://churchlandlab.dgsom.ucla.edu/) (UCLA)
 [Mehrdad Jazayeri](https://jazlab.org/) (MIT)
 [Josh Gold](https://www.med.upenn.edu/goldlab/) (U Penn)
-[Tianming Yang](http://english.cebsit.cas.cn/lab/yangtianming/research/#) (ION 中国科学院 )
+[Tianming Yang](https://english.cebsit.cas.cn/lab/yangtianming/research/#) (ION 中国科学院 )
 [Probabilistic reasoning by neurons](https://www.nature.com/articles/nature05852)
 [Neural Implementation of Wald’s Sequential Probability Ratio](https://www.sciencedirect.com/science/article/pii/S0896627315000082)
 [ランダムドットタスク](https://www.jneurosci.org/content/12/12/4745)

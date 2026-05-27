@@ -14,7 +14,7 @@ Summary:
 Klecknerラボ、この秋からUMass アマーストで独立予定、Researchat.fmのTadasu Nozaki (@tadasu443)さんがゲスト。大学の近況、ジョブハント経験談、独立後の研究の方向性、染色体ペアリング馴れ初め、授業計画、遺伝研での生活について (5/25 収録)
 
 Show Notes:
-[Researchat.fm](http://researchat.fm/)
+[Researchat.fm](https://researchat.fm/)
 [Klecknerラボ](https://klecknerlab.hsites.harvard.edu/) … Nancy Klecknerは本当に偉大な研究者だと思う。一緒に仕事できてよかった (tds)。
 博士の時の代表的な仕事 [1](https://www.cell.com/molecular-cell/fulltext/S1097-2765(17)30445-8) [2](https://www.science.org/doi/full/10.1126/sciadv.adf1488) …前島先生、そしてたくさんの方にお世話になりました(tds)
 [ポスドクの仕事：Rapid homologue juxtaposition](https://www.nature.com/articles/s41586-024-07999-5)
@@ -53,16 +53,16 @@ Show Notes:
 齋藤さんNR出演回 [1](/2022/07/19/40-casting-light-on-the-life-at-broad-institute-part-1/) [2](/2022/07/25/41-casting-light-on-the-life-at-broad-institute-part-2/) [3](/2024/09/15/79-the-wizard-of-fz/)
 [前島ラボ](https://maeshima-lab.sakura.ne.jp/index.html) … 前島先生には本当にお世話になりました。世界最高峰のクロマチン・染色体研究ラボの一つだと思いますのでご興味がある方はぜひ訪問してみてください(tds)。
 30 nm ファイバーはアーティファクト、[2008年論文](https://www.pnas.org/doi/10.1073/pnas.0810057105)、[2012年論文](https://pubmed.ncbi.nlm.nih.gov/22343941/)1、[2012年論文](https://www.tandfonline.com/doi/full/10.4161/nucl.21222)2
-[少数性生物学](http://paradigm-innovation.jp/) … あまりにも最高すぎてよかった。未だに少数性について考えている。少数性reunionやってほしい。今ならいろいろ議論できることもありそう。(tds)
+[少数性生物学](https://paradigm-innovation.jp/) … あまりにも最高すぎてよかった。未だに少数性について考えている。少数性reunionやってほしい。今ならいろいろ議論できることもありそう。(tds)
 [永井先生](https://www.sanken.osaka-u.ac.jp/labs/bse/)
-[ディクティの面白い生態](http://paradigm-innovation.jp/doc/newsletter/NL04web.pdf) … このニュースレターのP.17で堀川先生が議論されている、細胞何個で子実体ができるのか問題。実はディクティは減数分裂に非常に重要なSpo11とRec8というタンパク質のホモログを持っておらず、その実態は謎に包まれている (tds)。
+[ディクティの面白い生態](https://paradigm-innovation.jp/doc/newsletter/NL04web.pdf) … このニュースレターのP.17で堀川先生が議論されている、細胞何個で子実体ができるのか問題。実はディクティは減数分裂に非常に重要なSpo11とRec8というタンパク質のホモログを持っておらず、その実態は謎に包まれている (tds)。
 [Denoisingの論文](https://dash.harvard.edu/entities/publication/0cfce095-f573-48a1-9272-68ff63e52ac7)
 [平岡先生](https://www.fbs.osaka-u.ac.jp/labs/hiraoka/index.html)
 [Horsetail Movement論文](https://www.science.org/doi/10.1126/science.8146661)
 分裂酵母と出芽酵母の減数分裂方法の違い … 分裂酵母は染色体が少なくてみやすい。が、真核生物で広くみられるsynaptonemal complexがない（似たような構造はある)。そして、crossover interferenceも分裂酵母にはない。出芽酵母にはsynaptonemal complexとcrossover interferenceの両方がある。組換えの分子メカニズムは良く保存されている。
 [岡田先生](https://www.okada-lab.phys.s.u-tokyo.ac.jp/)
-[野地先生](http://www.nojilab.t.u-tokyo.ac.jp/)
-[少数性生物学トレーニングコース](http://www.paradigm-innovation.jp/trainingcourse/index.html) … 最高だった(tds)
+[野地先生](https://www.nojilab.t.u-tokyo.ac.jp/)
+[少数性生物学トレーニングコース](https://www.paradigm-innovation.jp/trainingcourse/index.html) … 最高だった(tds)
 [Woods Hole MBLのトレーニングコース](https://www.mbl.edu/education/advanced-research-training-courses/course-offerings)
 [AlphaFold3のコード公開に関するゴタゴタ](https://www.science.org/content/article/limits-access-deepmind-s-new-protein-program-trigger-backlash)
 [DDBJ](https://www.ddbj.nig.ac.jp/index-e.html)
@@ -87,9 +87,9 @@ Show Notes:
 [A history of genetics by Sturtevant](https://www.amazon.com/History-Genetics-H-Sturtevant/dp/0879696079)
 [Pierce](https://www.amazon.com/Genetics-Conceptual-Approach-Benjamin-Pierce/dp/1319216803)か[Griffiths](https://www.amazon.co.jp/-/en/Introduction-Genetic-Analysis-Anthony-Griffiths/dp/1319114784) の教科書が、一般的なものの中では良さそう (tds)。
 [物語　遺伝学の歴史](https://www.amazon.co.jp/dp/4121027310) … 宮脇書店をぶらぶらしていたら見つけた平野先生の本。本当に内容がすばらしい。参考になるとおもったら上記のSturteavantの本を一部参考にしているとのことでした。入門として、そして研究者にも知識の整理としておすすめの本です。京都大学吉川秀夫先生の解説もとても参考になった(tds)。
-[遺伝](http://www.nts-book.co.jp/item/detail/summary/bio/20051225_42.html) … 1947年刊行。遺伝学普及会が作成している(隔？)月刊誌。某大学でバックナンバーを読んでいる。あまりにもおもしろすぎてまだ遺伝研が設立(1949)する年まで到達していない。遺伝学者がこれだけ自由闊達に議論している長期雑誌は世界にも類を見ないのではないだろうか。日本帰国時にちまちま読んだとして、最新号に到達するまで何年かかるのやら...1948年のどこかに書かれていた東北のあっぴ様（方言であひるらしい）という短脚の家系に関する調査はあまりにもおもしろくて圧巻だった。ルイセンコ騒動下の議論も生々しい。いつかセレクション集をつくりたい (tds)。
+[遺伝](https://www.nts-book.co.jp/item/detail/summary/bio/20051225_42.html) … 1947年刊行。遺伝学普及会が作成している(隔？)月刊誌。某大学でバックナンバーを読んでいる。あまりにもおもしろすぎてまだ遺伝研が設立(1949)する年まで到達していない。遺伝学者がこれだけ自由闊達に議論している長期雑誌は世界にも類を見ないのではないだろうか。日本帰国時にちまちま読んだとして、最新号に到達するまで何年かかるのやら...1948年のどこかに書かれていた東北のあっぴ様（方言であひるらしい）という短脚の家系に関する調査はあまりにもおもしろくて圧巻だった。ルイセンコ騒動下の議論も生々しい。いつかセレクション集をつくりたい (tds)。
 [菅野さんNR回](/2024/11/23/82-the-art-of-communicating/)
-[小さいオンラインセミナーMAYosis 2023](http://meiosis.cornell.edu/mayosis2023/program.html) … 小さいといっても参加者は数百人(?)ぐらい。このセミナーで私の研究の話を初めて聞いたという人も多く感謝している。運営の方々に感謝です (tds)
+[小さいオンラインセミナーMAYosis 2023](https://meiosis.cornell.edu/mayosis2023/program.html) … 小さいといっても参加者は数百人(?)ぐらい。このセミナーで私の研究の話を初めて聞いたという人も多く感謝している。運営の方々に感謝です (tds)
 [COSYNE](https://www.cosyne.org/)
 [遺伝研](https://www.nig.ac.jp/nig/ja)
 [総研大](https://www.soken.ac.jp/)

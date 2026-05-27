@@ -51,15 +51,15 @@ Prediction-Errorに関する[最新プレプリント](https://www.biorxiv.org/c
 [YunyunのNature論文](https://www.nature.com/articles/nature26159)
 [Astorocyteのトレーシングやってた](https://www.nature.com/articles/s41467-018-03940-3)
 [Adil](https://devneuro.org/cdn/people-detail.php?personID=2074)
-[Ho Ko](http://neurology.mect.cuhk.edu.hk/kolab/) のConnectivity 論文[その１](https://www.nature.com/articles/nature09880)[その２](https://www.nature.com/articles/nature12015)
+[Ho Ko](https://neurology.mect.cuhk.edu.hk/kolab/) のConnectivity 論文[その１](https://www.nature.com/articles/nature09880)[その２](https://www.nature.com/articles/nature12015)
 [金森さん](https://www.sainsburywellcome.org/web/people/takahiro-kanamori)
 [Liqun Luo](https://luolab.stanford.edu/)
-[宮道さん](http://cco.riken.jp/) NR回
+[宮道さん](https://cco.riken.jp/) NR回
 [中野さん](https://twitter.com/_mnakano)
 [Petr Znamenskiy](https://znamlab.org/)
 の[論文](https://www.cell.com/neuron/fulltext/S0896-6273(21)00201-4) (Ivana et al.)
 [Ann Duan](https://www.sainsburywellcome.org/web/groups/duan-lab)
-[Carlos Brody](http://brodylab.org/)
+[Carlos Brody](https://brodylab.org/)
 [Tiago Branco](https://www.sainsburywellcome.org/web/groups/branco-lab)
 [Yoh Isogai](https://twitter.com/yohisogai)
 [Bernardo Sabatini](https://sabatini.hms.harvard.edu/)

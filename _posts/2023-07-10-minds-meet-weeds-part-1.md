@@ -18,7 +18,7 @@ Show Notes:
 NRのトランスクリプトーム回[EP4](/2021/03/24/4-what-is-cell-type-transcriptome-meets-neurophysiology/)[EP5](/2021/03/30/5-mapping-the-spatial-transcriptomics/)
 [Eckerラボ](https://ecker.salk.edu/)
 オンライントーク[その１](https://youtu.be/CEfU8nJK-V4)[その２](https://youtu.be/gll7sc0ashI)[その３](https://youtu.be/i9Lk_mAyShU) (おすすめby登)
-[津田ラボ](http://www.plantimmunity.cn/)（現華中農業大学大学）
+[津田ラボ](https://www.plantimmunity.cn/)（現華中農業大学大学）
 [津田先生](https://twitter.com/KenichiTsuda4)
 [放射線植物生理学研究室](https://webpark1571.sakura.ne.jp/radioplantphys/)
 セシウム蓄積に関する研究[その１](https://www.tandfonline.com/doi/full/10.1080/00380768.2014.947617)[その２](https://link.springer.com/article/10.1007/s10967-015-4466-x) [その３](https://www.jstage.jst.go.jp/article/dojo/84/3/84_KJ00009157130/_article/-char/ja/)
@@ -61,7 +61,7 @@ UPennでやったエチレン研究 [その１](https://www.cell.com/cell/pdf/00
 ポスドク三部作その１：[Seed-to-seed single nucleus atlas](https://www.biorxiv.org/content/10.1101/2023.03.23.533992v1.abstract)
 ポスドク三部作その２：[感染時の植物のMulti-omics + MERFISH](https://www.biorxiv.org/content/10.1101/2023.04.10.536170v2.abstract)
 ポスドク三部作その３：[PHYTOMap](https://www.nature.com/articles/s41477-023-01439-4)
-[Bing Renラボ](http://renlab.sdsc.edu/renlab_website/)
+[Bing Renラボ](https://renlab.sdsc.edu/renlab_website/)
 の[BICCN論文](https://www.nature.com/articles/s41586-021-03604-1)
 転写物分布だけで細胞のセグメンテーション、[先行研究](https://www.nature.com/articles/s41587-021-01044-w)
 [植物の細胞セグメンテーション](https://elifesciences.org/articles/57613)
@@ -72,7 +72,7 @@ UPennでやったエチレン研究 [その１](https://www.cell.com/cell/pdf/00
 [BacteriaをターゲットにしたSeqFISH](https://www.science.org/doi/10.1126/science.abi4882)
 [STARMap](https://www.science.org/doi/10.1126/science.aat5691)
 [Xiao Wang](https://www.wangxiaolab.org)
-[Sten Linnarsso](http://linnarssonlab.org/)nではなく[Mats Nilsson](https://www.scilifelab.se/researchers/mats-nilsson/)でした！
+[Sten Linnarsso](https://linnarssonlab.org/)nではなく[Mats Nilsson](https://www.scilifelab.se/researchers/mats-nilsson/)でした！
 [HybISS](https://academic.oup.com/nar/article/49/15/9002/6332814)
 Sequence-by-ligation、例えば[これ](https://www.youtube.com/watch?v=YLT-DUeaLms&t=318s)
 [Sequence-by-synthesis](https://youtu.be/fCd6B5HRaZ8)

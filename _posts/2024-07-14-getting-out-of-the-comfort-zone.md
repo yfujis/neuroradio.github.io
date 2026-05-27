@@ -56,7 +56,7 @@ Show Notes:
 [Antonio Fernandez-Ruiz](https://nbb.cornell.edu/antonio-fernandez-ruiz)
 [Noah Gray](https://www.nature.com/nature/editors)
 [ASCONA meeting](https://www.asconacircuits.org/)
-[Robert Datta](http://datta.hms.harvard.edu/)
+[Robert Datta](https://datta.hms.harvard.edu/)
 Shohei Furutachiさん回[1](/2023/09/09/62-beyond-predictions-part-1/)[2](/2023/09/09/63-beyond-predictions-part-2/)
 [Lake Conferences](https://lakeconferences.org/)
 [Gordon の Basal Ganglia](https://www.grc.org/basal-ganglia-conference/2024/)

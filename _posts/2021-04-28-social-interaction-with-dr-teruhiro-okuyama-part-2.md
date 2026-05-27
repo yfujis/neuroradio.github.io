@@ -15,9 +15,9 @@ Summary:
 
 Show Notes:
 もうまんたい…ナインティナイン岡村主演の映画、無問題 (1999年)
-やくさく…池谷先生が主宰する研究室、[薬品作用学教室](http://www.yakusaku.jp/)（薬作）のこと
-（大学院時代の）大ボス…[久保健雄先生](http://www.bs.s.u-tokyo.ac.jp/~saibou/index.html)のこと
-武田研…[武田洋幸先生のラボ](http://www.bs.s.u-tokyo.ac.jp/~hassei/)のこと
+やくさく…池谷先生が主宰する研究室、[薬品作用学教室](https://www.yakusaku.jp/)（薬作）のこと
+（大学院時代の）大ボス…[久保健雄先生](https://www.bs.s.u-tokyo.ac.jp/~saibou/index.html)のこと
+武田研…[武田洋幸先生のラボ](https://www.bs.s.u-tokyo.ac.jp/~hassei/)のこと
 Adult Neurogenesis…生体脳でのニューロン新生。神経幹細胞がニューロンに分化するのは（主に）胎生期から幼年期のみであるが、齧歯類等では、生体脳においても脳室下帯や海馬歯状回で神経新生が起こり、既存の回路に組み込まれる。この機能的意義が2000年頃から報告され始め、2010年頃に盛んに研究されていた。レビューは[こちら](https://www.nature.com/articles/nrn2822)
 Paul…神経新生の記憶への関与や、遠隔記憶、CREBなどの研究で有名なトロントの[Paul Frankland](https://jflab.ca/)のこと。Sheena Josselynの夫でもある。
 アルバレスブイリヤ…UCSFで神経新生をやっている[Arturo Alvarez-Buylla](https://ablab.ucsf.edu/)のこと
@@ -30,7 +30,7 @@ Peter Stern…Scienceの神経科学系論文を扱っているエディター
 オファー…Deisserothラボで以下の仕事をやってWeizmann Instituteで独立した[Ofer Yizer](https://www.weizmann.ac.il/neurobiology/labs/yizhar/home)
 EI balance and social ~…[Neocortical excitation/inhibition balance in information processing and social dysfunction](https://www.nature.com/articles/nature10360)。一度の光照射で長時間開口するStep function opsinを使ってPL/IL神経細胞の興奮と抑制のバランスを変化させ、E/Iの上昇がマウスの社会性を損なわせることを示唆した
 ハーバードがやらかす…ニュース記事はこちら ”[Harvard Draws Backlash for Telling Students &#8216;You May Wish You Weren't Asian' on Anti-Racism Page](https://www.newsweek.com/harvard-draws-backlash-telling-students-you-may-wish-you-werent-asian-anti-racism-page-1580083)”
-佐々木先生…薬作の[佐々木拓哉さん](http://sasaki-brain.net/profile)のこと
+佐々木先生…薬作の[佐々木拓哉さん](https://sasaki-brain.net/profile)のこと
 田尾さん…奥山ラボ助教、田尾賢太郎さんのこと
 キャサリン…ハーバードの[Catherine Dulac](https://www.dulaclab.com/)のこと。子育て行動の神経基盤などを研究。
 デイビッド…Caltechの[David Anderson](https://davidandersonlab.caltech.edu/)のこと。社会性行動、特に性行動、攻撃行動等の神経基盤を研究。

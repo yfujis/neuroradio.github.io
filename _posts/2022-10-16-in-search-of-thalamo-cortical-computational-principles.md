@@ -29,9 +29,9 @@ Ian’s works  during postdoc: Rule representations in the cross-modal sensory a
 Just wanted to mention that my statement (around 13:50) about the MD having the strongest connection of any thalamic nucleus is a bit poorly formed and so basically un-falsifiable. It is very strongly reciprocally connected with PFC though. -Ian
 [If you change the rule sets, the dynamics change a little bit in subgroups of MD thalamic neurons](https://www.nature.com/articles/s41593-018-0269-z)
 [A review on subnetworks of thalamic nuclei by Roy & Guoping](https://www.nature.com/articles/s41593-021-00996-1)
-[“Higher-orderness” of thalamus](http://www.scholarpedia.org/article/Thalamus#First_and_higher_order_thalamic_relays)
+[“Higher-orderness” of thalamus](https://www.scholarpedia.org/article/Thalamus#First_and_higher_order_thalamic_relays)
 Inagaki’s other paper:[Switching the transition is also thalamic based](https://doi.org/10.1016/j.cell.2022.02.006)
-[Diversity of arborization of the thalamic neurons](http://ml-neuronbrowser.janelia.org/): for MD, search ”Mediodorsal nucleus of thalamus” + “soma” and for LP (Pulvinar in primate), search “Lateral posterior nucleus of the thalamus”
+[Diversity of arborization of the thalamic neurons](https://ml-neuronbrowser.janelia.org/): for MD, search ”Mediodorsal nucleus of thalamus” + “soma” and for LP (Pulvinar in primate), search “Lateral posterior nucleus of the thalamus”
 [Continuously elevated firing rate in mPFC of primates](https://www.nature.com/articles/35082081)
 Stable representations mixed with heterogeneous activity in the PFC (around 21:45), [example1](https://www.pnas.org/doi/full/10.1073/pnas.1619449114), [2](https://www.science.org/doi/full/10.1126/science.abm0204) - Ian
 PPC: Posterior parietal cortex
@@ -48,7 +48,7 @@ PPC: Posterior parietal cortex
 Chris Harvey’s regional selection. see Fig S1 of [this paper](https://doi.org/10.1016/j.cell.2017.07.021)
 [Primate counter-part is a little bit visually focused](https://doi.org/10.1016/j.neuron.2015.11.034)
 [Ian’s strategy for the research](https://www.sciencedirect.com/science/article/pii/S0168010219306704)
-[Carlos Brody’s lab](http://brodylab.org/)
+[Carlos Brody’s lab](https://brodylab.org/)
 [Ahena Akrami’s paper](https://www.nature.com/articles/nature25510)
 ITI: Inter-trial-interval
 Around 44-45 min in I was referring to [Hanks 2015](https://www.nature.com/articles/nature14066) and to some extent [Boyd-Meredith 2022](https://www.nature.com/articles/s41467-022-30736-3) (both studies from the Brody lab)  as being similar to 2021 [Cell Rep paper by Cohen](https://doi.org/10.1016/j.celrep.2021.109082). But maybe there is not so clear a link….  -Ian

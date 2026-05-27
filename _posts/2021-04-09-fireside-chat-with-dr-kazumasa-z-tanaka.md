@@ -18,7 +18,7 @@ Show Notes:
 [田中さんのラボHP](https://groups.oist.jp/ja/mru)
 [Cortical representations are reinstated by the hippocampus during memory retrieval](https://www.cell.com/neuron/fulltext/S0896-6273(14)00895-2) …田中さんの大学院時代の業績。Neuron論文。fos-tTA, tetO-H2B-GFP, tetO-Creの３重トランスジェニックマウスのCA1に、Cre依存的に機能するArchTをAAVにより導入。文脈的恐怖条件づけの想起時に海馬CA1のfos陽性細胞を抑制すると、海馬外の領域（皮質・海馬台・偏桃体など）において、記憶の獲得時にfosプロモーターが動いていた細胞と想起時にcFosを発現する細胞のオーバーラップ率が低下することを示した。
 [The hippocampal engram maps experience but not place](https://science.sciencemag.org/content/361/6400/392)…田中さんのポスドク時代の業績。Science論文。fos陽性細胞にChR2を発現するマウスを新規環境に暴露して、翌日に同じ環境あるいは別の環境に暴露した後に、光刺激に対する応答性によってCA1のfos陽性細胞を同定。電気生理的な性質を記録。特に、fos陽性細胞は文脈に対応した活動を示すが、場所受容野に関してはリマッピングが行われていることを示した。記憶痕跡と呼ばれている細胞集団が運んでいる情報が場所というよりも環境（文脈）をエンコードしていることを示唆。
-[海馬の記憶エングラムは経験の表象へのインデックスである](http://first.lifesciencedb.jp/archives/18457)…田中さんによるSciecne論文の日本語解説
+[海馬の記憶エングラムは経験の表象へのインデックスである](https://first.lifesciencedb.jp/archives/18457)…田中さんによるSciecne論文の日本語解説
 c-fos…神経活動依存的に発現する（とされる）最初期遺伝子（immediate early gene）の一種
 [OIST](https://www.oist.jp/ja)…沖縄科学技術大学院大学。5年一貫制の博士課程を有する大学院大学。2012年から大学院生の受入を開始。神経科学、数学・計算科学、化学、分子・細胞・発生生物学、環境・生態学、物理学、海洋科学、などを主要な研究分野とする。構成員の半数以上が日本人以外からなる国際性も特徴。
 Studio…ベッドルーム無しのワンルーム+キッチンのアパートメント

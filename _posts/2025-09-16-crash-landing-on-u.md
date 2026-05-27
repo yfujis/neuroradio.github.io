@@ -52,7 +52,7 @@ Meyer研からBDRで独立した方：調べたら[小長谷 有美さん](https
 じょんほーの[セロトニンの論文](https://www.biorxiv.org/content/10.1101/2023.03.09.531880v1)
 [牧野さんの回](/2023/02/24/53-understanding-by-creating-is-all-you-need/)
 [小川さん](https://x.com/YukiOgawaPhD); [NR登場回](/2025/08/09/93-in-proximity-to-proximal-axons/)
-ジョブハントでお世話になった方々: UTSWの[藤田（Hirofumi Fujita）さん](https://labs.utsouthwestern.edu/fujita-lab) ,　OHIO-State の[二本垣（Yuta Nihongaki）さん](https://medicine.osu.edu/find-faculty/non-clinical/physiology-and-cell-biology/yuta-nihongaki), 3人目は当然[Jung Ho Hyun](http://hyunlab.org/?ckattempt=1)
+ジョブハントでお世話になった方々: UTSWの[藤田（Hirofumi Fujita）さん](https://labs.utsouthwestern.edu/fujita-lab) ,　OHIO-State の[二本垣（Yuta Nihongaki）さん](https://medicine.osu.edu/find-faculty/non-clinical/physiology-and-cell-biology/yuta-nihongaki), 3人目は当然[Jung Ho Hyun](https://hyunlab.org/?ckattempt=1)
 [Future PI Slack](https://futurepislack.wordpress.com/) *は井上さんによる紹介でした
 [かりごうさん回](/2022/01/24/32-emotional-intent-of-a-pd-soon-to-be-a-pi/)
 Referenceをお願いした方々: [Paul Worley](https://neuroscience.jhu.edu/research/faculty/97) [狩野方伸先生](https://www3.med.teikyo-u.ac.jp/profile/ja.3865415e46b20070.html) [かりごう (Tomomi Karigo) さん](https://neuroscience.jhu.edu/research/faculty/161) [上阪さん](https://scholar.google.com/citations?user=fc8QHZ8AAAAJ&hl=ja)

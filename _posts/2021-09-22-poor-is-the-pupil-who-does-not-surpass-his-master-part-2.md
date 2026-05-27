@@ -14,7 +14,7 @@ Summary:
 Part 2: UC Irvineの五十嵐啓さん(@kei_m_igarashi)にお越しいただき、モーザーラボでのポスドク時代、ジョブハント、独立してからのお話をしていただきました。そして最後に今回のNature論文を少し頭出ししていただきました（8/31収録）
 
 Show Notes:
-ジョブハントについて：[五十嵐さん就職活動記](http://www.igarashilab.org/jobhunting)
+ジョブハントについて：[五十嵐さん就職活動記](https://www.igarashilab.org/jobhunting)
 [Schoenbaum](https://irp.drugabuse.gov/staff-members/geoffrey-schoenbaum/)
 ２人の優秀な先輩：[高橋雄二さん](https://irp.drugabuse.gov/organization/cnsb/bnns/staff/)と村上さんのこと
 [Matt WilsonラボHP](https://biology.mit.edu/profile/matthew-a-wilson/)
@@ -81,10 +81,10 @@ StefanとJill Leutgeb[ラボHP](https://www.leutgeblabs.com/)
 [Making the Right Moves](https://www.hhmi.org/science-education/programs/resources/making-right-moves)
 ↑についてディスカッションしたビデオでの発言は &quot;You are the only source of wisdom when you start your lab&quot; (訂正)
 Thomas R. Cech[ラボHP](https://www.colorado.edu/lab/cech/research)
-[森先生の退官記念講演](http://jasts.com/event/%E3%82%B7%E3%83%B3%E3%83%9D%E3%82%B8%E3%82%A6%E3%83%A0%E3%80%8C%E5%97%85%E8%A6%9A%E7%A5%9E%E2%80%8B%E7%B5%8C%E5%9B%9E%E8%B7%AF%E3%81%A8%E8%A1%8C%E5%8B%95%E7%99%BA%E7%8F%BE%E3%81%AE%E3%83%A1%E2%80%8B/)
+[森先生の退官記念講演](https://jasts.com/event/%E3%82%B7%E3%83%B3%E3%83%9D%E3%82%B8%E3%82%A6%E3%83%A0%E3%80%8C%E5%97%85%E8%A6%9A%E7%A5%9E%E2%80%8B%E7%B5%8C%E5%9B%9E%E8%B7%AF%E3%81%A8%E8%A1%8C%E5%8B%95%E7%99%BA%E7%8F%BE%E3%81%AE%E3%83%A1%E2%80%8B/)
 [治験走ってる](https://www.fda.gov/drugs/postmarket-drug-safety-information-patients-and-providers/aducanumab-marketed-aduhelm-information)（アデュカマヌブ）
 [MoserラボがADに入ってきた](https://www.eurekalert.org/news-releases/568016 Roska https://iob.ch/people/botond-roska)
-[米原さんのブログ](http://basler.blog59.fc2.com/)
+[米原さんのブログ](https://basler.blog59.fc2.com/)
 [西道先生](https://cbs.riken.jp/jp/faculty/t.saido/)
 [LECが一番最初に壊れる](https://www.nature.com/articles/nn.3606)
 最近あったEvidenceの[論文](https://www.nature.com/articles/s41586-021-03652-7)

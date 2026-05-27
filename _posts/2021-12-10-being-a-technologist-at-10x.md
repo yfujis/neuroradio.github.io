@@ -18,7 +18,7 @@ Show Notes:
 [10x Genomics](https://www.10xgenomics.com)
 [Wyss Institute HP](https://wyss.harvard.edu)
 [泊研HP](https://www.iqb.u-tokyo.ac.jp/tomari/jp/)
-RISCの形成過程再構成＆一分子イメージングのお仕事 [論文](https://www.nature.com/articles/nature14254) [筆頭著者レビュー](http://first.lifesciencedb.jp/archives/10093)
+RISCの形成過程再構成＆一分子イメージングのお仕事 [論文](https://www.nature.com/articles/nature14254) [筆頭著者レビュー](https://first.lifesciencedb.jp/archives/10093)
 aaRS(PheRS)に関する[構造生物学のお仕事](https://www.pnas.org/content/103/40/14744.long)
 [DNA-PAINTの簡単な説明](https://wyss.harvard.edu/technology/super-resolution-microscopy/)
 ぽん（Peng Yin）[ラボHP](https://yin.hms.harvard.edu)
@@ -28,7 +28,7 @@ DECODE-PAINTのお仕事（[講演アブスト](https://www.iqb.u-tokyo.ac.jp/ev
 上海科技大学の[多田隈さん](https://slst.shanghaitech.edu.cn/Hisashi_en/main.htm)
 [DNA Origami](https://www.nature.com/articles/nature04586) 2006の論文
 University of Washington の [Brianラボ](https://www.beliveau.io)
-アカデミアとインダストリーの自由度について、 HarvardのテニュアからGoogleに行ったMatt Welsh氏の[ブログポスト](http://matt-welsh.blogspot.com/2013/04/the-other-side-of-academic-freedom.html)
+アカデミアとインダストリーの自由度について、 HarvardのテニュアからGoogleに行ったMatt Welsh氏の[ブログポスト](https://matt-welsh.blogspot.com/2013/04/the-other-side-of-academic-freedom.html)
 10xが進めている[in situプロダクト](https://www.10xgenomics.com/products/spatial-gene-expression)の情報
 10xのファウンダー：[Serge Saxonov](https://www.10xgenomics.com/company/team/serge-saxonov) と [Ben Hindson](https://www.10xgenomics.com/company/team/ben-hindson)
 最初のプロダクト([Chromium](https://www.10xgenomics.com/products/single-cell-gene-expression))

@@ -38,7 +38,7 @@ Wyssの食品系プロジェクト、[Circle](https://wyss.harvard.edu/technolog
 ロール（全然ギリシャじゃなくて中東でした…）：[ここのBeef Shawarma](https://www.doordash.com/store/anoush&#39;ella---time-out-market-boston-1093793/?utm_campaign=1093793&utm_medium=website&utm_source=partner-link)
 [フェタチーズ](https://www.meg-snow.com/cheeseclub/knowledge/jiten/term/feta/)
 [ザジキ](https://s-tabearukirecipe.hatenablog.com/entry/2017/07/20/033507)
-[サガナキチーズ](http://theapollo.jp/menu/)
+[サガナキチーズ](https://theapollo.jp/menu/)
 [ハルーミチーズ](https://www.oisix.com/ShouhinShousai.ss1-6874_1741.htm)
 [スイスのNHKみたいな](https://globe.asahi.com/article/12987357)
 映画業界の#MeToo関連の話（[Kevin Spaceyの場合](https://www.vox.com/culture/2017/11/3/16602628/kevin-spacey-sexual-assault-allegations-house-of-cards)）

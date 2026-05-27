@@ -29,17 +29,17 @@ Show Notes:
 [宮川研](https://www.cdbim.m.u-tokyo.ac.jp/research/laboratory07/)
 [安原さん](https://researchmap.jp/tyasuhara) 10月に日本に帰国していました。
 在学中に [Cell](https://www.sciencedirect.com/science/article/pii/S0092867418311176) と [Nature Comm](https://www.nature.com/articles/ncomms6426)
-[栗原裕基教授](http://bio.m.u-tokyo.ac.jp/home-j.html)
+[栗原裕基教授](https://bio.m.u-tokyo.ac.jp/home-j.html)
 フリークオーター: 教養のうちから休み期間等にラボに出入りしてみる医学部のプログラム
-[岩坪先生](http://www.neuropathology.m.u-tokyo.ac.jp/)
+[岩坪先生](https://www.neuropathology.m.u-tokyo.ac.jp/)
 [Single-cell レベルでChIPseqできるCut&Run](https://www.cell.com/cell/fulltext/S0092-8674(19)30276-4?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0092867419302764%3Fshowall%3Dtrue)
 [Hoxa2論文](https://www.sciencedirect.com/science/article/pii/S0012160615001876?via%3Dihub)(Kitazawa et al., Developmental Biology, 2015)
 [鼓膜進化論文](https://www.nature.com/articles/ncomms7853)(Kitazawa et al., Nature Comm, 2015) 鼓膜論文、結局内容についてちゃんと話してなかったです汗。哺乳類(=マウス)と双弓類(爬虫類・鳥類=ニワトリ)でEdn1-Dlx5/6経路を阻害して下顎→上顎ホメオティック変異を起こさせると、マウスでは鼓膜が消失するのに対してニワトリでは鼓膜の重複が起きる。これは鼓膜の発生が全く異なる発生機構の下流にあることを示し、鼓膜の収斂進化の実験的証拠となった。[理研のプレスリリース](https://www.riken.jp/press/2015/20150422_2/index.html)がとても分かりやすい。(北沢注)
 あと、[日経サイエンス(Scientific American日本語版)2015年8月号でも特集されました](https://www.nikkei-science.com/?p=47634)。他にも結構新聞で取り上げられたなー(北沢注)
 あぶみ骨筋反射(耳小骨筋反射)[:ニワトリのあぶみ骨筋の機能解析の論文](https://www.tandfonline.com/doi/abs/10.3109/00016487909137134)はあるけど、哺乳類の反射とはちょっと違うのか？でも鳥類・爬虫類内でも種差あるかも。
-神戸理研　[倉谷滋先生](http://emo.riken.jp/japanese/indexj.html)
+神戸理研　[倉谷滋先生](https://emo.riken.jp/japanese/indexj.html)
 [怪獣生物学](https://honto.jp/netstore/pd-book_29863965.html)
-動物進化形態学 [初版(2004年)](http://www.utp.or.jp/book/b301818.html) [新版(2017年)](http://www.utp.or.jp/book/b307379.html) 2004年Verに鼓膜は課題として述べられていて、2017年Verで僕のアンサーがアップデートされています！ (北沢注)
+動物進化形態学 [初版(2004年)](https://www.utp.or.jp/book/b301818.html) [新版(2017年)](https://www.utp.or.jp/book/b307379.html) 2004年Verに鼓膜は課題として述べられていて、2017年Verで僕のアンサーがアップデートされています！ (北沢注)
 Gauppの論文の例  Arch. Anat. Physiol. Suppl. 1, 416 (1912).
 [中耳・鼓膜進化研究のレビューの例](https://onlinelibrary.wiley.com/doi/epdf/10.1002/jez.b.21347)
 Edn1-Ednra-Dlx5/6で下顎→上顎ホメオティック変異 [1](https://www.science.org/doi/10.1126/science.1075703?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed) [2](https://journals.biologists.com/dev/article/131/18/4413/42294/Endothelin-A-receptor-dependent-and-independent)

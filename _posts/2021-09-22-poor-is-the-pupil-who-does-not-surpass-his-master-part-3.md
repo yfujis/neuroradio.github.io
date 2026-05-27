@@ -14,10 +14,10 @@ Summary:
 Part 3: Nature論文を読んでからのディスカッションを行った後、高IFジャーナルの功罪、日本とノルウェーの大学院生の境遇の違い、若い研究者へのメッセージを伺いました（9/1収録）
 
 Show Notes:
-[ツェルマットのスキー](http://snow-reports.net/abroad-zermatt.htm)
+[ツェルマットのスキー](https://snow-reports.net/abroad-zermatt.htm)
 [インスブルックのスキー（両方）](https://www.austria-ex.com/blog/item/12788.html)
 [イタリアのEMBL](https://www.embl.org/sites/rome/)
-[ジョー・パトン](http://neuro.fchampalimaud.org/en/research/group/Paton/)
+[ジョー・パトン](https://neuro.fchampalimaud.org/en/research/group/Paton/)
 [吉田豊さん](https://burke.weill.cornell.edu/yoshida-lab)＠コーネル
 [安田さん](https://mpfi.org/science/our-labs/yasuda-lab/)＠フロリダ
 Schultzの[実験](https://www.science.org/doi/abs/10.1126/science.275.5306.1593)
@@ -52,11 +52,11 @@ Duke大学の[Larry Katz](https://bme.duke.edu/faculty/david-katz)
 さきがけに[スタートアップ支援制度ができた](https://www.mext.go.jp/b_menu/shingi/gijyutu/gijyutu27/siryo/__icsFiles/afieldfile/2019/09/05/1420928_06_1.pdf)（PDF注意）
 JSTの川口さんによる[『科学技術政策立案における科学者の役割』](https://www.sbj.or.jp/wp-content/uploads/file/sbj/9001/9001_speaker.pdf) （PDF注意）
 Squeaky wheel gets a grease: きしむ車輪は油を差される。転じて、はっきりと自己主張をすれば、きちんと見返りを得ることができるという意。（五十嵐註：五十嵐の本意は、「困っていることをずっと主張し続ければ、いつかは周りがうるさくなって対応してくれる」ということです）
-[宮川先生](http://www.fujita-hu.ac.jp/~smedsci/)
+[宮川先生](https://www.fujita-hu.ac.jp/~smedsci/)
 [Altzheimer’s Associationのロビーイング](https://alzimpact.org/)（Altzheimer’s Impact Movement）
 [SfNのロビーイング](https://neuronline.sfn.org/advocacy/what-is-advocacy-and-why-does-it-matter)（彼ら曰くAdvocacy）
 [日本版AAAS設立準備委員会](https://jaas.group/)
-[神経科学ニュース完全版 大学院生を雇うこと](http://www.igarashilab.org/jnnsnews)
+[神経科学ニュース完全版 大学院生を雇うこと](https://www.igarashilab.org/jnnsnews)
 [ノルウェーのmaternal leave/paternal leaveは 国が出す](https://www.no.emb-japan.go.jp/Japanese/Nikokukan/nikokukan_files/noruweinoshakaihoshouseido.pdf)：”育児休業は 46 週間（賃金の 100%を保障）または 56 週間（賃金の 80％を保障）から選択でき、このうち 12 週間は父親のみが取得可能。休暇取得以前の 10 ヶ月中 6 ヶ月の勤務が要件”　（註：NTNUでは１年間、100%保証）
 MoserラボのNatureカップル１：ステンソラ夫妻
 [夫妻のラボ](https://www.uia.no/en/news/establishing-neuroscience-at-uia)（最近独立した）[](https://www.uia.no/en/news/establishing-neuroscience-at-uia)[Nature1](https://www.nature.com/articles/nature11649)
@@ -69,7 +69,7 @@ MoserラボのNatureカップル１：ステンソラ夫妻
 [Science1](https://pubmed.ncbi.nlm.nih.gov/15272123/)
 [Science2](https://pubmed.ncbi.nlm.nih.gov/16040709/)
 [Science3](https://pubmed.ncbi.nlm.nih.gov/17303747/)
-COE: 21世紀COEプログラム[「生体シグナル」](http://www.iam.u-tokyo.ac.jp/coe/photo%20of%20retreat/index.html)
+COE: 21世紀COEプログラム[「生体シグナル」](https://www.iam.u-tokyo.ac.jp/coe/photo%20of%20retreat/index.html)
 [大学院大学がお金出す](https://www.soken.ac.jp/campuslife/tuition/spresearcher/)
 [理研のJRA](https://www.riken.jp/careers/programs/jra/)
 [OISTのサポート](https://groups.oist.jp/grad/student-support-policies)
@@ -79,7 +79,7 @@ COE: 21世紀COEプログラム[「生体シグナル」](http://www.iam.u-tokyo
 [Champalimaud Foundation](https://en.wikipedia.org/wiki/Champalimaud_Foundation)
 [UCシステム](https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%AA%E3%83%95%E3%82%A9%E3%83%AB%E3%83%8B%E3%82%A2%E5%A4%A7%E5%AD%A6)
 [Peyman Golshani](https://golshanilab.neurology.ucla.edu/)
-[ミニスコープの廉価版](http://miniscope.org/index.php/Main_Page)
+[ミニスコープの廉価版](https://miniscope.org/index.php/Main_Page)
 ソフトマネー：自分の研究費から自分で出す給料
 R01のリニューアル：4‐5年間の支援の後、目的が如何に達成されたかの審査を経て継続の有無が決定される
 Uchidaラボの[クララさん](https://neurotree.org/beta/publications.php?pid=770031)

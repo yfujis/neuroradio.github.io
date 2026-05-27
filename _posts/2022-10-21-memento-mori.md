@@ -20,7 +20,7 @@ Show Notes:
 [加藤さん回](/2021/06/28/16-mechanistic-vs-population-codes-inter-show-interaction-with-ayaka-kato/)
 [柳下さん](https://sites.google.com/view/yagishita-group)
 [五十嵐さんが言ってた…の回](/2021/09/15/23-poor-is-the-pupil-who-does-not-surpass-his-master-part-1/)
-[薬作](http://www.yakusaku.jp/)
+[薬作](https://www.yakusaku.jp/)
 [Goshen](https://doi.org/10.1016/j.cell.2011.09.033) Fig2/3あたりの縦軸の使い方がウマい
 Eve Marderの新作[The Complement Sandwich](https://elifesciences.org/articles/82928)
 [SfNのNeuroscience 2022](https://www.sfn.org/meetings/neuroscience-2022/)
@@ -61,8 +61,8 @@ HM氏が今でもどっかの大学で生きてる？のフェイクニュース
 フラッシュ論文紹介
 論文１・Samborska et al., [Complementary task representations in hippocampus and prefrontal cortex for generalizing the structure of problems](https://www.nature.com/articles/s41593-022-01149-8)
 [Tim Behrens](https://www.ndcn.ox.ac.uk/team/timothy-behrens)
-[Thomas Akam](http://www.waltonlab.org/people)@Waltonラボ
-[Mark Walton](http://www.waltonlab.org/)
+[Thomas Akam](https://www.waltonlab.org/people)@Waltonラボ
+[Mark Walton](https://www.waltonlab.org/)
 [五十嵐さん回でのディスカッション(Part 3)](/2021/09/22/25-poor-is-the-pupil-who-does-not-surpass-his-master-part-3/)
 [Tankの音の高低の表象](https://www.nature.com/articles/nature21692)
 [五十嵐さんの論文](https://www.nature.com/articles/s41586-021-03948-8)
@@ -97,7 +97,7 @@ RADARS論文(Reprogrammable ADAR Sensors)：[Programmable eukaryotic protein exp
 [Michael R. Ibbotson](https://healthsciences.unimelb.edu.au/research-groups/optometry-and-vision-sciences-research/national-vision-research-institute)
 [Young Jun](https://scholar.google.com/citations?user=6XtWd9YAAAAJ&hl=en)
 が数年前に書いた[レビュー](https://www.frontiersin.org/articles/10.3389/fnsys.2020.00010/full)
-[Retinaのc-p ratio](http://dx.doi.org/10.4067/S0717-95022018000100248)
+[Retinaのc-p ratio](https://dx.doi.org/10.4067/S0717-95022018000100248)
 Fovea: 中心窩
 [Agouti](https://doi.org/10.1016/j.isci.2020.101882)
 ワラビー：数種を除くと害獣扱いでむしろ減らさないといけないレベルっぽい
@@ -108,7 +108,7 @@ Fovea: 中心窩
 上記論文はfrequencyで解析するという手法のアップデートがなされただけで、ここはグリンバルド・ウィーゼル・ボンホッファーの最初期のイメージングの論文[1](https://www.nature.com/articles/324361a0), [2](https://www.nature.com/articles/353429a0)をあげるべきでした。なので90年代にはイメージングできている。（萩）
 [Uniform Coverageの論文](https://www.nature.com/articles/nn0800_822)
 論文４・[Directed evolution of adeno-associated virus for efficient gene delivery to microglia](https://www.nature.com/articles/s41592-022-01547-7)
-[Minmin Luoラボ](http://www.nibs.ac.cn/en/yjsjyimgshow.php?cid=5&sid=6&id=775)
+[Minmin Luoラボ](https://www.nibs.ac.cn/en/yjsjyimgshow.php?cid=5&sid=6&id=775)
 [Addgeneでカプシドをコードしているプラスミドが入手可能](https://www.addgene.org/browse/article/28225108/)
 [CREATE論文（PHP系の改変）](https://www.nature.com/articles/nbt.3440)
 [SaCas9論文](https://www.nature.com/articles/nature14299)

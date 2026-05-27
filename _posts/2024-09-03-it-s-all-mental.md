@@ -23,7 +23,7 @@ Show Notes:
 [Andrew Holmes](https://irp.nih.gov/pi/andrew-holmes)
 [北沢さん](https://www.kitazawa-lab.com/)との[シンポジウム](https://confit.atlas.jp/guide/event/neuro2024/session/2Room606-10/advanced)
 [北村さん](https://www.kitamuralab.org/)
-[尾藤先生](http://www.neurochem.m.u-tokyo.ac.jp/)
+[尾藤先生](https://www.neurochem.m.u-tokyo.ac.jp/)
 [Michael Greenberg](https://greenberg.hms.harvard.edu/)
 の[Brain Prize Lecture](https://neuro2024.jnss.org/program.html#p02)
 [後藤先生](https://molbio.f.u-tokyo.ac.jp/)

@@ -15,18 +15,18 @@ Summary:
 
 Show Notes:
 [日本語の作文技術](https://honto.jp/netstore/pd-book_27536698.html)
-[頭が赤い魚を食べる猫](http://shorturl.at/cemwF)
+[頭が赤い魚を食べる猫](https://shorturl.at/cemwF)
 北西さんが採択された[AMED-PRIME](https://www.amed.go.jp/koubo/16/02/1602C_00005.html)
 [永井先生](https://www.jichi.ac.jp/gaiyo/president/)
 [伊佐先生](https://nscinbiol.med.kyoto-u.ac.jp/)
-[先進科学研究機構の人事](http://kis.c.u-tokyo.ac.jp/concept.html)
+[先進科学研究機構の人事](https://kis.c.u-tokyo.ac.jp/concept.html)
 [Buzsakiラボ](https://buzsakilab.com/wp/)
 NR, [五十嵐さんに言わせると…の回](/2021/10/08/26-poor-is-the-pupil-who-does-not-surpass-his-master-part-4/)
 [最近Communications Biologyに出した仕事](https://www.nature.com/articles/s42003-022-03096-3)
 [瞬間的に介入したとしても、いろんなことが起きる (Otchy et al)](https://doi.org/10.1038/nature16442)
 [Discrete Attractor Dynamicsの仕事（Inagaki et al)](https://www.nature.com/articles/s41586-019-0919-7)　短期記憶を保つ神経細胞集団からの記録中にオプトで神経活動を阻害し、集団の活動がどうリカバリするかを見ることでアトラクタ構造を明らかにした仕事。
 自然にあるディスクリートアトラクターの遷移を追った[研究](https://www.science.org/doi/10.1126/science.aaa9633)の例
-[パーコレーション](http://networksciencebook.com/chapter/8)（8.2を参照）
+[パーコレーション](https://networksciencebook.com/chapter/8)（8.2を参照）
 パーコレーション理論を神経回路動態の解析に[適用した例](https://www.sciencedirect.com/science/article/pii/S089662731830953X)
 [Inside-out](https://oxford.universitypressscholarship.com/view/10.1093/oso/9780190905385.001.0001/oso-9780190905385)
 [Internally generated…の論文](https://www.science.org/doi/10.1126/science.1159775)

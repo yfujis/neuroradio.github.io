@@ -26,7 +26,7 @@ Intro+Fig1
 [Harveyラボ](https://harveylab.hms.harvard.edu/)
 [Greenbergラボ](https://greenberg.hms.harvard.edu/)
 [田中さんのトムラボでの論文](https://www.science.org/doi/10.1126/science.aat5397)
-[Thomas McHugh](http://cbp.brain.riken.jp/)
+[Thomas McHugh](https://cbp.brain.riken.jp/)
 [よく使われるcFos-tTA, Mayfordの作ったライン](https://www.jax.org/strain/018306) *knock-inと言ってますがtgです(萩)
 [の元論文](https://www.science.org/doi/10.1126/science.1143839)
 [最初の利根川研での仕事](https://www.nature.com/articles/nature11028) Fig1fgでshGFPがまあまあ綺麗に見えている
@@ -38,7 +38,7 @@ Intro+Fig1
 [最近publishされてたV1の方の仕事](https://peercommunityjournal.org/articles/10.24072/pcjournal.156/)
 [Alison Barth](https://labs.bio.cmu.edu/barth/)
 [Alison Barthの作ったライン](https://www.jneurosci.org/content/24/29/6466)
-[尾藤研](http://www.neurochem.m.u-tokyo.ac.jp/)
+[尾藤研](https://www.neurochem.m.u-tokyo.ac.jp/)
 [奥野さんの作ったライン](https://www.cell.com/fulltext/S0092-8674(12)00415-1)（が報告された論文）
 [海馬依存性の課題](https://doi.org/10.1016/j.cell.2020.10.024)
 Tau off：GFP発現がピークに達してから下がるまでの半減期　*shEGFPなのでタンパクレベルでは2h-half-lifeだが、vivoでどう振る舞うかは不明でしょうね (萩)
@@ -63,7 +63,7 @@ Fig3+4
 [以前Greenberg達が作ったFosのトリプルノックアウトの系](https://www.nature.com/articles/s41586-020-3031-0)
 [Affinity propagation](https://www.science.org/doi/10.1126/science.1136800) k-means的なmessage passingのクラスタリング手法だが、最初にクラスターの中心になるデータポイントを指定しないのが特徴
 電気生理で時々使うNoise Correlationの解析、例えば[これ](https://www.jneurosci.org/content/18/10/3870)
-[カスケード、Synfire Chain](http://www.scholarpedia.org/article/Synfire_chains)
+[カスケード、Synfire Chain](https://www.scholarpedia.org/article/Synfire_chains)
 Lisa Giocomoの[Grid Cell論文remapping論文 in VR](https://doi.org/10.1016/j.neuron.2021.07.005)
 [Rate Remapping](https://www.science.org/doi/10.1126/science.1114037) (Place fieldは同じでrateが異なる)
 Fig. 4のPlace Cellの定義：”For each cell, the average activity within each bin was computed” …”Significant peaks in the spatially binned activity were determined by a shuffle test” …“Peaks in the true binned activity that exceeded the 99th percentile of the shuffle distribution for at least three consecutive spatial bins were deemed significant peaks” …. “any cell with significant peaks is referred to as a place cell, with the significant peaks of that cell corresponding to its place field.”だそうです。平均で求めらてる模様。
@@ -71,7 +71,7 @@ Fig. 4のPlace Cellの定義：”For each cell, the average activity within eac
 Lickが５回～：”For all place field analyses, trials were only considered if they met the following criteria: at least three licks, duration between 4 and 60 s, no experimenter-triggered rewards and occurring before 1.2 ml of cumulative reward had been delivered”  3回でengageしてるというには低いcriteriaだなという印象...(萩)
 
 Fig5+Discussion
-FamiliarなEnvironmentだとFosはほぼ出ない、の[論文](http://learnmem.cshlp.org/content/15/12/899)
+FamiliarなEnvironmentだとFosはほぼ出ない、の[論文](https://learnmem.cshlp.org/content/15/12/899)
 田中さんの仕事(novel environment exposure)と今回の論文(familiar context)の、Fos(high/+)のstabilityに関する議論でfamiliarとnovelを逆に言い間違えてしまっています。紛らわしくて申し訳ない。(萩)
 最初のFos(Fos-tTA::TRE-H2B GFP)とwell trainedなFos(IHC)のoverlap度合いに関連して,[文脈的恐怖条件づけの場合のdrift等](https://doi.org/10.1016/j.cub.2012.11.019)
 Endogeneousな発現のタイムコース、古典的には[これ](https://doi.org/10.1016/0306-4522(94)00355-9)。[これ](https://www.nature.com/articles/s41467-018-06516-3/figures/3)は結構ダラダラ続いてるので、タスクによる差、タスク後にマウスをどう処置したかとかも効いてきそうですね。（萩）Wiltgen labでは自分たちでタイムコース取ってました。どっかの論文のサプリとかに入れておけば良かったですよね。。。（田中さん）

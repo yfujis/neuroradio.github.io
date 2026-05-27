@@ -106,7 +106,7 @@ KakuhanのMetal Zone [Apple Music](https://music.apple.com/us/album/metal-zone/1
 1: Bendick Giske – Bendick Giske [AppleMusic](https://music.apple.com/us/album/bendik-giske/1679578357) [Spotify](https://open.spotify.com/intl-ja/album/3ikz1DrVuK3gp5vanMKHR1)
 
 [Rush](https://www.youtube.com/watch?v=Jrq9-tWBDFc)
-[Beatrice Dillon](http://dillonwork.com/01/infocontact/)
+[Beatrice Dillon](https://dillonwork.com/01/infocontact/)
 [Steve ReichのIt’s gonna Rain](https://www.youtube.com/watch?v=vWN9I-qa9GQ)
 [Pharaoh Sanders](https://www.youtube.com/watch?v=ViweO33oo2Y)
 [Albert Ayler](https://www.youtube.com/watch?v=KnZDHaVDMRM)

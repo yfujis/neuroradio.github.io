@@ -27,7 +27,7 @@ D3: Center for Data-Driven Discovery
 [Learning mFISH](https://www.allenneuraldynamics.org/projects/cell-types-learning)
 [Marina Garrett](https://www.allenneuraldynamics.org/people/marina-garrett)
 [Peter Groblewski](https://www.allenneuraldynamics.org/people/peter-groblewski)
-[札幌南高校](http://www.sapporominami.hokkaido-c.ed.jp/)
+[札幌南高校](https://www.sapporominami.hokkaido-c.ed.jp/)
 [響け！ユーフォニアム](https://ja.wikipedia.org/wiki/%E9%9F%BF%E3%81%91!_%E3%83%A6%E3%83%BC%E3%83%95%E3%82%A9%E3%83%8B%E3%82%A2%E3%83%A0)
 [ソクラテスの弁明](https://ja.wikipedia.org/wiki/%E3%82%BD%E3%82%AF%E3%83%A9%E3%83%86%E3%82%B9%E3%81%AE%E5%BC%81%E6%98%8E)
 [ソフィーの世界](https://www.amazon.co.jp/%E6%96%B0%E8%A3%85%E7%89%88-%E3%82%BD%E3%83%95%E3%82%A3%E3%83%BC%E3%81%AE%E4%B8%96%E7%95%8C-%E4%B8%8A-%E5%93%B2%E5%AD%A6%E8%80%85%E3%81%8B%E3%82%89%E3%81%AE%E4%B8%8D%E6%80%9D%E8%AD%B0%E3%81%AA%E6%89%8B%E7%B4%99/dp/4140814780/ref=pd_lpo_d_sccl_1/358-4867943-6135233?pd_rd_w=r19Pb&content-id=amzn1.sym.855d8f70-df76-4181-80b0-56e48ae3bb9b&pf_rd_p=855d8f70-df76-4181-80b0-56e48ae3bb9b&pf_rd_r=28S9XCR88FS8RZBTTP5B&pd_rd_wg=Cg1m2&pd_rd_r=aa96090f-00fa-4dd7-9a30-c12deadb52da&pd_rd_i=4140814780&psc=1)

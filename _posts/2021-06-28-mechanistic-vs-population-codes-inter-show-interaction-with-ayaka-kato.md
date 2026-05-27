@@ -14,7 +14,7 @@ Summary:
 理研風間研・研エンの仲ポッドキャスターの加藤郁佳さん（@kayautoka）をゲストに、これまでのキャリア、モデル動物選択、これからポスドク先を選ぶにあたっての悩みなどを共有して頂きました。(6/6収録)
 
 Show Notes:
-加藤さん [Researchmap](http://researchmap.jp/ayaka-kato) [個人HP](https://ayaka-kato-neuroscience.mystrikingly.com/)
+加藤さん [Researchmap](https://researchmap.jp/ayaka-kato) [個人HP](https://ayaka-kato-neuroscience.mystrikingly.com/)
 [知覚神経回路機構研究チーム](https://cbs.riken.jp/jp/faculty/h.kazama/)（風間研）
 ハエでシステム神経科学をやるメリット・主要技術について、風間さんによる[レビュー](https://www.sciencedirect.com/science/article/abs/pii/S030645221400520X)
 風間研に来る前の強化学習におけるドパミン [１](https://www.frontiersin.org/articles/10.3389/fncir.2014.00036/full)，[２](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005145)，[３](https://www.eneuro.org/content/5/1/ENEURO.0021-18.2018.long)
@@ -44,7 +44,7 @@ JNS：日本神経科学会のこと
 Neuronに出てた[Valence Coding論文](https://www.cell.com/neuron/fulltext/S0896-6273(16)30201-X)
 ハエのコネクトーム [データベース](https://www.janelia.org/project-team/flyem/hemibrain) [論文](https://www.biorxiv.org/content/10.1101/2020.01.21.911859v1)
 ハエの[Reward predictionエラー論文](https://www.nature.com/articles/s41467-021-22592-4)
-[Stuberラボ](http://www.stuberlab.org/)：こんな雰囲気（ノースカロライナ時代の[橋川さんの留学記](https://www.jnss.org/neuroscience-news/2018/news_183.pdf)、pdf注意）
+[Stuberラボ](https://www.stuberlab.org/)：こんな雰囲気（ノースカロライナ時代の[橋川さんの留学記](https://www.jnss.org/neuroscience-news/2018/news_183.pdf)、pdf注意）
 [OFCのMeta reinforcement learning](https://www.nature.com/articles/s41593-019-0408-1)
 Addictionもやっている：レビューは[これ](https://www.sciencedirect.com/science/article/abs/pii/S0028390813002608?via%3Dihub)
 最近はシグモイドをかけるタスク：例えば[コレ](https://www.nature.com/articles/s41586-021-03452-z)
@@ -64,8 +64,8 @@ Halassaスタイル：[ヘルシー](https://www.nature.com/articles/nature15398
 CLARITYが出た時に：2013年にCLARITYがN、SeeDBがNNに、PACT, CUBIC, iDISCOが2014年にC
 インターンで成果が出る：CureApp[論文](https://mhealth.jmir.org/2020/5/e17270)
 [UCLのComputation PsychiatryのInstitute](https://www.mps-ucl-centre.mpg.de/)
-[Great Brain Experiment](http://www.thegreatbrainexperiment.com/)
-[Pop lifeポッドキャスト](https://open.spotify.com/show/7nEkNCcSn3m6FyTVXfCQeP)：元[Snoozer](http://www.littlemore.co.jp/magazines/snoozer/)編集長の[たなそー氏](https://twitter.com/soichiro_tanaka)がやってるポッドキャスト。(おじさんたちが有村架純をベタ褒めする)坂元裕二回は[#132](https://open.spotify.com/episode/4983zhmxCgh4SLCAQlPhle)から3回分。
+[Great Brain Experiment](https://www.thegreatbrainexperiment.com/)
+[Pop lifeポッドキャスト](https://open.spotify.com/show/7nEkNCcSn3m6FyTVXfCQeP)：元[Snoozer](https://www.littlemore.co.jp/magazines/snoozer/)編集長の[たなそー氏](https://twitter.com/soichiro_tanaka)がやってるポッドキャスト。(おじさんたちが有村架純をベタ褒めする)坂元裕二回は[#132](https://open.spotify.com/episode/4983zhmxCgh4SLCAQlPhle)から3回分。
 
 Editorial Notes:
 あー、最後に「さようなら〜」って言って締めようと思ってたのに完全に忘れてた！ (萩原)

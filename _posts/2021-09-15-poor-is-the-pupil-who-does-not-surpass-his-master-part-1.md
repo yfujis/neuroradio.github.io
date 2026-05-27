@@ -14,8 +14,8 @@ Summary:
 UC Irvineの五十嵐啓さん(@kei_m_igarashi)にお越しいただき、学部・大学院時代のお話、特に『失敗談』– あるいは地獄の釜の底 – について伺いました（8/31収録）
 
 Show Notes:
-[五十嵐ラボHP](http://www.igarashilab.org/)
-五十嵐さん[過去の読み物一覧](http://www.igarashilab.org/japres)
+[五十嵐ラボHP](https://www.igarashilab.org/)
+五十嵐さん[過去の読み物一覧](https://www.igarashilab.org/japres)
 よく喋る人がリーダーと評価される…の[論文](https://psycnet.apa.org/record/1996-11198-001)
 今井（猛）さん[ラボHP](https://dn.med.kyushu-u.ac.jp/)
 五十嵐さんのMoserラボでの[N論文](https://www.nature.com/articles/nature13162)
@@ -28,25 +28,25 @@ NHKの脳ドキュメンタリー[驚異の小宇宙 人体II  脳と心](https:
 坂野仁先生インタビュー　[常に問いを立て続けて—免疫・嗅覚・そして次は](https://brh.co.jp/s_library/interview/63/)
 谷口維紹先生インタビュー　[Anxiety（不安感）を楽しみに変え、免疫を紐解く](https://brh.co.jp/s_library/interview/75/)
 ネットスケープ：IE登場以前に一世を風靡したウェブブラウザのこと
-酒井（邦嘉）先生[ラボHP](http://mind.c.u-tokyo.ac.jp/index-j.html)
+酒井（邦嘉）先生[ラボHP](https://mind.c.u-tokyo.ac.jp/index-j.html)
 [学術俯瞰講義](https://www.gfk.c.u-tokyo.ac.jp/)：東大１，２年生向けの、文理にとらわれない、特定の切り口に基づいたオムニバス形式の講義
 小宮山総長（達）のサバイバル英語：講義から派生した書籍は[こちら](https://www.amazon.co.jp/%E7%90%86%E7%B3%BB%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AE%E3%82%B5%E3%83%90%E3%82%A4%E3%83%90%E3%83%AB%E8%8B%B1%E8%AA%9E%E5%85%A5%E9%96%80%E2%80%95%E5%8B%9D%E3%81%A1%E6%8A%9C%E3%81%8F%E3%81%9F%E3%82%81%E3%81%AE%E7%A7%91%E5%AD%A6%E8%8B%B1%E8%AA%9E%E4%B8%8A%E9%81%94%E6%B3%95-%E3%83%96%E3%83%AB%E3%83%BC%E3%83%90%E3%83%83%E3%82%AF%E3%82%B9-%E6%9D%B1%E5%A4%A7%E3%82%B5%E3%83%90%E3%82%A4%E3%83%90%E3%83%AB%E8%8B%B1%E8%AA%9E%E5%AE%9F%E8%A1%8C%E5%A7%94%E5%93%A1%E4%BC%9A/dp/4062571099)
 [杉下守弘さん](https://ja.wikipedia.org/wiki/%E6%9D%89%E4%B8%8B%E5%AE%88%E5%BC%98)
 [ロジャー・スペリー](https://www.nobelprize.org/prizes/medicine/1981/sperry/facts/)
-生化 ：[理学部生物化学科](http://www.bs.s.u-tokyo.ac.jp/biochem/)
+生化 ：[理学部生物化学科](https://www.bs.s.u-tokyo.ac.jp/biochem/)
 [西郷（薫）先生](https://nrid.nii.ac.jp/ja/nrid/1000050136454/)
 山本先生インタビュー　[分子と分子が出会う、減数分裂を追いかけて](https://brh.co.jp/s_library/interview/91/)
 坂野研の[石井さん](https://researchmap.jp/7000025293)
 [脳を究める](https://www.amazon.co.jp/%E8%84%B3%E3%82%92%E7%A9%B6%E3%82%81%E3%82%8B%E2%80%95%E8%84%B3%E7%A0%94%E7%A9%B6%E6%9C%80%E5%89%8D%E7%B7%9A-%E6%9C%9D%E6%97%A5%E6%96%87%E5%BA%AB-%E7%AB%8B%E8%8A%B1-%E9%9A%86/dp/4022613246)
 [森憲作先生](https://researchmap.jp/kensakumori)
-小早川高さん[ラボ](http://www.kmu.ac.jp/faculty/graduate/category1/unit16.html)
-宮道さん[ラボ](http://cco.riken.jp/)
+小早川高さん[ラボ](https://www.kmu.ac.jp/faculty/graduate/category1/unit16.html)
+宮道さん[ラボ](https://cco.riken.jp/)
 UCSDの小宮山さん[ラボ](https://komiyamalab.biosci.ucsd.edu/)
-北島さん[ラボ](http://chromosegr.riken.jp/index.html)
+北島さん[ラボ](https://chromosegr.riken.jp/index.html)
 岡田節人先生（高橋淑子先生による[回顧](https://www.kyoto-u.ac.jp/kurenai/202011/onshi/index.html)）web上の書き物[まとめ](https://www.brh.co.jp/about_seimeishi/okada/)
 [Serizawa et al 2000 Nat Neurosci](https://www.nature.com/articles/nn0700_687)   訂正：近くのORは近くに投射する、というのは、その前の[Tsuboi et al JNS](https://www.jneurosci.org/content/19/19/8409) の内容で、この論文はolfactory receptorは相互排他的に発現する、という内容
 山下貴之先生[ラボHP](https://www.yamashitalab.org/)
-廣川先生[ラボHP](http://cb.m.u-tokyo.ac.jp/index-ja.html)
+廣川先生[ラボHP](https://cb.m.u-tokyo.ac.jp/index-ja.html)
 [竹田扇先生](https://researchmap.jp/drmedsta)
 岡田康志先生[ラボHP](https://www.okada-lab.phys.s.u-tokyo.ac.jp/)
 吉川雅英先生[ラボHP](https://structure.m.u-tokyo.ac.jp/member-j/kikkawa-j/kikkawa-j.html)
@@ -55,12 +55,12 @@ UCSDの小宮山さん[ラボ](https://komiyamalab.biosci.ucsd.edu/)
 恩送りのくだり[＠Twitter](https://twitter.com/KentaM_Hagihara/status/1093266971108491265)
 [Callawayラボ](https://www.salk.edu/scientist/edward-callaway/)
 森先生は阪大基礎工の塚原仲晃の弟子。修士を塚原研で過ごしています。
-高木貞敬先生[追悼記事](http://physiology.jp/wp-content/uploads/2014/01/060030148.pdf)（pdf注意）
+高木貞敬先生[追悼記事](https://physiology.jp/wp-content/uploads/2014/01/060030148.pdf)（pdf注意）
 Gordon Shepherd[ラボHP](https://medicine.yale.edu/lab/shepherd/)
 大阪バイオサイエンス研究所（のち理研に無償譲渡、QBiC→現BDR大阪キャンパス）[閉鎖した時に出た記事](https://osakaminami.hosp.go.jp/files/000036477.pdf)（pdf注意）
-柳沢先生[ラボHP](http://sleepymouse.jp/)
-[宮下保司先生](http://www.iam.u-tokyo.ac.jp/coe/miyashita/index.html)
-[高橋智幸先生](http://www.iam.u-tokyo.ac.jp/coe/takahashi/index.html)
+柳沢先生[ラボHP](https://sleepymouse.jp/)
+[宮下保司先生](https://www.iam.u-tokyo.ac.jp/coe/miyashita/index.html)
+[高橋智幸先生](https://www.iam.u-tokyo.ac.jp/coe/takahashi/index.html)
 Stephen Kufflerとその弟子たち[＠Neurotree](https://neurotree.org/beta/tree.php?pid=65)
 Celera Corporation（Craig Ventorの会社） によるヒトゲノム[解読](https://www.science.org/lookup/doi/10.1126/science.1058040)
 Sturat Firesteinによる[Olfactory receptor解析論文](https://www.nature.com/articles/nn800) （訂正：ヒトでなくマウス） bootstrapはFig 1と5

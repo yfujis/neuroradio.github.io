@@ -15,7 +15,7 @@ Thorlabs Japanの勝木健雄さんをゲストに、顕微鏡作成サポート
 
 Show Notes:
 [勝木さん](https://researchmap.jp/tkatsuki/)
-[Thorlabs Japanのホームページ](http://www.thorlabs.jp/)
+[Thorlabs Japanのホームページ](https://www.thorlabs.jp/)
 [10xの佐々木さん回](/2021/12/10/30-being-a-technologist-at-10x/)
 [柳下さん](https://sites.google.com/view/yagishita-group)
 [Doricのフォトメトリーシステム](https://neuro.doriclenses.com/pages/fiber-photometry-solution)
@@ -35,7 +35,7 @@ Show Notes:
 [共同研究契約を結ぶ際の留意点](https://www.jstage.jst.go.jp/article/faruawpsj/48/4/48_KJ00009649712/_pdf/-char/ja)（pdf）
 [ソーラボのgithub](https://github.com/Thorlabs)
 [openなんとかのひとつ](https://openspim.org/)
-Webのフォーラム：分子生物学ではは[そういうの](http://www.kenkyuu2.net/cgi-biotech2012/biotechforum.cgi)ある
+Webのフォーラム：分子生物学ではは[そういうの](https://www.kenkyuu2.net/cgi-biotech2012/biotechforum.cgi)ある
 [Janeliaの2p-RAM論文](https://elifesciences.org/articles/14472/figures)
 ↑のThorlabsでのコマーシャライゼーション：[Multiphoton Mesoscope](https://www.thorlabs.com/newgrouppage9.cfm?objectgroup_id=10646)
 UCL, [Hausserの二光子Stimulation](https://www.sciencedirect.com/science/article/pii/S0092867420313027)
@@ -54,19 +54,19 @@ UCL, [Hausserの二光子Stimulation](https://www.sciencedirect.com/science/arti
 松田良一先生、[退官時の文章](https://www.c.u-tokyo.ac.jp/info/about/booklet-gazette/bulletin/598/open/598-4-1.html)
 による[立花隆ゼミ誕生秘話](https://webronza.asahi.com/science/articles/2021081300005.html)
 [依田さん](https://researchmap.jp/read0054674)
-慶應の[岡野研](http://www.okano-lab.com/)
+慶應の[岡野研](https://www.okano-lab.com/)
 遺伝研の[広海健先生](https://researchmap.jp/read0001404)
 [岡部さん](https://researchmap.jp/OM002168)
 [坂野先生インタビュー](https://brh.co.jp/s_library/interview/63/)
 [西郷先生](https://nrid.nii.ac.jp/ja/nrid/1000050136454/)
 [山本先生インタビュー](https://brh.co.jp/s_library/interview/91/)
-[深田研HP](http://www.biochem.s.u-tokyo.ac.jp/fukada-lab/research-j.html)
+[深田研HP](https://www.biochem.s.u-tokyo.ac.jp/fukada-lab/research-j.html)
 [横山研](https://www.riken.jp/research/labs/bzp/yokoyama/)
-[もともと生物物理化学学科（Biophysics and Biochemistry）](http://www.bs.s.u-tokyo.ac.jp/biochem/)
+[もともと生物物理化学学科（Biophysics and Biochemistry）](https://www.bs.s.u-tokyo.ac.jp/biochem/)
 [岡野さんが昔研究してたMusashiというタンパク質](https://doi.org/10.1016/0896-6273(94)90460-X)
 [栗本さん](https://researchmap.jp/Kazuki_Kurimoto)
 [火山じゃなくて温泉でした](https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%BC%E3%83%9E%E3%82%B9%E3%83%BB%E3%82%B5%E3%83%BC%E3%83%A2%E3%83%95%E3%82%A3%E3%83%AB%E3%82%B9)
-[タンパク3000プロジェクト](http://www.tanpaku.org/pdf/protein3000/pamphlet_j.pdf)(pdf)
+[タンパク3000プロジェクト](https://www.tanpaku.org/pdf/protein3000/pamphlet_j.pdf)(pdf)
 [総研大](https://www.soken.ac.jp/)
 [遺伝研での仕事](https://doi.org/10.1016/j.neuron.2009.08.019)（Neuron）
 [平本さん（の仕事）](https://www.nature.com/articles/35022571)

@@ -30,14 +30,14 @@ Halassaラボでの[注意機能による感覚選択を司る脳回路、のお
 [その自閉症モデルでの状態と緩和方法探索、のお仕事](https://www.sciencedirect.com/science/article/pii/S0896627319308438[)
 [イアン・シュミット](https://cbs.riken.jp/en/faculty/l.schmitt/)
 GENSAT（The Gene Expression Nervous System Atlas (GENSAT) BAC Transgenic Project）の[論文](https://www.nature.com/articles/nature02033)
-および[データベース](http://www.gensat.org/daily_showcase.jsp)
+および[データベース](https://www.gensat.org/daily_showcase.jsp)
 TRAP ：ここではTranslating Ribosome Affinity Purification (TRAP) のこと。リボソームのタンパク質L10aにEGFPをタグとしてつけ、GFP抗体で精製、リボソームにくっついてくるmRNAを釣ってくる手法　[その１](https://www.sciencedirect.com/science/article/pii/S0092867408013652)　[その２](https://www.sciencedirect.com/science/article/pii/S0092867408013664)
 [TRPチャネルを使って神経活動の制御をする…の話](https://www.nature.com/articles/nmeth.1190)（すみません。論文読み返してみたら、このメソッドの良さが強調されてて、決してOptoには勝てないとは書いてなかったです。by 中島さん）
 ロックフェラーの嗅覚の先生たち [Vosshall](https://www.rockefeller.edu/research/2355-vosshall-laboratory/) [Mombearts](https://www.gen.mpg.de/6847/PMombaerts)
 [hmC (5-hydroxymethylcytosine) を発見したポスドク](https://www.ludwig.ox.ac.uk/research/skirmantas-kriaucionis-group-page)
 の[仕事](https://www.science.org/doi/full/10.1126/science.1169786)
 スパースさ：オキシトシン受容体発現ニューロンのmPFCでの分布がスパースであるということ
-[Rbp4(KL_100)とかLayer5で使う人が多い](http://www.informatics.jax.org/allele/MGI:4367067)
+[Rbp4(KL_100)とかLayer5で使う人が多い](https://www.informatics.jax.org/allele/MGI:4367067)
 [元論文](https://www.sciencedirect.com/science/article/pii/S0896627313009197)
 Parafascicular nucleus: 束傍核。[Striatumによく投射する](https://www.sciencedirect.com/science/article/pii/S0896627319301709)
 TRN: Thalamic Reticular Nucleus 皮質とThalamusを繋ぐ抑制性ニューロンの核。最近印象的だった[Guoping Fenの仕事とか](https://www.nature.com/articles/s41586-020-2504-5)
@@ -56,7 +56,7 @@ NYの[アダム・カーター](https://www.carterlab.org/)
 HMM：Hidden Markov Model 特定の遷移確率を持つ内部状態（潜在変数）ごとに観測される結果の出力確率が違うモデル
 GLM：Generalized Linear Model[ピローに依る解説](https://youtu.be/NFeGW5ljUoI?t=3422)
 モダフィニルを使った時：Ptchd1 KO におけるnoise filtering異常combinatorialレスキュー論文のFig. 5
-行動の[Shaping](http://rinnsyou.com/archives/392)
+行動の[Shaping](https://rinnsyou.com/archives/392)
 クロスモーダルの話（で用いられたタスク）：two alternative forced task (2AFC)のこと。ノーズポークによって提示されるキュー（high-passの音かlow-passの音か）に基づき、400 ms後、同時に与えられるAuditoryのdiscriminationタスクとVisualのdetectionタスクのどちらを行うかを選択する。ここでのdistractorとはキューで指定されない方のタスクmodalityのこと
 中島さんが神経回路学会に載せていた[行動実験に関する日本語レビュー](https://www.jstage.jst.go.jp/article/jnns/27/3-4/27_127/_pdf/-char/ja)
 サルの人が言うAttention, 例えば[これ](https://www.science.org/doi/10.1126/science.1138071)
@@ -107,7 +107,7 @@ YusteのCell type会議：[EMBO workshops on Cortical interneurons in health and
 の[論文](https://www.nature.com/articles/s41586-022-04994-6)
 最近の[Josh Huangの仕事](https://www.nature.com/articles/s41586-021-03955-9)
 [Josh Huang ラボ](https://www.neuro.duke.edu/research/faculty-labs/huang-lab)
-[Froemke先生のラボ](http://froemkelab.med.nyu.edu/)
+[Froemke先生のラボ](https://froemkelab.med.nyu.edu/)
 
 Editorial Notes:
 今回は貴重な機会を頂きありがとうございました！本当に長々と申し訳ないです。お二人とも話が非常に明快で一瞬で重要なポイントをついてくるので、勉強になりました。これからの更なるご活躍が楽しみです！私は日本語も英語も結構間違えてて反省！（汗）エレベーターピッチの練習しないと。これからも人間の行動に迫っていきたい思うので乞うご期待！（中島）

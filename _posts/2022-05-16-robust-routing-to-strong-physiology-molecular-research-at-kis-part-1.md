@@ -15,12 +15,12 @@ Summary:
 
 Show Notes:
 [北西ラボHP](https://sites.google.com/view/kitanishilab/Home)
-[総合文化研究科先進科学研究機構](http://kis.c.u-tokyo.ac.jp/)
+[総合文化研究科先進科学研究機構](https://kis.c.u-tokyo.ac.jp/)
 [岡ノ谷ラボ](https://marler.c.u-tokyo.ac.jp/home/)（現・帝京大）
 [博士の仕事](https://academic.oup.com/cercor/article/19/11/2572/377117)
 [田代ラボ](https://www.ntu.edu.sg/sbs/research/research-directory/ayumu-tashiro)（現・シンガポール）
 [田代ラボでの仕事](https://www.sciencedirect.com/science/article/pii/S0896627315004195)
-の[筆頭著者レビュー](http://first.lifesciencedb.jp/archives/10375)
+の[筆頭著者レビュー](https://first.lifesciencedb.jp/archives/10375)
 [2005年のオプト論文](https://www.nature.com/articles/nn1525)
 [PINP](https://doi.org/10.1371/journal.pone.0006099)論文 (=OptoID or OptoTagging)
 五十嵐さんの[お話](/2021/09/22/24-poor-is-the-pupil-who-does-not-surpass-his-master-part-2/)
@@ -29,9 +29,9 @@ Show Notes:
 [Open Ephys](https://open-ephys.org/)
 [Kavli Institute (for Systems Neuroscience)](https://www.ntnu.edu/kavli)
 [Moserラボ](https://www.ntnu.edu/kavli/moser-group#/view/about)
-[五十嵐さん](http://www.igarashilab.org/)
+[五十嵐さん](https://www.igarashilab.org/)
 [伊藤さん](https://brain.mpg.de/ito)
-[上村さん](http://research.kmu.ac.jp/kmuhp/KgApp?kyoinId=ogigms)
+[上村さん](https://research.kmu.ac.jp/kmuhp/KgApp?kyoinId=ogigms)
 [小金澤さん](https://researchmap.jp/7016212_nor)
 [Menno Witterラボ](https://www.ntnu.edu/employees/menno.witter)
 [日光ランプ (kirkasvalolamppu) + VitD事情 (フィンランドの記事ですが事情は同じかと)](https://lalafinland.com/winter-items-in-finland)
@@ -48,7 +48,7 @@ Mor Ther. [Generation and Characterization of Chimeric Recombinant AAV Vectors](
 [Claustrumの仕事](https://www.jneurosci.org/content/37/2/269)
 Crick and Koch 2005. [What is the function of the claustrum?](https://doi.org/10.1098/rstb.2005.1661)
 [京大白眉](https://www.hakubi.kyoto-u.ac.jp/)
-[水関ラボ](http://www.med.osaka-cu.ac.jp/physiology2/professor.html)
+[水関ラボ](https://www.med.osaka-cu.ac.jp/physiology2/professor.html)
 [あべのハルカス](https://www.abenoharukas-300.jp/index.html)
 理研の[村山先生](https://murayamalab.riken.jp/)
 [Subiculumのプロジェクト](https://www.science.org/doi/10.1126/sciadv.abf1913)（水関ラボでのSci Adv）

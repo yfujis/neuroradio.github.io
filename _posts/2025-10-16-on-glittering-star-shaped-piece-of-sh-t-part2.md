@@ -31,7 +31,7 @@ Show Notes:
 [Benjamin Deneen](https://www.deneenlab.org/people) がastrocyte Fos taggingをしてそうだなと思ったイントロの[論文](https://www.science.org/doi/10.1126/science.ade0027)
 [Williamson et al. 2025 Nature](https://www.nature.com/articles/s41586-024-08170-w)
 [初期のRAM論文](https://elifesciences.org/articles/13918) はFosのミニマルプロモータの上流にNpas4の活動依存エンハンサーを複数タンデムという謎デザイン (なので発現はエンドのFosともNpas4ともズレそう)
-[Yingxi Lin](https://profiles.utsouthwestern.edu/profile/220883/yingxi-lin.html)の本丸[F-RAM/N-RAM論文](http://f-ram/N-RAM) ここで使われたF-RAMはFosのミニマルプロモータにFosのエンハンサーを複数タンデム(なのでエンドのFosとのオーバーラップが高いだろうという主張)
+[Yingxi Lin](https://profiles.utsouthwestern.edu/profile/220883/yingxi-lin.html)の本丸[F-RAM/N-RAM論文](https://f-ram/N-RAM) ここで使われたF-RAMはFosのミニマルプロモータにFosのエンハンサーを複数タンデム(なのでエンドのFosとのオーバーラップが高いだろうという主張)
 [ニューロンは異なるserotypeを混ぜた方が取り込みがよい?](https://www.cell.com/molecular-therapy-family/molecular-therapy/pdf/S1525-0016%2822%2900569-X.pdf?utm_source=chatgpt.com)
 [九大・増田さん](https://takahiromasuda-lab.com/members)
 [Suhdofの統計やばかったNature論文](https://www.nature.com/articles/s41586-023-07011-6)

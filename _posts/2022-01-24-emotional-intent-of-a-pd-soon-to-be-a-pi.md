@@ -18,7 +18,7 @@ Show Notes:
 Davidのemailアドレス：wuwei[at]caltech.edu
 苅郷さん [google scholarページ](https://scholar.google.com/citations?user=kbY7FikAAAAJ&hl=en)
 [当時の理学部生物学科 動物学コース](https://www.s.u-tokyo.ac.jp/ja/story/newsletter/attraction/04.html)
-岡良隆先生[ラボHP](http://www.bs.s.u-tokyo.ac.jp/~naibunpi/index.html)
+岡良隆先生[ラボHP](https://www.bs.s.u-tokyo.ac.jp/~naibunpi/index.html)
 [奥山さんの回その１](/2021/04/14/8-social-interaction-with-dr-teruhiro-okuyama-part-1/) [その２](/2021/04/28/9-social-interaction-with-dr-teruhiro-okuyama-part-2/)
 [臨海実験所](https://www.s.u-tokyo.ac.jp/ja/story/newsletter/institutions/12.html)
 David Anderson[ラボHP](https://davidandersonlab.caltech.edu/)
@@ -35,7 +35,7 @@ USV: ultrasonic vocalization
 インターセクション：FLPとCre２つの組み換え酵素を用いて発現制御する[INTRSECT](https://www.nature.com/articles/nmeth.2996)のこと
 Moriel Zelikowsky[ラボHP](https://www.zelikowskylab.com/)
 手動Google Scholar：in press論文を手動でGoogle Scholarに入力すること
-[NeuroRumblrのサイト](http://neurorumblr.com/)  [twitterアカウント](https://twitter.com/NeuroRumblr)
+[NeuroRumblrのサイト](https://neurorumblr.com/)  [twitterアカウント](https://twitter.com/NeuroRumblr)
 運営者の[Adam J Calhoun](https://neuroecology.wordpress.com/)  [twitterアカウント](https://twitter.com/neuroecology)
 井上さん（回）[1](/2021/06/10/14-dual-career-at-stanford-dr-sayaka-inoue-and-dr-masatoshi-inoue-part-1/) 　[2](/2021/06/11/15-dual-career-at-stanford-dr-sayaka-inoue-and-dr-masatoshi-inoue-part-2/)
 [ERC Starting Grant](https://erc.europa.eu/funding/starting-grants)  [募集要項](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/information-for-applicants_he-erc-stg-cog_en.pdf)（PDF注意）
@@ -46,7 +46,7 @@ University of Southern California の[Biology Department, Neuroscience](https://
 ハードマネー：大学から出る給料
 ソフトマネー：自分が取った予算から出す給料
 [ダレス空港](https://www.ana.co.jp/ja/es/travel-information/airport-and-city-info/washington/)
-Pietro Perona [ラボHP](http://www.vision.caltech.edu/)
+Pietro Perona [ラボHP](https://www.vision.caltech.edu/)
 Davidとの[Machine Vison系論文](https://www.pnas.org/content/112/38/E5351)
 補足 by 苅郷さん：DavidとPietroコラボの[新しいtracking & behavior classifier論文](https://elifesciences.org/articles/63720)がオンラインになりました。これは、プロジェクトデザインの最初の頃から、フィードバックしたりデータの提供をしたりと関わってきたものです。
 Doris Tsao ([CaltechのHP](https://www.tsaolab.caltech.edu/), 最近バークレーに移動)
@@ -62,10 +62,10 @@ Chalk talkとは何ぞや、というのを知るには[このビデオ](https:/
 あと、[UCSFが過去のJob seminarを公開](https://weill.ucsf.edu/recruitment/past-seminars)していて、こちらも何となく参考になりました。特にFuture directionどのくらい話せばいいんだろう、とか（[稲垣さん](https://mpfi.org/science/our-labs/inagaki-lab/)・・・！）
 Caltechがポスドクに提供しているTeaching経験を積むためのコース：ポスドク・院生が主に学部生を教える機会を与えるBi 23というコースがあります。これはBiology DepartmentがAlice Huangさん主導でやっているのかな。私がBradyとAmitという同僚と一緒に教えたのはこのコース。
 Bi 23. Biology Tutorials. 3 or 6 units: second term. Small group study and discussion in depth of special areas or problems in biology or biological engineering, involving regular tutorial sections with instructors drawn from the divisional postdoctoral staff and others. Usually given winter term. To be arranged with instructors before registration. Graded pass/fail. Instructor: Huang.
-2021年のシラバスがオンラインで見つからないのですが、今年のやつは[これ](http://schedules.caltech.edu/syllabi/Bi23_WI2122.pdf)。ポスドクらがシラバスなどを作ってコースを提案して、学生が集まれば開催される、という感じです。我々は、”Being Emotional: What are emotions and how can they be studied?”というタイトルで、Lecture + discussion + Journal readingのクラスをやりました。（by 苅郷さん）
+2021年のシラバスがオンラインで見つからないのですが、今年のやつは[これ](https://schedules.caltech.edu/syllabi/Bi23_WI2122.pdf)。ポスドクらがシラバスなどを作ってコースを提案して、学生が集まれば開催される、という感じです。我々は、”Being Emotional: What are emotions and how can they be studied?”というタイトルで、Lecture + discussion + Journal readingのクラスをやりました。（by 苅郷さん）
 （関連して）[CPET](https://ctlo.caltech.edu/universityteaching/programs/cpet) ：教育とは、授業の組み立て方、みたいなのを体系的に教えてもらえるコースのようなもので、確か受講すると最後にCertificateのようなものがもらえると聞きました。ラボにこのコースを取っていたポスドクもいました。（by 苅郷さん）
 [Deisserothの講習会](https://med.stanford.edu/neuronex/Training.html) （註：ATGCと言ってしまいましたが、正しくはGTCAでした by まささん）
-カルテクのWriting Consulting Service: [Hixon Writing Center](http://www.writing.caltech.edu/)
+カルテクのWriting Consulting Service: [Hixon Writing Center](https://www.writing.caltech.edu/)
 Solomon Snyder Institute: Johns HopkinsのNeuroscience Departmentのこと
 Solomon Snyder Instituteの[PI達](https://neuroscience.jhu.edu/research/faculty)
 [若い動物でplay behaviorが見られる](https://onlinelibrary.wiley.com/doi/10.1002/dev.420140405)
@@ -75,7 +75,7 @@ Brecht[ラボHP](https://www.activetouch.de/)
 Davidは[元々Neural Crestやってた](https://www.sciencedirect.com/science/article/pii/S0896627303001636)
 Ann Kennedyの[1stの論文](https://www.nature.com/articles/s41586-020-2728-4) (３人co-first)
 Prabhatがファーストの[eLIFEの論文](https://elifesciences.org/articles/06633)
-[Lingyun](http://davidandersonlab.caltech.edu/lab_members/postdocs/lingyun-li)さん
+[Lingyun](https://davidandersonlab.caltech.edu/lab_members/postdocs/lingyun-li)さん
 [趣味でネズミの絵を集める](https://tak38waki.hatenablog.com/entry/2018/03/26/182313)
 [Questionable Animal Figures](https://twitter.com/animalfigures)
 

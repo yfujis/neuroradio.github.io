@@ -33,7 +33,7 @@ Show Notes:
 小坂田さんのPhD論文: [Osakada et al., 2018](https://www.nature.com/articles/s41467-018-07003-5)
 [Ferrero et al., 2013](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=4ZDWcrQAAAAJ&citation_for_view=4ZDWcrQAAAAJ:qjMakFHDy7sC)
 Dulacの鋤鼻器の仕事: [Isogai et al., 2011](https://www.nature.com/articles/nature10437) ですかね？[Dulac and Axel, 1995](https://www.cell.com/fulltext/0092-8674(95)90161-2) こういうhistoricalなやつもあるよ。axel labでの仕事だけど。（小坂田）
-[廣田先生](http://www.hirota.bio.titech.ac.jp/cn8/bcl11bVNO.html)（東工大、の[2025年の論文](https://www.cell.com/current-biology/fulltext/S0960-9822(24)01504-5)）
+[廣田先生](https://www.hirota.bio.titech.ac.jp/cn8/bcl11bVNO.html)（東工大、の[2025年の論文](https://www.cell.com/current-biology/fulltext/S0960-9822(24)01504-5)）
 [Maria Tosches](https://www.tosches-lab.com/bio)
 [SPINESトーク](https://med.nyu.edu/departments-institutes/neuroscience/our-community/events/spines-lectures)
 [菊水先生](https://sites.google.com/carazabu.com/lab-kaizai/home/members?authuser=0)（麻布大）
@@ -57,7 +57,7 @@ Linラボに入って最初にrevisionを手伝った論文: [Wang et al., 2019]
 [レベッカ・ピスコロウスキ](https://www.ibps.sorbonne-universite.fr/en/ibps/directory/19158-Rebecca-Piskorowski)
 [史さん](https://evoevokulala.jp/free/en)
 [日本神経科学学会2026年度奨励賞](https://www.jnss.org/etc?id=260423-01)
-[Yulong Li](http://www.yulonglilab.org/)
+[Yulong Li](https://www.yulonglilab.org/)
 [森下先生](https://www.morishita-lab.com/)
 [佐藤先生](https://www.satobrainlab.org/)
 [長濱さん](https://www.knagahama-neuro-lab.com/)（NR出演回 [1](/2023/01/17/51-a-precise-tagging-of-active-neurons/), [2](/2025/09/16/96-crash-landing-on-u/)）

@@ -20,7 +20,7 @@ Show Notes:
 [Code Ocean](https://codeocean.com/)
 [DataJoint](https://datajoint.com/)
 [Andreas Tolias](https://toliaslab.org/people/)
-[DeepLabCut](http://www.mackenziemathislab.org/deeplabcut)の[Mathis](http://www.mackenziemathislab.org)のとこ
+[DeepLabCut](https://www.mackenziemathislab.org/deeplabcut)の[Mathis](https://www.mackenziemathislab.org)のとこ
 [Data Joint使ってるラボ一覧](https://datajoint.com/docs/projects/)
 [Logitech MX Master 3S](https://www.logitech.com/en-us/products/mice/mx-master-3s.910-006556.html)
 [LogitechのVertical](https://www.logitech.com/en-us/products/mice/mx-vertical-ergonomic-mouse.910-005447.html)
@@ -51,7 +51,7 @@ Appleの指紋認証キーボード ([Magic Keyboard with Touch ID](https://supp
 [APPRAISE-AAVのプレプリント](https://www.biorxiv.org/content/10.1101/2023.01.11.523680v1)
 論文３：[A non-image-forming visual circuit mediates the innate fear of heights](https://www.biorxiv.org/content/10.1101/2023.05.27.542556v1)
 [Sudhof](https://med.stanford.edu/sudhoflab.html)
-[Peng Cao (曹鵬)](http://www.nibs.ac.cn/yjsjyimgshow.php?cid=5&sid=6&id=1633)
+[Peng Cao (曹鵬)](https://www.nibs.ac.cn/yjsjyimgshow.php?cid=5&sid=6&id=1633)
 [Looming刺激に対するSC関与の仕事＠Science](https://www.science.org/doi/10.1126/science.aaa8694)
 Tiago Blancoの仕事 [１](https://www.nature.com/articles/s41586-018-0244-6) [２](https://www.nature.com/articles/s41586-022-05553-9)
 [Bo Liラボのマウス絵](https://www.jneurosci.org/content/36/24/6488)

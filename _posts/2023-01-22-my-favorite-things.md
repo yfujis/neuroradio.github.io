@@ -19,13 +19,13 @@ Rebuildの[缶の音の回](https://rebuild.fm/351/) (引き続き[ここ](https
 [Francesco Ferraguti Lab](https://www.i-med.ac.at/pharmakologie/forschung/research_ferraguti.html.en)
 [Csicsvari](https://ist.ac.at/en/research/csicsvari-group/) オーストリアだけどクロスターノイブルクでした
 [雪崩講習会](https://avsarjapan.org/)(日本雪崩捜索救助協議会)
-[えびそば一幻](http://www.ebisoba.com/)
+[えびそば一幻](https://www.ebisoba.com/)
 [北菓楼【きたかろう】](https://www.kitakaro.com/)
 [だし茶漬け えん 成田店 (臨時休業中)](https://tabelog.com/chiba/A1204/A120401/12004604/)
 [ミンガスコーヒー](https://tabelog.com/hokkaido/A0101/A010102/1002105/) (札幌・大通り) 混んでる時は6Fにある系列店のローチロースターに行くといいです。なぜか混んでなく、こちらは豆売りもしてる
 [La Cuisine de KAWAMURA (旧グリル・カワムラ)](https://www.grill-kawamura.com/) (福岡・薬院) 季節ごとにメニューが変わるので福岡に住んでたら年4回行きたいお店。基本なんでも大変美味しく、冬の厚岸の牡蠣、夏にデザートで出る桃とクローブのスープ等、忘れられない皿が幾つも。スペシャリテの山芋フォアグラ・マデイラソースも絶品なので是非
 [田奈部](https://tabelog.com/tokyo/A1310/A131004/13030099/) にしん蕎麦と焼き味噌をよく頂きました
-[釜竹](http://kamachiku.com/) うどん、酒肴、日本酒ぜんぶ美味しい
+[釜竹](https://kamachiku.com/) うどん、酒肴、日本酒ぜんぶ美味しい
 [旧こくわがた](https://tabelog.com/tokyo/A1310/A131004/13240246/) 鶏天HG
 言い忘れたけど[味噌煮込罠](https://misonikomin.net/)は絶対行きたい…！
 [臥龍](https://tabelog.com/tokyo/A1317/A131706/13027085/) 肉麺が好物ですが鶏だけの麺も美味しい

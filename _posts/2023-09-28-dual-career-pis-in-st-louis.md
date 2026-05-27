@@ -18,7 +18,7 @@ Show Notes:
 
 [アメリカでPIになる:](https://note.com/masatoshi_inoue/n/n0c2a416b01b2) 井上さんによる就活日記。これを開きつつ聴くのを推奨
 井上さんNR過去出演回[1](/2021/06/10/14-dual-career-at-stanford-dr-sayaka-inoue-and-dr-masatoshi-inoue-part-1/)[2](/2021/06/11/15-dual-career-at-stanford-dr-sayaka-inoue-and-dr-masatoshi-inoue-part-2/)[3](/2022/01/24/32-emotional-intent-of-a-pd-soon-to-be-a-pi/)
-[尾藤研](http://www.neurochem.m.u-tokyo.ac.jp/)
+[尾藤研](https://www.neurochem.m.u-tokyo.ac.jp/)
 [Deisseroth lab（D-lab）](https://web.stanford.edu/group/dlab/)
 [昌俊さん過去の仕事](https://scholar.google.com/citations?user=-MkSAJcAAAAJ&hl=ja)
 [森憲作先生](https://researchmap.jp/kensakumori)
@@ -51,7 +51,7 @@ Stanford, 中学校でやるやつの募集：[Stanford Brain Day](https://sites
 [ステロイドホルモンが神経回路にどう影響するか、どう薬に応用するか？](https://taylorfamilyinstitute.wustl.edu/research/) Active Researchは[こちら](https://taylorfamilyinstitute.wustl.edu/research/active-research/)
 [”中西部サボテン”の回](/2023/07/17/60-minds-meet-weeds-part-2/) (誤った認識に基づいた偏見です、本当にすみません… 脇　ネタとして楽しんでます…清)
 [WashU 日本人Alumni: セントルイス・ワシントン大学の教員](https://ja.wikipedia.org/wiki/Category:%E3%82%BB%E3%83%B3%E3%83%88%E3%83%AB%E3%82%A4%E3%82%B9%E3%83%BB%E3%83%AF%E3%82%B7%E3%83%B3%E3%83%88%E3%83%B3%E5%A4%A7%E5%AD%A6%E3%81%AE%E6%95%99%E5%93%A1)
-[廣川先生](http://cb.m.u-tokyo.ac.jp/)
+[廣川先生](https://cb.m.u-tokyo.ac.jp/)
 [早石修先生](https://brh.co.jp/s_library/interview/28/)[追悼インタビュー](https://www.natureasia.com/ja-jp/ndigest/v13/n10/%E6%8F%A1%E3%82%8A%E9%A3%AF%E3%82%88%E3%82%8A%E6%9F%BF%E3%81%AE%E7%A8%AE%E3%80%81%E6%97%A9%E7%9F%B3%E4%BF%AE%E5%85%88%E7%94%9F%E3%81%AE%E5%BF%97%E3%82%92%E7%B6%99%E3%81%84%E3%81%A7/78916)
 [岡崎令治先生](https://ja.wikipedia.org/wiki/%E5%B2%A1%E5%B4%8E%E4%BB%A4%E6%B2%BB)
 岡崎フラグメント[1](https://www.pnas.org/doi/abs/10.1073/pnas.59.2.598)[2](https://www.pnas.org/doi/abs/10.1073/pnas.60.4.1356)

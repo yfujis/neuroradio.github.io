@@ -105,7 +105,7 @@ TM2D3/almondexに関するPLoS Genetics論文 [1](https://journals.plos.org/plos
 [Phil Soriano](https://profiles.icahn.mssm.edu/philippe-m-soriano)
 [Monica Justice インタビュー記事](https://journals.biologists.com/dmm/article/6/4/871/3392/Of-Mice-and-Men-and-Medicine-an-interview-with)
 放送中に名前をど忘れした以前ベイラー医科大で活躍したAllanはマウスゲノム編集で有名な[Allan Bradley](https://en.wikipedia.org/wiki/Allan_Bradley)でした(by 山)
-[CPMMはマウスモデルを作ってPhenotypingもしてくれる](http://bcm.edu/cpmm)
+[CPMMはマウスモデルを作ってPhenotypingもしてくれる](https://bcm.edu/cpmm)
 [Study SectionやCouncilが止まっている](https://www.nature.com/articles/d41586-025-00540-2)
 [UJA(海外日本人研究者ネットワーク)](https://www.uja-info.org/)
 [山本さん（公開されている連絡先）](https://www.bcm.edu/people-search/shinya-yamamoto-33456)

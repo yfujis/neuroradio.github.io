@@ -23,7 +23,7 @@ Show Notes:
 ネットで空きを探す：基本は[Zillow](https://www.zillow.com/)でやりました
 [Wise](https://wise.com/us/)(旧Transferwise)：手軽かつ割と良いレートで送金できたりする
 テイクアウト：米国でもTake Out、一部の地方（含ボストン）ではTo-go。英国ではTakeaway。イートインは for here
-シンク：[アメリカのシンクにはディスポーザル（生ごみ粉砕機）がついている](http://www.jlifeus.com/e-pedia/02.housekeeping&cooking/01.kitchen/ptext/02.doublesink.htm)
+シンク：[アメリカのシンクにはディスポーザル（生ごみ粉砕機）がついている](https://www.jlifeus.com/e-pedia/02.housekeeping&cooking/01.kitchen/ptext/02.doublesink.htm)
 [ソーラボ（Thorlabs）](https://www.thorlabs.com/) ：DIY光学系のためのパーツを売る会社
 [アダム](https://alleninstitute.org/what-we-do/brain-science/about/team/staff-profiles/adam-glaser/)：最近Allenにジョインしたライトシート顕微鏡作成のスペシャリスト
 Janeliaのハエを移す機械： [Drosphilobot](https://twitter.com/Sebcredible/status/646504726704603136)
