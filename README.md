@@ -139,9 +139,9 @@ bundle exec jekyll serve
 
 ## GitHub Pagesデプロイ
 
-GitHub PagesはGitHub Actionsで `_site/` をデプロイします。`.github/workflows/pages.yml` が `bundle exec jekyll build` を実行します。
+GitHub PagesはGitHub Actionsで `_site/` をデプロイします。`.github/workflows/jekyll.yml` が `bundle exec jekyll build` を実行します。
 
-現在の `_config.yml` は `https://yukifujishima.com/neuroradio/` 用に `baseurl: "/neuroradio"` にしています。`neuroradio.tokyo` へ本番移行するときは `url: "https://neuroradio.tokyo"`、`baseurl: ""` に戻します。
+現在の `_config.yml` は本番ドメイン `https://neuroradio.tokyo/` 用に `url: "https://neuroradio.tokyo"`、`baseurl: ""` にしています。
 
 推奨設定:
 
@@ -154,7 +154,7 @@ GitHub PagesはGitHub Actionsで `_site/` をデプロイします。`.github/wo
 - `_posts/*.md` がエピソードの編集元です。
 - `permalink` を元サイトと同じURLにすることで、移行後もURLを維持します。
 - `_plugins/episode_parser.rb` が `Summary:`, `Show Notes:`, `Editorial Notes:` のラベル形式を読み取り、現在のデザインに合うHTMLへ変換します。
-- 画像は `/assets/episodes/...` と書けば、GitHub Pages上では自動で `/neuroradio/assets/episodes/...` として表示されます。
+- 画像は `/assets/episodes/...` と書きます。本番では `https://neuroradio.tokyo/assets/episodes/...` として表示されます。
 - `styles.css` と `script.js` は現在のNeuroRadioデザインをそのまま使います。
 
 ## Files

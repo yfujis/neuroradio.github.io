@@ -17,7 +17,7 @@ Show Notes:
 雑談パート
 
 [グローバル・スタートアップ・キャンパス構想に関する有識者会議](https://www.cas.go.jp/jp/seisaku/campus/index.html)
-齋藤さんNR回 [1](•%09https:/neuroradio.tokyo/2022/07/19/40-casting-light-on-the-life-at-broad-institute-part-1/) [2](•%09https:/neuroradio.tokyo/2022/07/25/41-casting-light-on-the-life-at-broad-institute-part-2/)
+齋藤さんNR回 [1](/2022/07/19/40-casting-light-on-the-life-at-broad-institute-part-1/) [2](/2022/07/25/41-casting-light-on-the-life-at-broad-institute-part-2/)
 [使った発表資料](https://www.cas.go.jp/jp/seisaku/campus/yusikisya_kaigi/dai1/siryou4.pdf)(pdf)
 [Nature Biotech のChurchラボに関する記事](https://arep.med.harvard.edu/pdf/DeFrancesco_gclab_2019.pdf) (pdf)
 ヴィースの[How We Work](https://wyss.harvard.edu/how-we-work/)

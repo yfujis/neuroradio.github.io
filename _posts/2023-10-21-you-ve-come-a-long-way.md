@@ -26,7 +26,7 @@ Show Notes:
 [DeepLabCutのMathis](https://www.mackenziemathislab.org/)
 [Brain Behavior Observatory (BBO)](https://brainbehaviorobservatory.org/)
 [IBL](https://www.internationalbrainlab.com/)
-Enhancer-AAV [その１](https://www.sciencedirect.com/science/article/pii/S0896627321001598) [その２](l%09https:/www.cell.com/cell-reports/fulltext/S2211-1247(21)00067-X) [その３](l%09https:/www.biorxiv.org/content/10.1101/2023.09.20.558718v1)
+Enhancer-AAV [その１](https://www.sciencedirect.com/science/article/pii/S0896627321001598) [その２](https://www.cell.com/cell-reports/fulltext/S2211-1247(21)00067-X) [その３](https://www.biorxiv.org/content/10.1101/2023.09.20.558718v1)
 [千歳さん](https://twitter.com/yutasenzai)
 [第一回論文紹介](/2021/03/02/2-the-grids-are-a-torus/)
 [SfNでの発表](https://www.abstractsonline.com/pp8/#!/10892/presentation/33427) [トーラスの発達](https://www.abstractsonline.com/pp8/#!/10892/presentation/33425)含め他のポスター群も面白そう 脇

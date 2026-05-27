@@ -23,14 +23,14 @@ Show Notes:
 [AwatramaniとDombeckのドパミンサブタイプ論文 in NN](https://www.nature.com/articles/s41593-023-01401-9)
 の[プレプリント版を読んだNR回](/2022/08/07/43-splendid-isolation/)
 [Sabatini (弟)](https://sabatini.hms.harvard.edu/) の[N](https://www.nature.com/articles/s41586-023-06492-9)
-[Nicolas Tritsch](https://med.nyu.edu/faculty/nicolas-tritsch)の[N](•%09https:/www.nature.com/articles/s41586-023-05995-9)
+[Nicolas Tritsch](https://med.nyu.edu/faculty/nicolas-tritsch)の[N](https://www.nature.com/articles/s41586-023-05995-9)
 
 論文紹介パート
 
 その１：[Magnetic control of GFP-like fluorescent proteins](https://andrewgyork.github.io/gfp_magnetofluorescence/)
 [Calico](https://www.calicolabs.com/)
 [Maria Ingaramo](https://andrewgyork.github.io/subpages/people/people.html)
-[Andrew York](•%09https:/www.calicolabs.com/people/andrew-york-ph-d)
+[Andrew York](https://www.calicolabs.com/people/andrew-york-ph-d)
 [リボフラビン、FAD、FMN](https://www.dojindo.co.jp/letterj/128/review/01.html)
 [FlavinTag](https://pubs.acs.org/doi/10.1021/acs.bioconjchem.1c00306)
 [鳥の磁場感知 by ErCRY4](https://www.nature.com/articles/s41586-021-03618-9)

@@ -23,7 +23,7 @@ Show Notes:
 [DeepLabCut](http://www.mackenziemathislab.org/deeplabcut)の[Mathis](http://www.mackenziemathislab.org)のとこ
 [Data Joint使ってるラボ一覧](https://datajoint.com/docs/projects/)
 [Logitech MX Master 3S](https://www.logitech.com/en-us/products/mice/mx-master-3s.910-006556.html)
-[LogitechのVertical](•%09https:/www.logitech.com/en-us/products/mice/mx-vertical-ergonomic-mouse.910-005447.html)
+[LogitechのVertical](https://www.logitech.com/en-us/products/mice/mx-vertical-ergonomic-mouse.910-005447.html)
 [MacのMagic Mouse](https://www.apple.com/shop/product/MK2E3AM/A/magic-mouse-white-multi-touch-surface)
 [TrackPad](https://www.apple.com/shop/product/MK2D3AM/A/magic-trackpad-white-multi-touch-surface)
 40%のErgoのキーボード、[Cornelius](https://fstn.hateblo.jp/entry/2020/12/07/003022) (一体型)
