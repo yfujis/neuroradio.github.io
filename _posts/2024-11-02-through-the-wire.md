@@ -5,7 +5,7 @@ episode_number: "81"
 date: 2024-11-02
 permalink: /2024/11/02/81-through-the-wire/
 spotify: "https://open.spotify.com/embed/episode/7MGVobmxWa2GSBrnSXDDu8?utm_source=generator"
-performers: ["萩原賢太", "宮脇健行"]
+performers: ["萩", "脇"]
 topics: ["雑談回", "学会", "LLM", "コネクトーム"]
 summary: "研究所やプロジェクトの外部アドバイザー達とのオンサイトコミュニケーション、SfNポスター、 K99体験談、LLM課金、電子実験ノート談義など。論文はハエ嗅覚系における結合形成作業の“次元削減”、FlyWireの変化球について。 (10/27収録)"
 ---

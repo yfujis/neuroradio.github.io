@@ -5,8 +5,8 @@ episode_number: "64"
 date: 2023-09-23
 permalink: /2023/09/23/64-foraging-for-the-sun/
 spotify: "https://open.spotify.com/embed/episode/1I9hPL0KXOmcpo73Q4Grcm?utm_source=generator"
-performers: ["服部亮磨", "萩原賢太", "宮脇健行"]
-topics: ["ゲスト回", "PI・キャリア", "留学", "意思決定"]
+performers: ["ゲスト", "萩", "脇"]
+topics: ["ゲスト回", "PI・キャリア", "留学", "意思決定", "再登場"]
 summary: "UF Scripps Institute で独立する服部亮磨さん(@ryhattori, gmail)がゲスト。Harvard MCBでのPhD生活、UCSDでのポスドク生活と研究内容の概説、ジョブハントの話、独立後の研究方針、ブリッジンググラント情報など（8/27 収録）"
 ---
 

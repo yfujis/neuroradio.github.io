@@ -5,7 +5,7 @@ episode_number: "30"
 date: 2021-12-10
 permalink: /2021/12/10/30-being-a-technologist-at-10x/
 spotify: "https://open.spotify.com/embed/episode/0mwWwaZgGOHr3fx2xECUq7?utm_source=generator"
-performers: ["佐々木浩", "萩原賢太", "宮脇健行"]
+performers: ["ゲスト", "萩", "脇"]
 topics: ["ゲスト回", "インダストリー", "キャリア"]
 summary: "初のインダストリーからのゲスト。Wyss Institute から 10x Genomics に就職された佐々木浩さん(@popeetheclown)にお越しいただき、アカデミアとインダストリーの研究スタイルや自由の違い、海外就活の詳細なタイムラインと勘所、インダストリー研究ならではの醍醐味について伺いました（11/22 収録）"
 ---

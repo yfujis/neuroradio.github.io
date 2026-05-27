@@ -5,8 +5,8 @@ episode_number: "63"
 date: 2023-09-09
 permalink: /2023/09/09/63-beyond-predictions-part-2/
 spotify: "https://open.spotify.com/embed/episode/1QU9yPwKRyTSjbIGaNnqiq?utm_source=generator"
-performers: ["古館昌平", "萩原賢太", "宮脇健行"]
-topics: ["ゲスト回", "論文解説", "視覚", "予測"]
+performers: ["ゲスト", "萩", "脇"]
+topics: ["ゲスト回", "論文解説", "視覚", "予測", "再登場"]
 summary: "古館昌平さん(@ShoheiFurutachi, e-mail) ゲスト回、サイエンスメインの後編。感覚予測誤差タスク時のV1 L2/3活動とVIP＋LP (Pulvinar) 入力の協調的な影響を調べた最新プレプリントについてのディスカッション、今後の展望など（9/2 収録）"
 ---
 

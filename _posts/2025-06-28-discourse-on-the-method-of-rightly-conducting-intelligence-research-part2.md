@@ -5,8 +5,8 @@ episode_number: "90"
 date: 2025-06-28
 permalink: /2025/06/28/90-discourse-on-the-method-of-rightly-conducting-intelligence-research-part2/
 spotify: "https://open.spotify.com/embed/episode/3iFdXIZ34bBTU2SWdSPEji?utm_source=generator"
-performers: ["伊藤慎也", "萩原賢太"]
-topics: ["ゲスト回", "理論神経科学", "LLM", "視覚", "聴覚"]
+performers: ["ゲスト", "萩"]
+topics: ["ゲスト回", "理論神経科学", "LLM", "視覚", "聴覚", "再登場"]
 summary: "Allen Institute, D3の伊藤慎也 (@shixnya)さんゲスト回、後編。釣り生活、SC (superior colliculus)での音表象の仕事、Allenに移ってからの仕事、LLMの発展による日々の仕事への影響、など(6/20 収録)"
 ---
 

@@ -30,7 +30,7 @@ episode_number: "105"
 date: 2026-06-01
 permalink: /2026/06/01/105-new-episode-title/
 spotify: "https://open.spotify.com/embed/episode/..."
-performers: ["ゲスト名", "宮脇健行", "藤島悠貴"]
+performers: ["ゲスト", "脇", "藤"]
 topics: ["ゲスト回", "論文解説"]
 summary: "ここにエピソードの短い説明を書きます。"
 ---
@@ -69,13 +69,21 @@ https://open.spotify.com/embed/episode/xxxxxxxxxxxxxxxxxxxxxx?utm_source=generat
 
 ### 出演者とトピック
 
-`performers` と `topics` はエピソード一覧のフィルターに使われます。
+`performers` と `topics` はエピソード一覧のフィルターに使われます。出演者タグではゲストの個人名は使わず、ゲストがいる回は `ゲスト` と書きます。
+
+ホストは短い表記にします。
+
+```text
+萩, 脇, 藤
+```
+
+同じゲストが再登場する回やシリーズ回では、`topics` に `再登場` を入れます。
 
 例:
 
 ```yaml
-performers: ["ゲスト名", "萩原賢太", "宮脇健行"]
-topics: ["ゲスト回", "論文解説", "留学"]
+performers: ["ゲスト", "萩", "脇"]
+topics: ["ゲスト回", "論文解説", "留学", "再登場"]
 ```
 
 ### 画像を入れる場合

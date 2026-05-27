@@ -5,7 +5,7 @@ episode_number: "1"
 date: 2021-03-01
 permalink: /2021/03/01/1-reading-journals-similarly-to-weekly-comics/
 spotify: "https://open.spotify.com/embed/episode/0QkXbQw1guzGpHeFm80rAv?utm_source=generator"
-performers: ["萩原賢太", "宮脇健行"]
+performers: ["萩", "脇"]
 topics: ["雑談回"]
 summary: "ポッドキャスト紹介回として、主にポッドキャストを始めた動機に関して２人で話しました。今後予定しているコンテンツ、等"
 ---

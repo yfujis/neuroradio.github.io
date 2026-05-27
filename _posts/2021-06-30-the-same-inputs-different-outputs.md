@@ -5,7 +5,7 @@ episode_number: "17"
 date: 2021-06-30
 permalink: /2021/06/30/17-the-same-inputs-different-outputs/
 spotify: "https://open.spotify.com/embed/episode/3pNjYR5pclhSqZTOR1O9kK?utm_source=generator"
-performers: ["萩原賢太", "宮脇健行"]
+performers: ["萩", "脇"]
 topics: ["雑談回", "論文解説", "記憶", "意思決定"]
 summary: "ラボミーティング・研究所内セミナー形式についての雑談、フラッシュ論文紹介:海馬における空間・evidence表象、同一の刺激に対する神経活動の揺らぎに関する議論など（6/28収録）"
 ---

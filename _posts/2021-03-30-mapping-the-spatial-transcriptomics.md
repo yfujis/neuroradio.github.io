@@ -5,7 +5,7 @@ episode_number: "5"
 date: 2021-03-30
 permalink: /2021/03/30/5-mapping-the-spatial-transcriptomics/
 spotify: "https://open.spotify.com/embed/episode/0lqvcvh6VJa7laRWScp5JC?utm_source=generator"
-performers: ["萩原賢太", "宮脇健行"]
+performers: ["萩", "脇"]
 topics: ["論文解説", "トランスクリプトミクス", "技術"]
 summary: "10000種類以上のmRNAをsubcellular resolutionで解析できそうなSpatial transcriptomicsの手法について、宮脇が５つの原理に分けて簡単にレビュー。"
 ---

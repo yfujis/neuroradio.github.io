@@ -5,7 +5,7 @@ episode_number: "3"
 date: 2021-03-08
 permalink: /2021/03/08/3-covid19-dominates-everything/
 spotify: "https://open.spotify.com/embed/episode/6TwOjBSDARb6cJZEUrpH9Z?utm_source=generator"
-performers: ["萩原賢太", "宮脇健行"]
+performers: ["萩", "脇"]
 topics: ["雑談回", "留学"]
 summary: "パンデミックの影響に関して雑談。ヨーロッパでロックダウンの影響をもろに受けた萩原と、パンデミック下にオンラインポスドクインタビュー・ボストン留学開始を経験した宮脇がそれぞれ雑感を話しています。"
 ---

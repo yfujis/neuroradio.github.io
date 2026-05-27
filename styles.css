@@ -633,6 +633,11 @@ h3 {
   border: 1px solid #d2d2cd;
 }
 
+.performer-tags .tags a.host-tag {
+  background: #eef5fb;
+  border: 1px solid #d7e6f2;
+}
+
 .tags a:hover {
   background: var(--accent);
   color: #fff;

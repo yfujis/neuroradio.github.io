@@ -5,8 +5,8 @@ episode_number: "41"
 date: 2022-07-25
 permalink: /2022/07/25/41-casting-light-on-the-life-at-broad-institute-part-2/
 spotify: "https://open.spotify.com/embed/episode/78b2Ud2UClMvsjy204JuIz?utm_source=generator"
-performers: ["齋藤諒", "萩原賢太", "宮脇健行"]
-topics: ["ゲスト回", "CRISPR", "PI・キャリア"]
+performers: ["ゲスト", "萩", "脇"]
+topics: ["ゲスト回", "CRISPR", "PI・キャリア", "再登場"]
 summary: "齋藤諒さんゲスト回、後編。Broad Institute、他ラボとの差別化、CRISPRの賞レース、ボスと異なる独自性を出すこと、について伺いました（7/9収録）"
 ---
 

@@ -13,7 +13,7 @@
   const archiveBasePath = window.location.pathname.includes("/episodes/")
     ? `${window.location.pathname.split("/episodes/")[0]}/episodes/`
     : "/episodes/";
-  const hostOrder = ["萩原賢太", "宮脇健行", "藤島悠貴"];
+  const hostOrder = ["萩", "脇", "藤"];
   const pageSize = 10;
 
   function closeNavigation() {

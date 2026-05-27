@@ -5,7 +5,7 @@ episode_number: "42"
 date: 2022-08-01
 permalink: /2022/08/01/42-a-catalyst-for-diy-optics/
 spotify: "https://open.spotify.com/embed/episode/3yCjiQ3k11Py7GBQB6R1iS?utm_source=generator"
-performers: ["勝木健雄", "萩原賢太", "宮脇健行"]
+performers: ["ゲスト", "萩", "脇"]
 topics: ["ゲスト回", "顕微鏡", "インダストリー", "キャリア"]
 summary: "Thorlabs Japanの勝木健雄さんをゲストに、顕微鏡作成サポート業務、東大・遺伝研・UCSDでの神経科学者としてのキャリア、Thorlabs の企業文化、そこで働く醍醐味について伺いました（6/5収録）"
 ---

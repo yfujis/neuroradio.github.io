@@ -5,7 +5,7 @@ episode_number: "38"
 date: 2022-05-31
 permalink: /2022/05/31/38-latent-dynamics/
 spotify: "https://open.spotify.com/embed/episode/1eTprzmGfz17DW85ykLMhe?utm_source=generator"
-performers: ["萩原賢太", "宮脇健行"]
+performers: ["萩", "脇"]
 topics: ["雑談回", "論文解説", "記憶", "データ解析"]
 summary: "Allen Instituteでのラボミーティング形式、リフレッシュ方法（ご飯）、PDF日本語訳の活用、等について雑談。フラッシュ論文紹介は、分スケールの周期を持つ反復する発火シーケンス＠MEC、mPFCから海馬への長距離抑制性入力が起点となるdis-disinhibition回路、異なる個体の神経活動を類似した潜在空間に埋め込む手法、など。(5/23収録)"
 ---

@@ -5,7 +5,7 @@ episode_number: "10"
 date: 2021-04-29
 permalink: /2021/04/29/10-retrospection-of-engrams/
 spotify: "https://open.spotify.com/embed/episode/48mTVRcE5dBgEgOcx1PYdZ?utm_source=generator"
-performers: ["萩原賢太", "宮脇健行"]
+performers: ["萩", "脇"]
 topics: ["雑談回", "記憶", "論文解説"]
 summary: "ゲスト回を振り返ってEngramについて雑談したり、最近目にした面白い論文をフラッシュトーク的に紹介しあったりしました。(収録:4/24)"
 ---

@@ -5,7 +5,7 @@ episode_number: "6"
 date: 2021-03-30
 permalink: /2021/03/30/6-you-can-not-watch-the-movie/
 spotify: "https://open.spotify.com/embed/episode/5UkAQ4kryuMUM3KX7Zbhzw?utm_source=generator"
-performers: ["萩原賢太", "宮脇健行"]
+performers: ["萩", "脇"]
 topics: ["雑談回"]
 summary: "雑談回。エヴァ(観てない)、シン・ゴジラ、ボストンの海鮮、ワクチン、ヘイトクライム等について。"
 ---

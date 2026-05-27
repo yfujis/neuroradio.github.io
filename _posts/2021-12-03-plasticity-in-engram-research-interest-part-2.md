@@ -5,8 +5,8 @@ episode_number: "29"
 date: 2021-12-03
 permalink: /2021/12/03/29-plasticity-in-engram-research-interest-part-2/
 spotify: "https://open.spotify.com/embed/episode/4Dgvwik0D0SwC04bOl8PHZ?utm_source=generator"
-performers: ["北沢太郎", "萩原賢太"]
-topics: ["ゲスト回", "論文解説", "記憶", "エングラム"]
+performers: ["ゲスト", "萩"]
+topics: ["ゲスト回", "論文解説", "記憶", "エングラム", "再登場"]
 summary: "Part. 1に続きDANDRITE研究所で来夏独立予定の北沢太郎さん(@kitazawa_taro)にお越しいただき、直近のNature Genetics論文の裏話と、今後行うEngram関連のプロジェクトについて伺いました（11/4収録）"
 ---
 

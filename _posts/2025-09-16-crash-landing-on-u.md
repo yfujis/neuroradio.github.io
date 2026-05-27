@@ -5,8 +5,8 @@ episode_number: "96"
 date: 2025-09-16
 permalink: /2025/09/16/96-crash-landing-on-u/
 spotify: "https://open.spotify.com/embed/episode/1Osi1UA6tnGDDxV0Piiw79?utm_source=generator"
-performers: ["長濱健一郎", "萩原賢太"]
-topics: ["ゲスト回", "PI・キャリア", "留学"]
+performers: ["ゲスト", "萩"]
+topics: ["ゲスト回", "PI・キャリア", "留学", "再登場"]
 summary: "韓国Ulsan National Institute of Science and Technology (UNIST)で来年2月に独立するJHUの長濱さん(@k_hammer_1001 )再登場回。前回登場時からのアップデート。 (9/11 収録)"
 ---
 

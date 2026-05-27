@@ -5,7 +5,7 @@ episode_number: "18"
 date: 2021-07-16
 permalink: /2021/07/16/18-fine-viral-description-tracing-the-career-of-dr-kazunari-miyamichi/
 spotify: "https://open.spotify.com/embed/episode/1NPYN5tio26UcDlf3UlQ7T?utm_source=generator"
-performers: ["宮道和成", "萩原賢太", "宮脇健行"]
+performers: ["ゲスト", "萩", "脇"]
 topics: ["ゲスト回", "PI・キャリア", "回路", "ウイルス・トレーシング"]
 summary: "理研BDRの宮道和成さん（@K_Miyamichi）にお越しいただき、キャリア選択時に考えていたこと、現在の研究の魅力、新機軸の打ち出し方、子育てに伴う研究スタイルのシフト、等をお話しいただきました（7/3収録）"
 ---

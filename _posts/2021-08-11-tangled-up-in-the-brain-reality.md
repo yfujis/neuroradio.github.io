@@ -5,7 +5,7 @@ episode_number: "19"
 date: 2021-08-11
 permalink: /2021/08/11/19-tangled-up-in-the-brain-reality/
 spotify: "https://open.spotify.com/embed/episode/3bGYhPidQ8cwIYaP7QJZsz?utm_source=generator"
-performers: ["萩原賢太", "宮脇健行"]
+performers: ["萩", "脇"]
 topics: ["雑談回", "イメージング", "コネクトーム", "ウイルス・トレーシング"]
 summary: "それぞれの近況、作品と作り手の分離、Caイメージングとコネクトームの対応データとそのビューワー、迷路を走るマウス、Self-inactivating Rabiesをめぐるゴタゴタ等について話しました。"
 ---

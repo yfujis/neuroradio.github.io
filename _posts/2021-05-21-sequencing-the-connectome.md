@@ -5,7 +5,7 @@ episode_number: "11"
 date: 2021-05-21
 permalink: /2021/05/21/11-sequencing-the-connectome/
 spotify: "https://open.spotify.com/embed/episode/6ENqNWk3bkg3SsfHQYwhJK?utm_source=generator"
-performers: ["萩原賢太", "宮脇健行"]
+performers: ["萩", "脇"]
 topics: ["論文解説", "コネクトーム", "技術"]
 summary: "シーケンシングによって(神経)細胞の繋がり方・投射様式を調べる方法について。Zadorラボから報告されているMAPseq等の手法を一通りおさらいした後、Quintanaラボから報告されたRABID-seq論文を紹介。(収録:5/15)"
 ---
