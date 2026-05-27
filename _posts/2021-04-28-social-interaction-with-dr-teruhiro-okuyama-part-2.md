@@ -6,7 +6,7 @@ date: 2021-04-28
 permalink: /2021/04/28/9-social-interaction-with-dr-teruhiro-okuyama-part-2/
 spotify: "https://open.spotify.com/embed/episode/5PxxZQa8HKU2V78qkqnsq3?utm_source=generator"
 performers: ["ゲスト", "萩", "脇"]
-topics: ["ゲスト回", "PI・キャリア", "記憶", "社会行動", "再登場"]
+topics: ["ゲスト回", "PI・キャリア", "記憶", "社会行動"]
 summary: "奥山輝大さん（@Teru_Okuyama）ゲスト回後編。メダカ論文の裏話、利根川進先生と一緒に研究をすること、LOF/GOF一辺倒の研究に対して思うこと、などをお話しいただきました。"
 ---
 

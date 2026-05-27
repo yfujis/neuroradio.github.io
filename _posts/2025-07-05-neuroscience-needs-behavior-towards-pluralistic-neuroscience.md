@@ -5,7 +5,7 @@ episode_number: "91"
 date: 2025-07-05
 permalink: /2025/07/05/91-neuroscience-needs-behavior-towards-pluralistic-neuroscience/
 spotify: "https://open.spotify.com/embed/episode/1Xz5hNEdZvuh03mgLRhCsR?utm_source=generator"
-performers: ["ゲスト", "萩"]
+performers: ["萩", "藤"]
 topics: ["ゲスト回", "行動", "論文解説", "再登場"]
 summary: "NYU Long/Buzsakiラボの、藤島悠貴さん(@yfujishima_) さんがゲスト。近況アップデート、最近出た唄うマウスの行動解析論文、Krakauerのオピニオン論文を元にした議論、など (6/15 収録)"
 ---
