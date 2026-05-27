@@ -19,7 +19,7 @@ Show Notes:
 博士の時の代表的な仕事 [1](https://www.cell.com/molecular-cell/fulltext/S1097-2765(17)30445-8) [2](https://www.science.org/doi/full/10.1126/sciadv.adf1488) …前島先生、そしてたくさんの方にお世話になりました(tds)
 [ポスドクの仕事：Rapid homologue juxtaposition](https://www.nature.com/articles/s41586-024-07999-5)
 [tadasuの留学紀](https://www.jstage.jst.go.jp/article/biophys/63/6/63_340/_article/-char/ja/)
-五十嵐さん回 [1](/2021/09/15/23-poor-is-the-pupil-who-does-not-surpass-his-master-part-1/) [2](/2021/09/22/24-25-poor-is-the-pupil-who-does-not-surpass-his-master-part-2-3/) [3](/2021/10/08/26-poor-is-the-pupil-who-does-not-surpass-his-master-part-4/) [4](/2024/07/14/76-getting-out-of-the-comfort-zone/)
+五十嵐さん回 [1](/2021/09/15/23-poor-is-the-pupil-who-does-not-surpass-his-master-part-1/) [2](/2021/09/22/24-poor-is-the-pupil-who-does-not-surpass-his-master-part-2/) [3](/2021/10/08/26-poor-is-the-pupil-who-does-not-surpass-his-master-part-4/) [4](/2024/07/14/76-getting-out-of-the-comfort-zone/)
 の[就活ノート](https://www.igarashilab.org/jobhunting) … 本当にすばらしく参考になりました 。ありがとうございました。(tds)
 [安田さん回](/2022/06/22/39-a-biophysicist-turned-neuroscientist/) … 背中をおしていただいた回。Ryoheiさんの「アメリカで研究続けるの？」というストレートな問いに、NRの二人がもにょっているのがいい (tds)
 [Jeff Lichtman](https://lichtmanlab.fas.harvard.edu/) … 名前ど忘れ&読み方分からなかった... (tds)

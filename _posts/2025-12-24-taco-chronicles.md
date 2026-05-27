@@ -40,7 +40,7 @@ SDで一緒にいったタコス屋の1件目: [Tacos El Gordo](https://tacoselg
 [いぷした](https://zutshilab.com/about/)
 [エディーチャン](https://changlab.ucsf.edu/)
 [五十嵐さん](https://www.igarashilab.org)
-五十嵐さん過去回 [1](/2021/09/15/23-poor-is-the-pupil-who-does-not-surpass-his-master-part-1/) [2,3](/2021/09/22/24-25-poor-is-the-pupil-who-does-not-surpass-his-master-part-2-3/) [4](/2021/10/08/26-poor-is-the-pupil-who-does-not-surpass-his-master-part-4/) [5](/2024/07/14/76-getting-out-of-the-comfort-zone/)
+五十嵐さん過去回 [1](/2021/09/15/23-poor-is-the-pupil-who-does-not-surpass-his-master-part-1/) [2](/2021/09/22/24-poor-is-the-pupil-who-does-not-surpass-his-master-part-2/) [3](/2021/09/22/25-poor-is-the-pupil-who-does-not-surpass-his-master-part-3/) [4](/2021/10/08/26-poor-is-the-pupil-who-does-not-surpass-his-master-part-4/) [5](/2024/07/14/76-getting-out-of-the-comfort-zone/)
 奥山さん
 奥山さん過去回 [1](/2021/04/14/8-social-interaction-with-dr-teruhiro-okuyama-part-1/), [2](/2021/04/28/9-social-interaction-with-dr-teruhiro-okuyama-part-2/)
 [トム](https://mchughlab.rice.edu/)

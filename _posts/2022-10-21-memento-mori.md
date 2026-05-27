@@ -63,7 +63,7 @@ HM氏が今でもどっかの大学で生きてる？のフェイクニュース
 [Tim Behrens](https://www.ndcn.ox.ac.uk/team/timothy-behrens)
 [Thomas Akam](http://www.waltonlab.org/people)@Waltonラボ
 [Mark Walton](http://www.waltonlab.org/)
-[五十嵐さん回でのディスカッション(Part 3)](/2021/09/22/24-25-poor-is-the-pupil-who-does-not-surpass-his-master-part-2-3/)
+[五十嵐さん回でのディスカッション(Part 3)](/2021/09/22/25-poor-is-the-pupil-who-does-not-surpass-his-master-part-3/)
 [Tankの音の高低の表象](https://www.nature.com/articles/nature21692)
 [五十嵐さんの論文](https://www.nature.com/articles/s41586-021-03948-8)
 [Bonhoefferのところからルール選択的なニューロン](https://www.nature.com/articles/s41586-021-03452-z)＠mPFC

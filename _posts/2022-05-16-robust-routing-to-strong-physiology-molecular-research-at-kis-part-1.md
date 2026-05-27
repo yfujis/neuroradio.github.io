@@ -23,7 +23,7 @@ Show Notes:
 の[筆頭著者レビュー](http://first.lifesciencedb.jp/archives/10375)
 [2005年のオプト論文](https://www.nature.com/articles/nn1525)
 [PINP](https://doi.org/10.1371/journal.pone.0006099)論文 (=OptoID or OptoTagging)
-五十嵐さんの[お話](/2021/09/22/24-25-poor-is-the-pupil-who-does-not-surpass-his-master-part-2-3/)
+五十嵐さんの[お話](/2021/09/22/24-poor-is-the-pupil-who-does-not-surpass-his-master-part-2/)
 [田代さんのERCグラント](https://cordis.europa.eu/project/id/208132)
 [利根川先生のエングラムの話](https://www.nature.com/articles/nature11028)
 [Open Ephys](https://open-ephys.org/)

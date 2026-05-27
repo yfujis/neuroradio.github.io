@@ -62,7 +62,7 @@ News & Hot Paper Digestではなく、[カレント・トピックス](https://w
 留学特集の座談会記事 [1](https://www.yodosha.co.jp/jikkenigaku/articles/index.html?ci=44300) [2](https://www.yodosha.co.jp/jikkenigaku/articles/index.html?ci=61400)
 [中田大介先生](https://www.bcm.edu/people-search/daisuke-nakada-27435)
 [安田先生NR回](/2022/06/22/39-a-biophysicist-turned-neuroscientist/)
-五十嵐先生NR回 [1](/2021/09/15/23-poor-is-the-pupil-who-does-not-surpass-his-master-part-1/) [2](/2021/09/22/24-25-poor-is-the-pupil-who-does-not-surpass-his-master-part-2-3/) [3](/2021/10/08/26-poor-is-the-pupil-who-does-not-surpass-his-master-part-4/) [4](/2024/07/14/76-getting-out-of-the-comfort-zone/)
+五十嵐先生NR回 [1](/2021/09/15/23-poor-is-the-pupil-who-does-not-surpass-his-master-part-1/) [2](/2021/09/22/24-poor-is-the-pupil-who-does-not-surpass-his-master-part-2/) [3](/2021/10/08/26-poor-is-the-pupil-who-does-not-surpass-his-master-part-4/) [4](/2024/07/14/76-getting-out-of-the-comfort-zone/)
 留学前後・ラボでの立ち居振る舞い：立ち読みサンプル [1](https://www.yodosha.co.jp/booksample_img/9784758122733/9784758122733_01.jpg) [2](https://www.yodosha.co.jp/booksample_img/9784758122733/9784758122733_02.jpg)
 失敗したけど、こうして切り抜けましたエピソード：特に[コラム4-5から4-8](https://www.yodosha.co.jp/yodobook/book/9784758122733/)
 ラボレポート、[留学編](https://www.yodosha.co.jp/jikkenigaku/lab.html)・[独立編](https://www.yodosha.co.jp/jikkenigaku/labdokuritsu.html)

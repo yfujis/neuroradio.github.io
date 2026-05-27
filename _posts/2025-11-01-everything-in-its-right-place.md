@@ -20,7 +20,7 @@ Position inquiry用連絡先: [kenta.m.hagihara+recruit@gmail.com](mailto:kenta.
 [Allen Institute for Neural Dynamics](https://www.allenneuraldynamics.org/projects)
 [生理研](https://www.nips.ac.jp/)
 [五十嵐さん](https://www.igarashilab.org/)
-五十嵐さん過去回 [1](/2021/09/15/23-poor-is-the-pupil-who-does-not-surpass-his-master-part-1/) [2,3](/2021/09/22/24-25-poor-is-the-pupil-who-does-not-surpass-his-master-part-2-3/) [4](/2021/10/08/26-poor-is-the-pupil-who-does-not-surpass-his-master-part-4/) [5](/2024/07/14/76-getting-out-of-the-comfort-zone/)
+五十嵐さん過去回 [1](/2021/09/15/23-poor-is-the-pupil-who-does-not-surpass-his-master-part-1/) [2](/2021/09/22/24-poor-is-the-pupil-who-does-not-surpass-his-master-part-2/) [3](/2021/09/22/25-poor-is-the-pupil-who-does-not-surpass-his-master-part-3/) [4](/2021/10/08/26-poor-is-the-pupil-who-does-not-surpass-his-master-part-4/) [5](/2024/07/14/76-getting-out-of-the-comfort-zone/)
 [藤島さん](https://yukifujishima.com/)
 [カレル](https://alleninstitute.org/person/karel-svoboda-2/)
 [北西さん回](/2022/05/24/37-robust-routing-to-strong-physiology-molecular-research-at-kis-part-2/)

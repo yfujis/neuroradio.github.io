@@ -27,7 +27,7 @@ Show Notes:
 Reddit: [Fire Flow Chart Version 4.3](https://www.reddit.com/r/financialindependence/comments/16xymii/fire_flow_chart_version_43/?rdt=49040)
 Reddit: [401(k) max vs mortgage payment](https://www.reddit.com/r/FinancialPlanning/comments/185u6za/401k_max_vs_mortgage_payment/)
 [三権分立の憲法への反映はアメリカが先](https://www.y-history.net/appendix/wh1102-044.html)
-五十嵐さん回 [1](/2021/09/15/23-poor-is-the-pupil-who-does-not-surpass-his-master-part-1/) [2](/2021/09/22/24-25-poor-is-the-pupil-who-does-not-surpass-his-master-part-2-3/) [3](/2021/10/08/26-poor-is-the-pupil-who-does-not-surpass-his-master-part-4/) [4](/2024/07/14/76-getting-out-of-the-comfort-zone/)
+五十嵐さん回 [1](/2021/09/15/23-poor-is-the-pupil-who-does-not-surpass-his-master-part-1/) [2](/2021/09/22/24-poor-is-the-pupil-who-does-not-surpass-his-master-part-2/) [3](/2021/10/08/26-poor-is-the-pupil-who-does-not-surpass-his-master-part-4/) [4](/2024/07/14/76-getting-out-of-the-comfort-zone/)
 [NSFはFellowshipを出す数が半分に](https://www.nature.com/articles/d41586-025-01098-9)
 [Redditに降臨](https://www.reddit.com/r/biotech/comments/z11o8w/comment/ixf6dlo/)
 [２ちゃんに柳沢先生ご本人登場](https://sites.google.com/site/akihiroumezawa/storage/liu-zette-shuida)

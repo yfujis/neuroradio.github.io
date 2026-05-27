@@ -15,7 +15,7 @@ UC Irvineの五十嵐啓さん(@kei_m_igarashi)再登場。転職活動振り返
 
 Show Notes:
 [五十嵐さんラボ](https://www.igarashilab.org/)
-五十嵐さん回[1](/2021/09/15/23-poor-is-the-pupil-who-does-not-surpass-his-master-part-1/)[2,3](/2021/09/22/24-25-poor-is-the-pupil-who-does-not-surpass-his-master-part-2-3/)[4](/2021/10/08/26-poor-is-the-pupil-who-does-not-surpass-his-master-part-4/)
+五十嵐さん回[1](/2021/09/15/23-poor-is-the-pupil-who-does-not-surpass-his-master-part-1/)[2](/2021/09/22/24-poor-is-the-pupil-who-does-not-surpass-his-master-part-2/) [3](/2021/09/22/25-poor-is-the-pupil-who-does-not-surpass-his-master-part-3/)[4](/2021/10/08/26-poor-is-the-pupil-who-does-not-surpass-his-master-part-4/)
 [Richard Tsien](https://med.nyu.edu/research/tsien-lab/)
 [Paul Glimcher](https://www.neuroeconomicslab.org/) Neuroeconomicsの教科書に結構影響をうけたので残念...(萩)
 [Nicolas Tritsch](https://www.tritschlab.org/)

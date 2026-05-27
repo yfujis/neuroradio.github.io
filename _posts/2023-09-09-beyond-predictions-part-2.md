@@ -55,7 +55,7 @@ AllenのEM, [VIPは一部のSOMにしかいってない](https://www.biorxiv.org
 [Ilana Witten](https://wittenlab.org/)
 [藤島さんの回](/2023/04/14/55-and-your-mouse-can-sing/)
 [齋藤さんめっちゃ活躍してる](https://www.nature.com/articles/s41586-023-06356-2)
-五十嵐さんのNR回[1](/2021/09/15/23-poor-is-the-pupil-who-does-not-surpass-his-master-part-1/)[2&3](/2021/09/22/24-25-poor-is-the-pupil-who-does-not-surpass-his-master-part-2-3/)[4](/2021/10/08/26-poor-is-the-pupil-who-does-not-surpass-his-master-part-4/)
+五十嵐さんのNR回[1](/2021/09/15/23-poor-is-the-pupil-who-does-not-surpass-his-master-part-1/)[2](/2021/09/22/24-poor-is-the-pupil-who-does-not-surpass-his-master-part-2/)[3](/2021/09/22/25-poor-is-the-pupil-who-does-not-surpass-his-master-part-3/)[4](/2021/10/08/26-poor-is-the-pupil-who-does-not-surpass-his-master-part-4/)
 
 <figure>
   <img src="/assets/episodes/63-beyond-predictions-part-2/unnamed-2-1-700x525.jpg" alt="Episode 63 image">

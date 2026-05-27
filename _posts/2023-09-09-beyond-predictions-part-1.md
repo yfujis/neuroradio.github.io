@@ -74,7 +74,7 @@ Prediction-Errorに関する[最新プレプリント](https://www.biorxiv.org/c
 [Lake Conference](https://alleninstitute.org/events/lake-conferences-neural-coding-and-dynamics/)
 [Ascona Circuits Meeting](https://www.asconacircuits.org/)
 [Adam Packer](https://www.packerlab.org/)
-[五十嵐さんの回でもあった](/2021/09/22/24-25-poor-is-the-pupil-who-does-not-surpass-his-master-part-2-3/)
+[五十嵐さんの回でもあった](/2021/09/22/25-poor-is-the-pupil-who-does-not-surpass-his-master-part-3/)
 [Marcus Stephenson-Jones](https://www.sainsburywellcome.org/web/groups/stephenson-jones-lab)
 [Tom Misch](https://tommisch.com/)
 
