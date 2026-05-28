@@ -30,3 +30,25 @@ layout: default
     </nav>
   </article>
 </main>
+
+<nav class="episode-sticky-nav" aria-label="エピソード前後ナビゲーション">
+  <div class="episode-sticky-nav-inner">
+    {% if page.next %}
+      <a class="esn-prev" href="{{ page.next.url | relative_url }}">
+        <span class="esn-arrow" aria-hidden="true">←</span>
+        <span class="esn-label">{{ page.next.title }}</span>
+      </a>
+    {% else %}
+      <span class="esn-prev esn-disabled" aria-hidden="true"></span>
+    {% endif %}
+    <a class="esn-all" href="{{ '/episodes/' | relative_url }}">エピソード一覧</a>
+    {% if page.previous %}
+      <a class="esn-next" href="{{ page.previous.url | relative_url }}">
+        <span class="esn-label">{{ page.previous.title }}</span>
+        <span class="esn-arrow" aria-hidden="true">→</span>
+      </a>
+    {% else %}
+      <span class="esn-next esn-disabled" aria-hidden="true"></span>
+    {% endif %}
+  </div>
+</nav>
