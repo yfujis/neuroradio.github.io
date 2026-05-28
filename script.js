@@ -292,7 +292,7 @@
   if (bsBtn) bsBtn.href = "https://bsky.app/intent/compose?text=" + encodeURIComponent(title + "\n\n" + url);
 
   const emailBtn = container.querySelector(".share-email");
-  if (emailBtn) emailBtn.href = "mailto:?subject=" + encodeURIComponent(title) + "&body=" + encodeURIComponent(url);
+  if (emailBtn) emailBtn.href = "mailto:?subject=" + encodeURIComponent("NeuroRadio | " + title) + "&body=" + encodeURIComponent(url);
 
   function copyAndToast(label) {
     navigator.clipboard.writeText(url).then(function () {
@@ -304,7 +304,4 @@
 
   const slackBtn = container.querySelector(".share-slack");
   if (slackBtn) slackBtn.addEventListener("click", function () { copyAndToast("Slack"); });
-
-  const discordBtn = container.querySelector(".share-discord");
-  if (discordBtn) discordBtn.addEventListener("click", function () { copyAndToast("Discord"); });
 })();
