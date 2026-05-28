@@ -22,6 +22,7 @@ layout: default
       <h2 id="editorial-notes">Editorial Notes</h2>
       {{ page.editorial_notes_html }}
     </section>
+    {% include related_episodes.html %}
     <nav class="episode-nav" aria-label="エピソードナビゲーション">
       {% if page.next %}<a href="{{ page.next.url | relative_url }}">次のエピソード</a>{% endif %}
       <a href="{{ '/' | relative_url }}">トップへ</a>

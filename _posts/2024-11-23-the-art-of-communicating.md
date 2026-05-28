@@ -6,6 +6,7 @@ date: 2024-11-23
 permalink: /2024/11/23/82-the-art-of-communicating/
 spotify: "https://open.spotify.com/embed/episode/4AVCn36UZ4NMWxUBvxjxUw?utm_source=generator"
 apple_podcast: "https://podcasts.apple.com/us/podcast/82-the-art-of-communicating/id1556937028?i=1000677965136"
+guests: ["菅野康太"]
 performers: ["ゲスト", "萩", "脇"]
 topics: ["ゲスト回", "社会行動", "心理学", "サイエンスコミュニケーション", "キャリア", "音楽"]
 summary: "鹿児島大学の菅野康太さん(@canno696show)がゲスト。マウスのコミュニケーション研究をするに至った経緯、地方国立大での研究や心理学教育、サイエンスコミュニケーション活動について伺いました (10/30収録)"

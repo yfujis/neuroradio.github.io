@@ -6,6 +6,7 @@ date: 2023-09-09
 permalink: /2023/09/09/62-beyond-predictions-part-1/
 spotify: "https://open.spotify.com/embed/episode/50q1PlYFHWAX9LGB6Duhs4?utm_source=generator"
 apple_podcast: "https://podcasts.apple.com/us/podcast/62-beyond-predictions-part-1/id1556937028?i=1000627262266"
+guests: ["古館昌平"]
 performers: ["ゲスト", "萩", "脇"]
 topics: ["ゲスト回", "キャリア", "システム神経科学"]
 summary: "Sainsbury Wellcome Centreの古館昌平さん(@ShoheiFurutachi, e-mail) ゲスト回、雑談メインの前編。留学時に分野を大きく変えた動機とそれに伴う苦労、PI（TomとSonja）のスタイル、SWCの雰囲気やロンドン生活について伺いました（9/2 収録）"

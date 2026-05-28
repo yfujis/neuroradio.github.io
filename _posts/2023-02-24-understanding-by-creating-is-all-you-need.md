@@ -6,6 +6,7 @@ date: 2023-02-24
 permalink: /2023/02/24/53-understanding-by-creating-is-all-you-need/
 spotify: "https://open.spotify.com/embed/episode/5oYQbaqTLzT3V31FN3aATH?utm_source=generator"
 apple_podcast: "https://podcasts.apple.com/us/podcast/53-understanding-by-creating-is-all-you-need/id1556937028?i=1000601530622"
+guests: ["牧野寛"]
 performers: ["ゲスト", "萩", "脇"]
 topics: ["ゲスト回", "大学院留学", "キャリア", "計算神経科学"]
 summary: "シンガポール、南洋理工大学の牧野さん(@Hiroshi_Makino_)がゲスト。UCSD交換留学、CSHLでのPhD時代とUCSDでのポスドク時代、シンガポールの研究環境、独立後に行っているAIと脳の表象比較研究について伺いました（2/14収録）"

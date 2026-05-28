@@ -6,6 +6,7 @@ date: 2025-10-23
 permalink: /2025/10/23/99-generalization/
 spotify: "https://open.spotify.com/embed/episode/3hBLG3v2dKPqfruK29nOoD?utm_source=generator"
 apple_podcast: "https://podcasts.apple.com/us/podcast/99-generalization/id1556937028?i=1000733066845"
+guests: ["吉良信一郎"]
 performers: ["ゲスト", "萩"]
 topics: ["ゲスト回", "再登場", "大学院留学", "意思決定", "電気生理", "キャリア", "非ヒト霊長類", "計算神経科学", "システム神経科学"]
 summary: "FSUの吉良信一郎さん(@ShinichiroKira)ゲスト回。UW Shadlen研への留学、サル電気生理からマウス(HMS Harvey研)へ、新たなラボでの研究の方向性など (10/5 収録)"

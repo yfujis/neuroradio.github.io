@@ -6,6 +6,7 @@ date: 2025-11-01
 permalink: /2025/11/01/100-everything-in-its-right-place/
 spotify: "https://open.spotify.com/embed/episode/3fntvnZRFXDFHXdSDEvgLW?utm_source=generator"
 apple_podcast: "https://podcasts.apple.com/us/podcast/100-everything-in-its-right-place/id1556937028?i=1000734548391"
+guests: ["萩原賢太"]
 performers: ["ゲスト", "萩", "脇", "藤"]
 topics: ["ゲスト回", "キャリア", "記憶", "システム神経科学"]
 summary: "自然科学研究機構・生理学研究所にて独立する萩原賢太さんゲスト回。アメリカの現状と脱出に至る過程、立ち上げるラボでのプロジェクト、五十嵐ラボ@東北大、など。 (9/16 収録)"

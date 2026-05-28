@@ -6,6 +6,7 @@ date: 2023-07-17
 permalink: /2023/07/17/60-minds-meet-weeds-part-2/
 spotify: "https://open.spotify.com/embed/episode/0L2DC1khwpZAvJhginRTM7?utm_source=generator"
 apple_podcast: "https://podcasts.apple.com/us/podcast/60-minds-meet-weeds-part-2/id1556937028?i=1000621457537"
+guests: ["登達也"]
 performers: ["ゲスト", "萩", "脇"]
 topics: ["ゲスト回", "大学院留学", "植物", "細胞タイプ", "キャリア"]
 summary: "登達也さん(@nobolly, @tnobo_ktcs)ゲスト回、後編。Cell-type談義、あったら嬉しいツール談義、Assistant Features エディター経験、ジョブハント、新しく開くラボについて。(6/22収録)"

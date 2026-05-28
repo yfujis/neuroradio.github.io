@@ -6,6 +6,7 @@ date: 2025-09-16
 permalink: /2025/09/16/96-crash-landing-on-u/
 spotify: "https://open.spotify.com/embed/episode/1Osi1UA6tnGDDxV0Piiw79?utm_source=generator"
 apple_podcast: "https://podcasts.apple.com/us/podcast/96-crash-landing-on-u/id1556937028?i=1000726981763"
+guests: ["長濱健一郎"]
 performers: ["ゲスト", "萩"]
 topics: ["ゲスト回", "再登場", "キャリア", "システム神経科学"]
 summary: "韓国Ulsan National Institute of Science and Technology (UNIST)で来年2月に独立するJHUの長濱さん(@k_hammer_1001 )再登場回。前回登場時からのアップデート。 (9/11 収録)"

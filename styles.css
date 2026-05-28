@@ -903,6 +903,55 @@ h3 {
   border: 0;
 }
 
+.related-episodes {
+  border-top: 1px solid var(--line);
+  padding-top: 36px;
+}
+
+.related-episodes-heading {
+  font-size: clamp(1.4rem, 2.5vw, 2rem);
+  margin-bottom: 18px;
+}
+
+.related-episodes-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: grid;
+  gap: 10px;
+}
+
+.related-episode-item {
+  margin: 0;
+}
+
+.related-episode-link {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  padding: 14px 18px;
+  background: var(--panel);
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  text-decoration: none;
+  color: var(--ink);
+  transition: transform .12s ease;
+}
+
+.related-episode-link:hover {
+  transform: translateY(-1px);
+}
+
+.related-episode-title {
+  font-weight: 700;
+  line-height: 1.3;
+}
+
+.related-episode-meta {
+  font-size: .88rem;
+  color: var(--muted);
+}
+
 .episode-nav {
   border-top: 1px solid var(--line);
   padding-top: 24px;

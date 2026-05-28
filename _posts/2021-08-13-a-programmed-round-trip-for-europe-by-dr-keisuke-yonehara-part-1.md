@@ -6,6 +6,7 @@ date: 2021-08-13
 permalink: /2021/08/13/20-a-programmed-round-trip-for-europe-by-dr-keisuke-yonehara-part-1/
 spotify: "https://open.spotify.com/embed/episode/7eCXYzLroTfhtpy0eBughx?utm_source=generator"
 apple_podcast: "https://podcasts.apple.com/us/podcast/20-a-programmed-round-trip-for-europe-by-dr-keisuke/id1556937028?i=1000531947928"
+guests: ["米原圭祐"]
 performers: ["ゲスト", "萩", "脇"]
 topics: ["ゲスト回", "キャリア", "視覚", "システム神経科学"]
 summary: "デンマーク、オーフス大学DANDRITE研究所＆遺伝研（10月から）の米原圭祐さん(@K_Reisfeld)にお越しいただき、これまでのキャリアと、海外と日本でJunior PIをやることの比較、Junior PIとして地位を確立する際に苦労したこと、等をお話しいただきました（7/10収録）"

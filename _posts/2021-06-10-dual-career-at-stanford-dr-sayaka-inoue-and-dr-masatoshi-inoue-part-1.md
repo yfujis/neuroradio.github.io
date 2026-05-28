@@ -6,6 +6,7 @@ date: 2021-06-10
 permalink: /2021/06/10/14-dual-career-at-stanford-dr-sayaka-inoue-and-dr-masatoshi-inoue-part-1/
 spotify: "https://open.spotify.com/embed/episode/4DgVQCMUvehQJLh5MCD1DN?utm_source=generator"
 apple_podcast: "https://podcasts.apple.com/us/podcast/14-dual-career-at-stanford-dr-sayaka-inoue-and-dr/id1556937028?i=1000525064761"
+guests: ["井上昌俊", "井上清香"]
 performers: ["ゲスト", "萩", "脇"]
 topics: ["ゲスト回", "ツール開発", "社会行動", "イメージング", "子育て", "システム神経科学"]
 summary: "日本神経科学会の奨励賞を夫妻でそれぞれ受賞した井上昌俊さん（まささん）@feynman1104・井上清香さん（さやかさん）@s_k_inoueをゲストに、お二人の論文の裏話、スタンフォード大学で神経科学を研究する醍醐味などについて伺いました。後半に続きます。（5/28収録）"

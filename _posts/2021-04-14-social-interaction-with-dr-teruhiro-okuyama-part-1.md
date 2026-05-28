@@ -6,6 +6,7 @@ date: 2021-04-14
 permalink: /2021/04/14/8-social-interaction-with-dr-teruhiro-okuyama-part-1/
 spotify: "https://open.spotify.com/embed/episode/0igOjXiV7P1RbKojmYDOGU?utm_source=generator"
 apple_podcast: "https://podcasts.apple.com/us/podcast/8-social-interaction-with-dr-teruhiro-okuyama-part-1/id1556937028?i=1000518020395"
+guests: ["奥山輝大"]
 performers: ["ゲスト", "萩", "脇"]
 topics: ["ゲスト回", "キャリア", "記憶", "社会行動", "システム神経科学"]
 summary: "東大定量研の奥山輝大さん（@Teru_Okuyama）をゲストに迎え、大学院時代、ポスドク時代、キャリア選択の際に考えていたこと、新PIとしての３年間についてお話しいただきました。後編(Part2)に続きます。"

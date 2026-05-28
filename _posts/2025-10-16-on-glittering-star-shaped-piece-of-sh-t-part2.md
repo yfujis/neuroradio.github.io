@@ -6,6 +6,7 @@ date: 2025-10-16
 permalink: /2025/10/16/98-on-glittering-star-shaped-piece-of-sh-t-part2/
 spotify: "https://open.spotify.com/embed/episode/6yjPfScHjo3HIZCFNRbfFL?utm_source=generator"
 apple_podcast: "https://podcasts.apple.com/us/podcast/98-on-glittering-star-shaped-piece-of-sh-t-part2/id1556937028?i=1000732004163"
+guests: ["長井淳"]
 performers: ["ゲスト", "萩"]
 topics: ["ゲスト回", "グリア", "記憶", "キャリア"]
 summary: "理研CBSの長井淳さん(@JunNagaiLab)ゲスト回(後編)。アストロサイトが日をまたいだエピソード記憶の安定化に寄与するという新作論文の解説、人の採用、PIとしていかに研究に時間を使うかなど (9/19 収録)"

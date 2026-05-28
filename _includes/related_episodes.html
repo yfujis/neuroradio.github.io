@@ -1,0 +1,33 @@
+{% if page.guests and page.guests.size > 0 %}
+  {% assign related_posts = "" | split: "" %}
+  {% for post in site.posts %}
+    {% if post.url == page.url %}{% continue %}{% endif %}
+    {% if post.guests == nil or post.guests.size == 0 %}{% continue %}{% endif %}
+    {% assign matched = false %}
+    {% for guest in post.guests %}
+      {% if page.guests contains guest %}
+        {% assign matched = true %}
+        {% break %}
+      {% endif %}
+    {% endfor %}
+    {% if matched %}
+      {% assign related_posts = related_posts | push: post %}
+    {% endif %}
+  {% endfor %}
+
+  {% if related_posts.size > 0 %}
+<section class="related-episodes" aria-label="同じゲストのエピソード">
+  <h2 class="related-episodes-heading">同じゲスト</h2>
+  <ul class="related-episodes-list">
+    {% for post in related_posts %}
+    <li class="related-episode-item">
+      <a href="{{ post.url | relative_url }}" class="related-episode-link">
+        <span class="related-episode-title">{{ post.title }}</span>
+        <span class="related-episode-meta">{{ post.date | date: "%Y-%m-%d" }} &middot; {{ post.guests | join: ", " }}</span>
+      </a>
+    </li>
+    {% endfor %}
+  </ul>
+</section>
+  {% endif %}
+{% endif %}
