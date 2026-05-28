@@ -5,6 +5,7 @@ episode_number: "73"
 date: 2024-03-26
 permalink: /2024/03/26/73-the-yellow-light-for-rdlight/
 spotify: "https://open.spotify.com/embed/episode/46vSqonJ8KmWKuSjpMliHf?utm_source=generator"
+apple_podcast: "https://podcasts.apple.com/us/podcast/73-the-yellow-light-for-rdlight/id1556937028?i=1000650432296"
 performers: ["萩", "脇"]
 topics: ["雑談回", "論文解説"]
 summary: "健康診断、３年めのタックスリターン、グリーンカード取得、万年筆と競技ペン回しについて雑談。文献紹介は、RNAで認識部位をプログラム可能なリコンビナーゼ、プローブのPhotoswitchingによるアーティファクト、軸索ミトコンドリアはATPを消費する、のプレプリント (3/10収録)"

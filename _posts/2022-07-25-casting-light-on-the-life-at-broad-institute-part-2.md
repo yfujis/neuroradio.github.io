@@ -5,6 +5,7 @@ episode_number: "41"
 date: 2022-07-25
 permalink: /2022/07/25/41-casting-light-on-the-life-at-broad-institute-part-2/
 spotify: "https://open.spotify.com/embed/episode/78b2Ud2UClMvsjy204JuIz?utm_source=generator"
+apple_podcast: "https://podcasts.apple.com/us/podcast/41-casting-light-on-the-life-at-broad-institute-part-2/id1556937028?i=1000571174140"
 performers: ["ゲスト", "萩", "脇"]
 topics: ["ゲスト回", "大学院留学", "CRISPR", "キャリア"]
 summary: "齋藤諒さんゲスト回、後編。Broad Institute、他ラボとの差別化、CRISPRの賞レース、ボスと異なる独自性を出すこと、について伺いました（7/9収録）"

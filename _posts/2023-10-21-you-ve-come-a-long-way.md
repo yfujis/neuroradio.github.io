@@ -5,6 +5,7 @@ episode_number: "67"
 date: 2023-10-21
 permalink: /2023/10/21/67-you-ve-come-a-long-way/
 spotify: "https://open.spotify.com/embed/episode/7dkOtAn4JVdcmob63jPUV0?utm_source=generator"
+apple_podcast: "https://podcasts.apple.com/us/podcast/67-youve-come-a-long-way/id1556937028?i=1000632084647"
 performers: ["萩", "脇"]
 topics: ["雑談回", "論文解説", "ライティング", "学会"]
 summary: "Lake Conferenceレポート、DJ Clubなどについて雑談。論文紹介は、intrabodyベースの順行性モノシナプティックトレーサ、CSとUSが離れた味覚嫌悪条件づけの神経基盤、授乳期の骨形成を担うホルモンの発見、ライティング時の注意に関するエッセイ (10/14収録)"

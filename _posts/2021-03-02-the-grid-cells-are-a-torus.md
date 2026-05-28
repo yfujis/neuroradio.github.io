@@ -5,6 +5,7 @@ episode_number: "2"
 date: 2021-03-02
 permalink: /2021/03/02/2-the-grid-cells-are-a-torus/
 spotify: "https://open.spotify.com/embed/episode/5VdPx6QqhqAkgD4LCVyXyw?utm_source=generator"
+apple_podcast: "https://podcasts.apple.com/us/podcast/2-the-grid-cells-are-a-torus/id1556937028?i=1000512148563"
 performers: ["萩", "脇"]
 topics: ["論文解説", "空間認知", "記憶"]
 summary: "論文紹介#1。\"グリッド細胞の集合的な活動がドーナツ型になる\" ことを示したプレプリントについて話しています。"

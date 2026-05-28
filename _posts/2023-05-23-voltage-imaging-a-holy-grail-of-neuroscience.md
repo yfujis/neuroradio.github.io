@@ -5,6 +5,7 @@ episode_number: "57"
 date: 2023-05-23
 permalink: /2023/05/23/57-voltage-imaging-a-holy-grail-of-neuroscience/
 spotify: "https://open.spotify.com/embed/episode/569NtnDLsGEwIpezY8mnIs?utm_source=generator"
+apple_podcast: "https://podcasts.apple.com/us/podcast/57-voltage-imaging-a-holy-grail-of-neuroscience/id1556937028?i=1000614241627"
 performers: ["萩", "脇"]
 topics: ["論文解説", "イメージング", "トピック解説"]
 summary: "Pieribone + Chen の in vivo 膜電位イメージング論文を題材に、遺伝学的膜電位センサー(GEVI)、広視野+高速２光子顕微鏡、U-Netベースのノイズ除去手法について掘り下げました (4/30収録)"

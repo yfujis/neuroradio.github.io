@@ -5,6 +5,7 @@ episode_number: "25"
 date: 2021-09-22
 permalink: /2021/09/22/25-poor-is-the-pupil-who-does-not-surpass-his-master-part-3/
 spotify: "https://anchor.fm/neuroradio/embed/episodes/25-Poor-is-the-pupil-who-does-not-surpass-his-master---Part-3-e17hl5g"
+apple_podcast: "https://podcasts.apple.com/us/podcast/25-poor-is-the-pupil-who-does-not-surpass-his-master-part-3/id1556937028?i=1000536291338"
 performers: ["ゲスト", "萩", "脇"]
 topics: ["ゲスト回", "キャリア", "記憶", "システム神経科学"]
 summary: "Part 3: Nature論文を読んでからのディスカッションを行った後、高IFジャーナルの功罪、日本とノルウェーの大学院生の境遇の違い、若い研究者へのメッセージを伺いました（9/1収録）"

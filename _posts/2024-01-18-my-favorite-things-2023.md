@@ -5,6 +5,7 @@ episode_number: "71"
 date: 2024-01-18
 permalink: /2024/01/18/71-my-favorite-things-2023/
 spotify: "https://open.spotify.com/embed/episode/18VQQb5RCf6YNYNzFOXsdr?utm_source=generator"
+apple_podcast: "https://podcasts.apple.com/us/podcast/71-my-favorite-things-2023/id1556937028?i=1000642040002"
 performers: ["萩", "脇"]
 topics: ["雑談回", "お便り", "音楽"]
 summary: "新年のんびり雑談回。去年の振り返りと今年の抱負、おたより回は実現可能なのか。後半は2023年お気に入りアルバム10選、お気に入りYouTubeチャンネル5選。(1/11収録)"

@@ -5,6 +5,7 @@ episode_number: "88"
 date: 2025-04-17
 permalink: /2025/04/17/88-absolutely-not-absolute/
 spotify: "https://open.spotify.com/embed/episode/6qjUORUEyAW9hOa4G9UXw0?utm_source=generator"
+apple_podcast: "https://podcasts.apple.com/us/podcast/88-absolutely-not-absolute/id1556937028?i=1000703809290"
 performers: ["萩", "脇"]
 topics: ["雑談回", "論文解説"]
 summary: "予算カット、２年ルールWaiver、資産運用への影響、メールでのコミュニケーションなど。論文紹介は、実装が簡単な高速FLIMと、Sequeincing by expansion (4/9収録)"

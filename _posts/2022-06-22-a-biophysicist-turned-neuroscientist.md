@@ -5,6 +5,7 @@ episode_number: "39"
 date: 2022-06-22
 permalink: /2022/06/22/39-a-biophysicist-turned-neuroscientist/
 spotify: "https://open.spotify.com/embed/episode/7uPSKbsJumQvt4xhxmiX7A?utm_source=generator"
+apple_podcast: "https://podcasts.apple.com/us/podcast/39-a-biophyisicist-turned-neuroscientist/id1556937028?i=1000567336439"
 performers: ["ゲスト", "萩", "脇"]
 topics: ["ゲスト回", "イメージング", "シナプス"]
 summary: "マックスプランクフロリダの安田涼平さん（@Ryohei_Neuro）をゲストに、１分子イメージングから１スパイン・分子活性のイメージングへと分野を変えていった時に考えていたこと、Karel Svobodaのラボでポスドク..."

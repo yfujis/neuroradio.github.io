@@ -5,6 +5,7 @@ episode_number: "32"
 date: 2022-01-24
 permalink: /2022/01/24/32-emotional-intent-of-a-pd-soon-to-be-a-pi/
 spotify: "https://open.spotify.com/embed/episode/0nqtO2e8h7zrlN5fioygxL?utm_source=generator"
+apple_podcast: "https://podcasts.apple.com/us/podcast/32-emotional-intent-of-a-pd-soon-to-be-a-pi/id1556937028?i=1000548789487"
 performers: ["ゲスト", "萩", "脇"]
 topics: ["ゲスト回", "キャリア", "情動", "社会行動"]
 summary: "CaltechのDavid Andersonラボのポスドクで、最近Johns Hopkinsの独立ポジションを確保された苅郷友美さん（@TomomiKarigo）にお越しいただき、これまでのキャリア、ビビッドなジョブハントの経験談、直近の論文の裏話などを伺いました（9/5収録）"

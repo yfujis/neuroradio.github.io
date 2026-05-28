@@ -5,6 +5,7 @@ episode_number: "84"
 date: 2025-01-07
 permalink: /2025/01/07/84-synthetic-developmental-biology/
 spotify: "https://open.spotify.com/embed/episode/2RXzHDDeTLSBmZc5UyJtXT?utm_source=generator"
+apple_podcast: "https://podcasts.apple.com/us/podcast/84-synthetic-developmental-biology/id1556937028?i=1000682947663"
 performers: ["ゲスト", "萩", "脇"]
 topics: ["ゲスト回", "発生生物学", "キャリア", "論文解説"]
 summary: "University of Washington の浜崎伸彦さん(@Nobu_Hamazaki)がゲスト。Human RA-Gastruloid論文、条件探索のコツ、ステージング問題、卵子形成論文、PI生活、今後目指す合成的発生生物学の方向性など (12/12収録)"

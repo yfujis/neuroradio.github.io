@@ -5,6 +5,7 @@ episode_number: "4"
 date: 2021-03-24
 permalink: /2021/03/24/4-what-is-cell-type-transcriptome-meets-neurophysiology/
 spotify: "https://open.spotify.com/embed/episode/7JZqrGDGujgu1V3bj0M2ay?utm_source=generator"
+apple_podcast: "https://podcasts.apple.com/us/podcast/4-what-is-cell-type-transcriptome-meets-neurophysiology/id1556937028?i=1000514216521"
 performers: ["萩", "脇"]
 topics: ["論文解説", "細胞タイプ", "トランスクリプトミクス", "イメージング"]
 summary: "ニューロンの細胞種はどう定義されるのか？萩原が in vivo Caイメージングとspatial transcriptomicsを組み合わせた研究２報を紹介しながら議論。トランスクリプトーム回の前編。"

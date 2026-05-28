@@ -5,6 +5,7 @@ episode_number: "68"
 date: 2023-11-22
 permalink: /2023/11/22/68-foraging-under-the-sun/
 spotify: "https://open.spotify.com/embed/episode/6oW3kbT1DrwqiTov6PyCt3?utm_source=generator"
+apple_podcast: "https://podcasts.apple.com/us/podcast/68-foraging-under-the-sun/id1556937028?i=1000635623886"
 performers: ["ゲスト", "萩", "脇"]
 topics: ["ゲスト回", "再登場", "キャリア", "意思決定", "論文解説", "計算神経科学", "システム神経科学"]
 summary: "UF Scripps服部亮磨さん (@ryhattori, gmail) がゲスト。PIとしてフロリダで働き始めた様子、OFCメタ強化学習論文の紹介、今後の展開・手術ロボット談義など（11/10 収録）"

@@ -5,6 +5,7 @@ episode_number: "69"
 date: 2023-11-30
 permalink: /2023/11/30/69-phd-programme-at-the-centre/
 spotify: "https://open.spotify.com/embed/episode/72wctGKNBKxt72Lv14sc00?utm_source=generator"
+apple_podcast: "https://podcasts.apple.com/us/podcast/69-phd-programme-at-the-centre/id1556937028?i=1000636990762"
 performers: ["ゲスト", "萩", "脇"]
 topics: ["ゲスト回", "PhD", "大学院留学", "システム神経科学"]
 summary: "University College London/Sainsbury Wellcome Centre 博士課程の黒田澄哉さん(@_sumiyakuroda)、中野誠大さん(@_mnakano)がゲスト。UCL/SWCでのPhDコース、Tom (& Tim) ラボでの仕事の様子、PhDアプリケーション時の話、ロンドン生活について伺いました (11/10収録)"

@@ -5,6 +5,7 @@ episode_number: "45"
 date: 2022-10-03
 permalink: /2022/10/03/45-the-amyloid-hypothesis-of-alzheimer-s-disease-explained/
 spotify: "https://open.spotify.com/embed/episode/5E7dDBPtyEaP7XC0K2YLui?utm_source=generator"
+apple_podcast: "https://podcasts.apple.com/us/podcast/45-the-amyloid-hypothesis-of-alzheimers-disease-explained/id1556937028?i=1000581346236"
 performers: ["ゲスト", "萩", "脇"]
 topics: ["ゲスト回", "疾患", "論文解説", "記憶"]
 summary: "認知症研究者の佐野俊春さん（@tsano321）に、アルツハイマー型認知症のAβ仮説の歴史と論拠、最近の基礎研究・臨床試験の動向、今後の展望について教えていただきました（9/3収録）"

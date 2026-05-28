@@ -5,6 +5,7 @@ episode_number: "34"
 date: 2022-03-27
 permalink: /2022/03/27/34-catch-22-in-code-switching/
 spotify: "https://open.spotify.com/embed/episode/5ZbbJ51IvPMkLa0nW6TCkV?utm_source=generator"
+apple_podcast: "https://podcasts.apple.com/us/podcast/34-catch-22-in-code-switching/id1556937028?i=1000555396112"
 performers: ["萩", "脇"]
 topics: ["雑談回", "論文解説", "イメージング", "記憶"]
 summary: "アメリカでの運転免許取得、Mini2P、MATLABからPythonへの移行に関する雑談。フラッシュ論文紹介は海馬４重vivoパッチ、BLAドパミンREM睡眠、シータ波と歩くリズムの同期、第三世代Rabies、投射先アストロサイト標識、eVLPについて。(3/19収録)"

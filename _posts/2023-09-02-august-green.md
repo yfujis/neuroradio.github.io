@@ -5,6 +5,7 @@ episode_number: "61"
 date: 2023-09-02
 permalink: /2023/09/02/61-august-green/
 spotify: "https://open.spotify.com/embed/episode/2uF7xmfd9tRoGyAG0wM7m1?utm_source=generator"
+apple_podcast: "https://podcasts.apple.com/us/podcast/61-august-green/id1556937028?i=1000626513907"
 performers: ["萩", "脇"]
 topics: ["雑談回", "論文解説", "イメージング"]
 summary: "一時帰国とオフ会、オフィスのデスク削減方法、総合誌に載るマニアックな論文談義。論文紹介は、磁場によるタンパク質の蛍光強度調節、マウスの眼優位性カラム？、新タイプの近赤外Caセンサー、等 (8/27 収録)"

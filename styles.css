@@ -209,6 +209,7 @@ h3 {
 }
 
 .platform-grid,
+.platform-links,
 .footer-links {
   display: flex;
   flex-wrap: wrap;
