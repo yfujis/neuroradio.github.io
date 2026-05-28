@@ -6,7 +6,7 @@ date: 2024-10-20
 permalink: /2024/10/20/80-beyond-a-predictive-machine/
 spotify: "https://open.spotify.com/embed/episode/6WzoJdwHurYTAcEVOkGHuv?utm_source=generator"
 performers: ["ゲスト", "萩"]
-topics: ["ゲスト回", "PI・キャリア", "視覚", "予測", "再登場"]
+topics: ["ゲスト回", "キャリア", "視覚", "予測", "再登場"]
 summary: "古館さん(@ShoheiFurutachi) in-person収録＠Allen Institute。直近の論文リバイズ中の出来事、最近の興味、ネタ被りに関する様々な考え方、ジョブハントの様子、東大での某失敗談の詳細 (10/13 収録)"
 ---
 
