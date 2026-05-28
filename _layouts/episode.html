@@ -16,6 +16,7 @@ layout: default
       <a class="platform" href="{{ page.apple_podcast }}">Apple Podcasts で聴く</a>
     </div>
     {% endif %}
+    <div data-pagefind-ignore>{% include share_buttons.html %}</div>
     <section class="episode-content" aria-label="{{ page.title }} のShow NotesとEditorial Notes">
       <h2 id="show-notes">Show Notes</h2>
       {{ page.show_notes_html }}
@@ -23,7 +24,6 @@ layout: default
       {{ page.editorial_notes_html }}
     </section>
     <div data-pagefind-ignore>{% include related_episodes.html %}</div>
-    <div data-pagefind-ignore>{% include share_buttons.html %}</div>
     <nav class="episode-nav" aria-label="エピソードナビゲーション" data-pagefind-ignore>
       {% if page.next %}<a href="{{ page.next.url | relative_url }}">次のエピソード</a>{% endif %}
       <a href="{{ '/' | relative_url }}">トップへ</a>
