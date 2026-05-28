@@ -305,3 +305,30 @@
   const slackBtn = container.querySelector(".share-slack");
   if (slackBtn) slackBtn.addEventListener("click", function () { copyAndToast("Slack"); });
 })();
+
+// Home RSS copy button
+(function () {
+  const rssCopyButton = document.querySelector("[data-rss-copy]");
+  if (!rssCopyButton) return;
+
+  const rssUrl = rssCopyButton.dataset.rssUrl;
+  if (!rssUrl) return;
+
+  const defaultLabel = "RSSをコピー";
+  const copiedLabel = "RSSをコピーしました";
+  const failedLabel = "コピーに失敗しました";
+
+  rssCopyButton.addEventListener("click", function () {
+    navigator.clipboard.writeText(rssUrl).then(function () {
+      rssCopyButton.textContent = copiedLabel;
+      setTimeout(function () {
+        rssCopyButton.textContent = defaultLabel;
+      }, 2500);
+    }).catch(function () {
+      rssCopyButton.textContent = failedLabel;
+      setTimeout(function () {
+        rssCopyButton.textContent = defaultLabel;
+      }, 2500);
+    });
+  });
+})();
