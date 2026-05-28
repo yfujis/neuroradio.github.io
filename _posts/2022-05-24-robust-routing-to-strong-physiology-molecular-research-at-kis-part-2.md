@@ -9,7 +9,7 @@ apple_podcast: "https://podcasts.apple.com/us/podcast/37-robust-routing-to-stron
 guests: ["北西卓磨"]
 performers: ["ゲスト", "萩", "脇"]
 topics: ["ゲスト回", "キャリア", "電気生理", "データ解析", "システム神経科学"]
-summary: "北西卓磨さん(@tkitanishi)ゲスト回、後編。予算申請書の書き方、研究室のスタッフから独立ポジションに移るまでのこと、今後行っていく大規模記録・多変量解析の方針などについて伺いました（4/27収録）"
+summary: "北西卓磨さん(<a href='https://x.com/tkitanishi'>@tkitanishi</a>)ゲスト回、後編。予算申請書の書き方、研究室のスタッフから独立ポジションに移るまでのこと、今後行っていく大規模記録・多変量解析の方針などについて伺いました（4/27収録）"
 ---
 
 Summary:

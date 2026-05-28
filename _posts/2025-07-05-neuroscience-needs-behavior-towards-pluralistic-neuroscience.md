@@ -8,7 +8,7 @@ spotify: "https://open.spotify.com/embed/episode/1Xz5hNEdZvuh03mgLRhCsR?utm_sour
 apple_podcast: "https://podcasts.apple.com/us/podcast/91-neuroscience-needs-behavior-towards-pluralistic/id1556937028?i=1000715782475"
 performers: ["萩", "藤"]
 topics: ["ゲスト回", "再登場", "大学院留学", "行動", "論文解説", "システム神経科学"]
-summary: "NYU Long/Buzsakiラボの、藤島悠貴さん(@yfujishima_) さんがゲスト。近況アップデート、最近出た唄うマウスの行動解析論文、Krakauerのオピニオン論文を元にした議論、など (6/15 収録)"
+summary: "NYU Long/Buzsakiラボの、藤島悠貴さん(<a href='https://x.com/yfujishima_'>@yfujishima_</a>) さんがゲスト。近況アップデート、最近出た唄うマウスの行動解析論文、Krakauerのオピニオン論文を元にした議論、など (6/15 収録)"
 ---
 
 Summary:

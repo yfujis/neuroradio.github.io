@@ -9,7 +9,7 @@ apple_podcast: "https://podcasts.apple.com/us/podcast/59-minds-meet-weeds-part-1
 guests: ["登達也"]
 performers: ["ゲスト", "萩", "脇"]
 topics: ["ゲスト回", "大学院留学", "植物", "トランスクリプトミクス"]
-summary: "Salk Institute のEckerラボ で宿主-微生物相互作用研究とゲノミクス技術開発を行っており、来年夏からイギリスのThe Sainsbury Laboratoryで独立予定の登達也さん(@nobolly, @tnobo_ktcs)がゲスト。植物を研究対象としたきっかけ、マックスプランクでのPhD3部作、ポスドクでの3部作の解説、近年のSpatial Transcriptomics技術開発トレンドに関するディスカッション。後半に続く (6/22収録)"
+summary: "Salk Institute のEckerラボ で宿主-微生物相互作用研究とゲノミクス技術開発を行っており、来年夏からイギリスのThe Sainsbury Laboratoryで独立予定の登達也さん(<a href='https://x.com/nobolly'>@nobolly</a>, <a href='https://x.com/tnobo_ktcs'>@tnobo_ktcs</a>)がゲスト。植物を研究対象としたきっかけ、マックスプランクでのPhD3部作、ポスドクでの3部作の解説、近年のSpatial Transcriptomics技術開発トレンドに関するディスカッション。後半に続く (6/22収録)"
 ---
 
 Summary:

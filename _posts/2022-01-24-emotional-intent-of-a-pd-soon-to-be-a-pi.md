@@ -9,7 +9,7 @@ apple_podcast: "https://podcasts.apple.com/us/podcast/32-emotional-intent-of-a-p
 guests: ["苅郷友美"]
 performers: ["ゲスト", "萩", "脇"]
 topics: ["ゲスト回", "キャリア", "情動", "社会行動"]
-summary: "CaltechのDavid Andersonラボのポスドクで、最近Johns Hopkinsの独立ポジションを確保された苅郷友美さん（@TomomiKarigo）にお越しいただき、これまでのキャリア、ビビッドなジョブハントの経験談、直近の論文の裏話などを伺いました（9/5収録）"
+summary: "CaltechのDavid Andersonラボのポスドクで、最近Johns Hopkinsの独立ポジションを確保された苅郷友美さん（<a href='https://x.com/TomomiKarigo'>@TomomiKarigo</a>）にお越しいただき、これまでのキャリア、ビビッドなジョブハントの経験談、直近の論文の裏話などを伺いました（9/5収録）"
 ---
 
 Summary:

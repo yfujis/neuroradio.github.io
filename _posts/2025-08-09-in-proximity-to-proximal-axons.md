@@ -9,7 +9,7 @@ apple_podcast: "https://podcasts.apple.com/us/podcast/93-in-proximity-to-proxima
 guests: ["小川優樹"]
 performers: ["ゲスト", "萩", "脇"]
 topics: ["ゲスト回", "軸索", "キャリア", "論文解説"]
-summary: "University of South Carolinaで独立した小川優樹さん(@YukiOgawaPhD)ゲスト回。AISに興味を持つようになるまでの過程、ポスドクを行ったBaylor Collegeでの研究、ジョブハント体験記、最新作Hide-and-seekに関するディスカッション、今後の展望について (2/22 収録)"
+summary: "University of South Carolinaで独立した小川優樹さん(<a href='https://x.com/YukiOgawaPhD'>@YukiOgawaPhD</a>)ゲスト回。AISに興味を持つようになるまでの過程、ポスドクを行ったBaylor Collegeでの研究、ジョブハント体験記、最新作Hide-and-seekに関するディスカッション、今後の展望について (2/22 収録)"
 ---
 
 Summary:

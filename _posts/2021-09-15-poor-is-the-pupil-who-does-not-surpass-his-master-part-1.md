@@ -9,7 +9,7 @@ apple_podcast: "https://podcasts.apple.com/us/podcast/23-poor-is-the-pupil-who-d
 guests: ["五十嵐啓"]
 performers: ["ゲスト", "萩", "脇"]
 topics: ["ゲスト回", "キャリア", "記憶", "システム神経科学"]
-summary: "UC Irvineの五十嵐啓さん(@kei_m_igarashi)にお越しいただき、学部・大学院時代のお話、特に『失敗談』– あるいは地獄の釜の底 – について伺いました（8/31収録）"
+summary: "UC Irvineの五十嵐啓さん(<a href='https://x.com/kei_m_igarashi'>@kei_m_igarashi</a>)にお越しいただき、学部・大学院時代のお話、特に『失敗談』– あるいは地獄の釜の底 – について伺いました（8/31収録）"
 ---
 
 Summary:

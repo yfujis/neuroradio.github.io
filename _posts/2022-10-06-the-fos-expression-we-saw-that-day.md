@@ -9,7 +9,7 @@ apple_podcast: "https://podcasts.apple.com/us/podcast/46-the-fos-expression-we-s
 guests: ["北西卓磨", "吉良信一郎", "田中和正", "柳下祥"]
 performers: ["ゲスト", "萩", "脇"]
 topics: ["ゲスト回", "再登場", "論文解説", "ジャーナルクラブ", "記憶", "細胞タイプ", "システム神経科学"]
-summary: "海馬CA1ニューロンにおけるFos発現と場所表象・神経活動の双方的な関係を調べた論文を題材に、北西卓磨さん(@tkitanishi)、吉良信一郎さん(@ShinichiroKira)、田中和正さん(@Kazu_ZT)、柳下祥さん(@sho_yagishita) とディスカッションをしました。(9/22 収録)"
+summary: "海馬CA1ニューロンにおけるFos発現と場所表象・神経活動の双方的な関係を調べた論文を題材に、北西卓磨さん(<a href='https://x.com/tkitanishi'>@tkitanishi</a>)、吉良信一郎さん(<a href='https://x.com/ShinichiroKira'>@ShinichiroKira</a>)、田中和正さん(<a href='https://x.com/Kazu_ZT'>@Kazu_ZT</a>)、柳下祥さん(<a href='https://x.com/sho_yagishita'>@sho_yagishita</a>) とディスカッションをしました。(9/22 収録)"
 ---
 
 Summary:

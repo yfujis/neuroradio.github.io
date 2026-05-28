@@ -9,7 +9,7 @@ apple_podcast: "https://podcasts.apple.com/us/podcast/28-plasticity-in-engram-re
 guests: ["北沢太郎"]
 performers: ["ゲスト", "萩"]
 topics: ["ゲスト回", "キャリア", "記憶"]
-summary: "デンマーク・オーフス大のDANDRITE研究所で来夏独立予定の北沢太郎さん(@kitazawa_taro, 現FMI Rijliラボ)をゲストに、これまでのキャリア・興味の変遷、FMI、ヨーロッパでの就活などなどについて話しました。(11/4収録 * 初のin-person収録ということで宮脇はお休み)"
+summary: "デンマーク・オーフス大のDANDRITE研究所で来夏独立予定の北沢太郎さん(<a href='https://x.com/kitazawa_taro'>@kitazawa_taro</a>, 現FMI Rijliラボ)をゲストに、これまでのキャリア・興味の変遷、FMI、ヨーロッパでの就活などなどについて話しました。(11/4収録 * 初のin-person収録ということで宮脇はお休み)"
 ---
 
 Summary:

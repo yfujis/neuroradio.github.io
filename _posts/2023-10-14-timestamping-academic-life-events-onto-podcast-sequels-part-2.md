@@ -9,7 +9,7 @@ apple_podcast: "https://podcasts.apple.com/us/podcast/66-timestamping-academic-l
 guests: ["北沢太郎"]
 performers: ["ゲスト", "萩"]
 topics: ["ゲスト回", "再登場", "キャリア", "記憶"]
-summary: "定期ゲスト北沢さん (@kitazawa_taro) のデンマーク・DANDRITE生活１年目の振り返り、ラボ立ち上げ・プロジェクトの経過、Fosの発現メカニズムに関するJC、など (10/1 収録)"
+summary: "定期ゲスト北沢さん (<a href='https://x.com/kitazawa_taro'>@kitazawa_taro</a>) のデンマーク・DANDRITE生活１年目の振り返り、ラボ立ち上げ・プロジェクトの経過、Fosの発現メカニズムに関するJC、など (10/1 収録)"
 ---
 
 Summary:

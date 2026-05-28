@@ -9,7 +9,7 @@ apple_podcast: "https://podcasts.apple.com/us/podcast/47-on-flexibility-in-cogni
 guests: ["中島美保"]
 performers: ["ゲスト", "萩", "脇"]
 topics: ["ゲスト回", "大学院留学", "細胞タイプ", "行動", "キャリア", "システム神経科学"]
-summary: "理研CBSの中島美保さん（@mihonakajima）がゲスト。大学院時代とポスドク時代の仕事の背景、それらを踏まえたCell Typeに関する議論、特定の高次機能を問うためのTailor-made行動試験の作り方、などを伺いました (8/17, 9/10 収録)"
+summary: "理研CBSの中島美保さん（<a href='https://x.com/mihonakajima'>@mihonakajima</a>）がゲスト。大学院時代とポスドク時代の仕事の背景、それらを踏まえたCell Typeに関する議論、特定の高次機能を問うためのTailor-made行動試験の作り方、などを伺いました (8/17, 9/10 収録)"
 ---
 
 Summary:

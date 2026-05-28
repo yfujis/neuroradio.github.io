@@ -9,7 +9,7 @@ apple_podcast: "https://podcasts.apple.com/us/podcast/48-in-search-of-thalamo-co
 guests: ["Lukas Ian Schmitt"]
 performers: ["ゲスト", "萩", "脇"]
 topics: ["ゲスト回", "計算神経科学", "システム神経科学"]
-summary: "We sat down with Lukas Ian Schmitt (@lucidianS), a team leader at RIKEN CBS, and talked about his trajectory, life in Japan, past and ongoing projects about the distributed computation in the cortico-thalamic loop, and related works (Recorded on 9/10)"
+summary: "We sat down with Lukas Ian Schmitt (<a href='https://x.com/lucidianS'>@lucidianS</a>), a team leader at RIKEN CBS, and talked about his trajectory, life in Japan, past and ongoing projects about the distributed computation in the cortico-thalamic loop, and related works (Recorded on 9/10)"
 ---
 
 Summary:

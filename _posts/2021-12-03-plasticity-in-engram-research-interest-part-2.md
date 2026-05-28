@@ -9,7 +9,7 @@ apple_podcast: "https://podcasts.apple.com/us/podcast/29-plasticity-in-engram-re
 guests: ["北沢太郎"]
 performers: ["ゲスト", "萩"]
 topics: ["ゲスト回", "再登場", "論文解説", "記憶", "エングラム"]
-summary: "Part. 1に続きDANDRITE研究所で来夏独立予定の北沢太郎さん(@kitazawa_taro)にお越しいただき、直近のNature Genetics論文の裏話と、今後行うEngram関連のプロジェクトについて伺いました（11/4収録）"
+summary: "Part. 1に続きDANDRITE研究所で来夏独立予定の北沢太郎さん(<a href='https://x.com/kitazawa_taro'>@kitazawa_taro</a>)にお越しいただき、直近のNature Genetics論文の裏話と、今後行うEngram関連のプロジェクトについて伺いました（11/4収録）"
 ---
 
 Summary:

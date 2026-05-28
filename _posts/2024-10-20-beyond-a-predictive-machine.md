@@ -9,7 +9,7 @@ apple_podcast: "https://podcasts.apple.com/us/podcast/80-beyond-a-predictive-mac
 guests: ["古館昌平"]
 performers: ["ゲスト", "萩"]
 topics: ["ゲスト回", "再登場", "キャリア", "視覚", "予測", "システム神経科学"]
-summary: "古館さん(@ShoheiFurutachi) in-person収録＠Allen Institute。直近の論文リバイズ中の出来事、最近の興味、ネタ被りに関する様々な考え方、ジョブハントの様子、東大での某失敗談の詳細 (10/13 収録)"
+summary: "古館さん(<a href='https://x.com/ShoheiFurutachi'>@ShoheiFurutachi</a>) in-person収録＠Allen Institute。直近の論文リバイズ中の出来事、最近の興味、ネタ被りに関する様々な考え方、ジョブハントの様子、東大での某失敗談の詳細 (10/13 収録)"
 ---
 
 Summary:

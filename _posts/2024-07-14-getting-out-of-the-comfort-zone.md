@@ -9,7 +9,7 @@ apple_podcast: "https://podcasts.apple.com/us/podcast/76-getting-out-of-the-comf
 guests: ["五十嵐啓"]
 performers: ["ゲスト", "萩", "脇"]
 topics: ["ゲスト回", "再登場", "キャリア", "グラント", "記憶"]
-summary: "UC Irvineの五十嵐啓さん(@kei_m_igarashi)再登場。転職活動振り返り、次に出る論文のSneak peek (詳細はNeuro2024のセッションにて)、R01グラント審査の実際＆それを踏まえた書き方戦略講座、若い人へのメッセージなど (7/6 収録)"
+summary: "UC Irvineの五十嵐啓さん(<a href='https://x.com/kei_m_igarashi'>@kei_m_igarashi</a>)再登場。転職活動振り返り、次に出る論文のSneak peek (詳細はNeuro2024のセッションにて)、R01グラント審査の実際＆それを踏まえた書き方戦略講座、若い人へのメッセージなど (7/6 収録)"
 ---
 
 Summary:

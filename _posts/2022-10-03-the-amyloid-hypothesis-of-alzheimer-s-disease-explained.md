@@ -9,7 +9,7 @@ apple_podcast: "https://podcasts.apple.com/us/podcast/45-the-amyloid-hypothesis-
 guests: ["佐野俊春"]
 performers: ["ゲスト", "萩", "脇"]
 topics: ["ゲスト回", "疾患", "論文解説", "記憶"]
-summary: "認知症研究者の佐野俊春さん（@tsano321）に、アルツハイマー型認知症のAβ仮説の歴史と論拠、最近の基礎研究・臨床試験の動向、今後の展望について教えていただきました（9/3収録）"
+summary: "認知症研究者の佐野俊春さん（<a href='https://x.com/tsano321'>@tsano321</a>）に、アルツハイマー型認知症のAβ仮説の歴史と論拠、最近の基礎研究・臨床試験の動向、今後の展望について教えていただきました（9/3収録）"
 ---
 
 Summary:

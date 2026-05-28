@@ -9,7 +9,7 @@ apple_podcast: "https://podcasts.apple.com/us/podcast/14-dual-career-at-stanford
 guests: ["井上昌俊", "井上清香"]
 performers: ["ゲスト", "萩", "脇"]
 topics: ["ゲスト回", "ツール開発", "社会行動", "イメージング", "子育て", "システム神経科学"]
-summary: "日本神経科学会の奨励賞を夫妻でそれぞれ受賞した井上昌俊さん（まささん）@feynman1104・井上清香さん（さやかさん）@s_k_inoueをゲストに、お二人の論文の裏話、スタンフォード大学で神経科学を研究する醍醐味などについて伺いました。後半に続きます。（5/28収録）"
+summary: "日本神経科学会の奨励賞を夫妻でそれぞれ受賞した井上昌俊さん（まささん）<a href='https://x.com/feynman1104'>@feynman1104</a>・井上清香さん（さやかさん）<a href='https://x.com/s_k_inoue'>@s_k_inoue</a>をゲストに、お二人の論文の裏話、スタンフォード大学で神経科学を研究する醍醐味などについて伺いました。後半に続きます。（5/28収録）"
 ---
 
 Summary:

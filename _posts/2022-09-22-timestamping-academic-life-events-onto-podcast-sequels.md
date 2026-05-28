@@ -9,7 +9,7 @@ apple_podcast: "https://podcasts.apple.com/us/podcast/44-timestamping-academic-l
 guests: ["北沢太郎"]
 performers: ["ゲスト", "萩", "脇"]
 topics: ["ゲスト回", "再登場", "キャリア", "学会"]
-summary: "帰ってきた北沢太郎さん(@kitazawa_taro) 。これから参入するEngram業界の学会@ダブリンの印象、そしてDANDRITEでのラボ立ち上げから一カ月が経過した現在の状況。特にリクルーティング、ヨーロッパ・デンマークのファンディング事情、人的ネットワーク作りなど（9/18収録）"
+summary: "帰ってきた北沢太郎さん(<a href='https://x.com/kitazawa_taro'>@kitazawa_taro</a>) 。これから参入するEngram業界の学会@ダブリンの印象、そしてDANDRITEでのラボ立ち上げから一カ月が経過した現在の状況。特にリクルーティング、ヨーロッパ・デンマークのファンディング事情、人的ネットワーク作りなど（9/18収録）"
 ---
 
 Summary:

@@ -9,7 +9,7 @@ apple_podcast: "https://podcasts.apple.com/us/podcast/7-fireside-chat-with-dr-ka
 guests: ["田中和正"]
 performers: ["ゲスト", "萩", "脇"]
 topics: ["ゲスト回", "大学院留学", "キャリア", "システム神経科学"]
-summary: "OISTの田中和正さん（@Kazu_ZT）をゲストにお招きし、OISTの研究環境、新PIのラボ運営、これからの研究方針、過去の研究の裏話などについて伺いました"
+summary: "OISTの田中和正さん（<a href='https://x.com/Kazu_ZT'>@Kazu_ZT</a>）をゲストにお招きし、OISTの研究環境、新PIのラボ運営、これからの研究方針、過去の研究の裏話などについて伺いました"
 ---
 
 Summary:

@@ -9,7 +9,7 @@ apple_podcast: "https://podcasts.apple.com/us/podcast/75-dreaming-of-dreams/id15
 guests: ["千歳雄大"]
 performers: ["ゲスト", "萩", "脇"]
 topics: ["ゲスト回", "記憶", "キャリア", "大学院留学", "システム神経科学"]
-summary: "Northwestern Universityで来年1月から独立する千歳雄大さん(@yutasenzai)さんがゲスト。BuzsakiラボでのPhD、Scanzianiラボでのポスドク、ジョブハントで苦労したこと、独立後の研究計画について伺いました (6/20 収録)"
+summary: "Northwestern Universityで来年1月から独立する千歳雄大さん(<a href='https://x.com/yutasenzai'>@yutasenzai</a>)さんがゲスト。BuzsakiラボでのPhD、Scanzianiラボでのポスドク、ジョブハントで苦労したこと、独立後の研究計画について伺いました (6/20 収録)"
 ---
 
 Summary:

@@ -9,7 +9,7 @@ apple_podcast: "https://podcasts.apple.com/us/podcast/51-a-precise-tagging-of-ac
 guests: ["長濱健一郎"]
 performers: ["ゲスト", "萩", "脇"]
 topics: ["ゲスト回", "イメージング", "キャリア", "システム神経科学"]
-summary: "Hyungbae Kwonラボの長濱健一郎さん(@k_hammer_1001)ゲスト回。初期研修から基礎研究に進んだ経緯、狩野研でのスライスパッチャー生活、Hyungbae Kwonラボの現在の方向性、最近のST Cal..."
+summary: "Hyungbae Kwonラボの長濱健一郎さん(<a href='https://x.com/k_hammer_1001'>@k_hammer_1001</a>)ゲスト回。初期研修から基礎研究に進んだ経緯、狩野研でのスライスパッチャー生活、Hyungbae Kwonラボの現在の方向性、最近のST Cal..."
 ---
 
 Summary:

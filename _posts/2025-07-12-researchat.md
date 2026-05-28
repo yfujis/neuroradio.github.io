@@ -9,7 +9,7 @@ apple_podcast: "https://podcasts.apple.com/us/podcast/92-researchat/id1556937028
 guests: ["野崎匡"]
 performers: ["ゲスト", "萩", "脇"]
 topics: ["ゲスト回", "キャリア", "遺伝学"]
-summary: "Klecknerラボ、この秋からUMass アマーストで独立予定、Researchat.fmのTadasu Nozaki (@tadasu443)さんがゲスト。大学の近況、ジョブハント経験談、独立後の研究の方向性、染色体ペアリング馴れ初め、授業計画、遺伝研での生活について (5/25 収録)"
+summary: "Klecknerラボ、この秋からUMass アマーストで独立予定、Researchat.fmのTadasu Nozaki (<a href='https://x.com/tadasu443'>@tadasu443</a>)さんがゲスト。大学の近況、ジョブハント経験談、独立後の研究の方向性、染色体ペアリング馴れ初め、授業計画、遺伝研での生活について (5/25 収録)"
 ---
 
 Summary:

@@ -9,7 +9,7 @@ apple_podcast: "https://podcasts.apple.com/us/podcast/62-beyond-predictions-part
 guests: ["古館昌平"]
 performers: ["ゲスト", "萩", "脇"]
 topics: ["ゲスト回", "キャリア", "システム神経科学"]
-summary: "Sainsbury Wellcome Centreの古館昌平さん(@ShoheiFurutachi, e-mail) ゲスト回、雑談メインの前編。留学時に分野を大きく変えた動機とそれに伴う苦労、PI（TomとSonja）のスタイル、SWCの雰囲気やロンドン生活について伺いました（9/2 収録）"
+summary: "Sainsbury Wellcome Centreの古館昌平さん(<a href='https://x.com/ShoheiFurutachi'>@ShoheiFurutachi</a>, e-mail) ゲスト回、雑談メインの前編。留学時に分野を大きく変えた動機とそれに伴う苦労、PI（TomとSonja）のスタイル、SWCの雰囲気やロンドン生活について伺いました（9/2 収録）"
 ---
 
 Summary:

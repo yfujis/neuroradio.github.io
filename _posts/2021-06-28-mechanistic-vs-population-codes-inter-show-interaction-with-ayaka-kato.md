@@ -9,7 +9,7 @@ apple_podcast: "https://podcasts.apple.com/us/podcast/16-mechanistic-vs-populati
 guests: ["加藤郁佳"]
 performers: ["ゲスト", "萩", "脇"]
 topics: ["ゲスト回", "大学院留学", "ポッドキャスト", "計算神経科学", "システム神経科学"]
-summary: "理研風間研・研エンの仲ポッドキャスターの加藤郁佳さん（@kayautoka）をゲストに、これまでのキャリア、モデル動物選択、これからポスドク先を選ぶにあたっての悩みなどを共有して頂きました。(6/6収録)"
+summary: "理研風間研・研エンの仲ポッドキャスターの加藤郁佳さん（<a href='https://x.com/kayautoka'>@kayautoka</a>）をゲストに、これまでのキャリア、モデル動物選択、これからポスドク先を選ぶにあたっての悩みなどを共有して頂きました。(6/6収録)"
 ---
 
 Summary:

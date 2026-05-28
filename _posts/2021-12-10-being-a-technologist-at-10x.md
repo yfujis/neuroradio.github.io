@@ -9,7 +9,7 @@ apple_podcast: "https://podcasts.apple.com/us/podcast/30-being-a-technologist-at
 guests: ["佐々木浩"]
 performers: ["ゲスト", "萩", "脇"]
 topics: ["ゲスト回", "インダストリー", "キャリア"]
-summary: "初のインダストリーからのゲスト。Wyss Institute から 10x Genomics に就職された佐々木浩さん(@popeetheclown)にお越しいただき、アカデミアとインダストリーの研究スタイルや自由の違い、海外就活の詳細なタイムラインと勘所、インダストリー研究ならではの醍醐味について伺いました（11/22 収録）"
+summary: "初のインダストリーからのゲスト。Wyss Institute から 10x Genomics に就職された佐々木浩さん(<a href='https://x.com/popeetheclown'>@popeetheclown</a>)にお越しいただき、アカデミアとインダストリーの研究スタイルや自由の違い、海外就活の詳細なタイムラインと勘所、インダストリー研究ならではの醍醐味について伺いました（11/22 収録）"
 ---
 
 Summary:

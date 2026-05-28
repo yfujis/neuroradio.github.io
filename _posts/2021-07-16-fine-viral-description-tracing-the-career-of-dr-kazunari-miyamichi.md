@@ -9,7 +9,7 @@ apple_podcast: "https://podcasts.apple.com/us/podcast/18-fine-viral-description-
 guests: ["宮道和成"]
 performers: ["ゲスト", "萩", "脇"]
 topics: ["ゲスト回", "キャリア", "ウイルス・トレーシング", "システム神経科学"]
-summary: "理研BDRの宮道和成さん（@K_Miyamichi）にお越しいただき、キャリア選択時に考えていたこと、現在の研究の魅力、新機軸の打ち出し方、子育てに伴う研究スタイルのシフト、等をお話しいただきました（7/3収録）"
+summary: "理研BDRの宮道和成さん（<a href='https://x.com/K_Miyamichi'>@K_Miyamichi</a>）にお越しいただき、キャリア選択時に考えていたこと、現在の研究の魅力、新機軸の打ち出し方、子育てに伴う研究スタイルのシフト、等をお話しいただきました（7/3収録）"
 ---
 
 Summary:

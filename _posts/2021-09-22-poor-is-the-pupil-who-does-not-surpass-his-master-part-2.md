@@ -9,7 +9,7 @@ apple_podcast: "https://podcasts.apple.com/us/podcast/24-poor-is-the-pupil-who-d
 guests: ["五十嵐啓"]
 performers: ["ゲスト", "萩", "脇"]
 topics: ["ゲスト回", "キャリア", "記憶", "システム神経科学"]
-summary: "Part 2: UC Irvineの五十嵐啓さん(@kei_m_igarashi)にお越しいただき、モーザーラボでのポスドク時代、ジョブハント、独立してからのお話をしていただきました。そして最後に今回のNature論文を少し頭出ししていただきました（8/31収録）"
+summary: "Part 2: UC Irvineの五十嵐啓さん(<a href='https://x.com/kei_m_igarashi'>@kei_m_igarashi</a>)にお越しいただき、モーザーラボでのポスドク時代、ジョブハント、独立してからのお話をしていただきました。そして最後に今回のNature論文を少し頭出ししていただきました（8/31収録）"
 ---
 
 Summary:

@@ -9,7 +9,7 @@ apple_podcast: "https://podcasts.apple.com/us/podcast/90-discourse-on-the-method
 guests: ["伊藤慎也"]
 performers: ["ゲスト", "萩"]
 topics: ["ゲスト回", "大学院留学", "理論神経科学", "LLM", "視覚", "聴覚", "計算神経科学", "システム神経科学"]
-summary: "Allen Institute, D3の伊藤慎也 (@shixnya)さんゲスト回、後編。釣り生活、SC (superior colliculus)での音表象の仕事、Allenに移ってからの仕事、LLMの発展による日々の仕事への影響、など(6/20 収録)"
+summary: "Allen Institute, D3の伊藤慎也 (<a href='https://x.com/shixnya'>@shixnya</a>)さんゲスト回、後編。釣り生活、SC (superior colliculus)での音表象の仕事、Allenに移ってからの仕事、LLMの発展による日々の仕事への影響、など(6/20 収録)"
 ---
 
 Summary:

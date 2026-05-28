@@ -9,7 +9,7 @@ apple_podcast: "https://podcasts.apple.com/us/podcast/64-foraging-for-the-sun/id
 guests: ["服部亮磨"]
 performers: ["ゲスト", "萩", "脇"]
 topics: ["ゲスト回", "キャリア", "大学院留学", "意思決定", "システム神経科学"]
-summary: "UF Scripps Institute で独立する服部亮磨さん(@ryhattori, gmail)がゲスト。Harvard MCBでのPhD生活、UCSDでのポスドク生活と研究内容の概説、ジョブハントの話、独立後の研究方針、ブリッジンググラント情報など（8/27 収録）"
+summary: "UF Scripps Institute で独立する服部亮磨さん(<a href='https://x.com/ryhattori'>@ryhattori</a>, gmail)がゲスト。Harvard MCBでのPhD生活、UCSDでのポスドク生活と研究内容の概説、ジョブハントの話、独立後の研究方針、ブリッジンググラント情報など（8/27 収録）"
 ---
 
 Summary:

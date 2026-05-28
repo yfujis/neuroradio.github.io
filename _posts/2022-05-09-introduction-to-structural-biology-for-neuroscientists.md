@@ -9,7 +9,7 @@ apple_podcast: "https://podcasts.apple.com/us/podcast/35-introduction-to-structu
 guests: ["加藤英明"]
 performers: ["ゲスト", "萩", "脇"]
 topics: ["ゲスト回", "構造生物学", "オプトジェネティクス", "ツール開発"]
-summary: "東大先進科学機構の加藤英明さん(@emeKato)をゲストに、今回のChRmine構造論文やこれまでの仕事の背景、神経科学者が構造生物学について知っておくと良いこと、今後の構造生物学の展開等を伺いました。(2/20収録)"
+summary: "東大先進科学機構の加藤英明さん(<a href='https://x.com/emeKato'>@emeKato</a>)をゲストに、今回のChRmine構造論文やこれまでの仕事の背景、神経科学者が構造生物学について知っておくと良いこと、今後の構造生物学の展開等を伺いました。(2/20収録)"
 ---
 
 Summary:

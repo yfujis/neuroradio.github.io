@@ -9,7 +9,7 @@ apple_podcast: "https://podcasts.apple.com/us/podcast/9-social-interaction-with-
 guests: ["奥山輝大"]
 performers: ["ゲスト", "萩", "脇"]
 topics: ["ゲスト回", "キャリア", "記憶", "社会行動", "システム神経科学"]
-summary: "奥山輝大さん（@Teru_Okuyama）ゲスト回後編。メダカ論文の裏話、利根川進先生と一緒に研究をすること、LOF/GOF一辺倒の研究に対して思うこと、などをお話しいただきました。"
+summary: "奥山輝大さん（<a href='https://x.com/Teru_Okuyama'>@Teru_Okuyama</a>）ゲスト回後編。メダカ論文の裏話、利根川進先生と一緒に研究をすること、LOF/GOF一辺倒の研究に対して思うこと、などをお話しいただきました。"
 ---
 
 Summary:

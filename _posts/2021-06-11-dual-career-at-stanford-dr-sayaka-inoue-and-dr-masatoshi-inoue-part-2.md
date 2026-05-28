@@ -9,7 +9,7 @@ apple_podcast: "https://podcasts.apple.com/us/podcast/15-dual-career-at-stanford
 guests: ["井上昌俊", "井上清香"]
 performers: ["ゲスト", "萩", "脇"]
 topics: ["ゲスト回", "ツール開発", "社会行動", "イメージング", "子育て", "システム神経科学"]
-summary: "前回に引き続き、井上夫妻 (@feynman1104 , @s_k_inoue ) をゲストに、これまでとこれからのキャリア、ポスドクのお金事情、アメリカでの子育て、生活tips等について伺いました。（5/28収録）"
+summary: "前回に引き続き、井上夫妻 (<a href='https://x.com/feynman1104'>@feynman1104</a> , <a href='https://x.com/s_k_inoue'>@s_k_inoue</a> ) をゲストに、これまでとこれからのキャリア、ポスドクのお金事情、アメリカでの子育て、生活tips等について伺いました。（5/28収録）"
 ---
 
 Summary:

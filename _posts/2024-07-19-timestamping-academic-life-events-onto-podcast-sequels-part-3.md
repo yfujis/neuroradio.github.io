@@ -9,7 +9,7 @@ apple_podcast: "https://podcasts.apple.com/us/podcast/77-timestamping-academic-l
 guests: ["北沢太郎"]
 performers: ["ゲスト", "萩"]
 topics: ["ゲスト回", "再登場", "記憶", "キャリア", "学会"]
-summary: "定期ゲスト、デンマーク・オーフスの北沢太郎さん(⁠@kitazawa_taro⁠ )。Neuro2024での記憶シンポジウムの宣伝、ラボ立ち上げから2年での進捗、初FENS参加など (7/11 収録)"
+summary: "定期ゲスト、デンマーク・オーフスの北沢太郎さん(⁠<a href='https://x.com/kitazawa_taro'>@kitazawa_taro</a>⁠ )。Neuro2024での記憶シンポジウムの宣伝、ラボ立ち上げから2年での進捗、初FENS参加など (7/11 収録)"
 ---
 
 Summary:

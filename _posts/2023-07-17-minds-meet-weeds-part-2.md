@@ -9,7 +9,7 @@ apple_podcast: "https://podcasts.apple.com/us/podcast/60-minds-meet-weeds-part-2
 guests: ["登達也"]
 performers: ["ゲスト", "萩", "脇"]
 topics: ["ゲスト回", "大学院留学", "植物", "細胞タイプ", "キャリア"]
-summary: "登達也さん(@nobolly, @tnobo_ktcs)ゲスト回、後編。Cell-type談義、あったら嬉しいツール談義、Assistant Features エディター経験、ジョブハント、新しく開くラボについて。(6/22収録)"
+summary: "登達也さん(<a href='https://x.com/nobolly'>@nobolly</a>, <a href='https://x.com/tnobo_ktcs'>@tnobo_ktcs</a>)ゲスト回、後編。Cell-type談義、あったら嬉しいツール談義、Assistant Features エディター経験、ジョブハント、新しく開くラボについて。(6/22収録)"
 ---
 
 Summary:
