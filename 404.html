@@ -1,20 +1,68 @@
-<!doctype html>
-<html lang="ja">
-<head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>ページが見つかりません | NeuroRadio</title>
-  <meta name="robots" content="noindex">
-  <link rel="stylesheet" href="/styles.css?v=20260526">
-</head>
-<body>
-  <main class="error-page">
-    <div>
-      <p class="eyebrow">404</p>
-      <h1><span>ページが</span><span>見つかりません。</span></h1>
-      <p class="hero-lede">URLを確認するか、NeuroRadioのトップページに戻ってください。</p>
-      <a class="button primary" href="/">トップページへ</a>
+---
+layout: default
+title: ページが見つかりません
+permalink: /404.html
+robots: noindex
+---
+{% assign latest = site.posts | first %}
+<main id="main" class="error-page">
+  <div class="error-inner">
+    <p class="eyebrow">404</p>
+    <h1><span>ページが</span><span>見つかりません。</span></h1>
+    <p class="hero-lede">URLが変わったか、ページが削除された可能性があります。<br>エピソードをお探しの場合は以下から検索してください。</p>
+
+    <div class="error-search">
+      <label for="error-search-input" class="sr-only">エピソードを検索</label>
+      <div class="error-search-field">
+        <input id="error-search-input" type="search" placeholder="エピソードタイトルを検索…" autocomplete="off" aria-controls="error-search-results">
+      </div>
+      <ul id="error-search-results" class="error-search-results" aria-live="polite" aria-label="検索結果"></ul>
     </div>
-  </main>
-</body>
-</html>
+
+    <div class="error-links">
+      <a class="button primary" href="{{ '/episodes/' | relative_url }}">エピソード一覧</a>
+      <a class="button secondary" href="{{ '/otayori/' | relative_url }}">お便りはこちら</a>
+      <a class="button secondary" href="{{ '/' | relative_url }}">トップページへ</a>
+    </div>
+
+    {% if latest %}
+    <div class="error-latest">
+      <p class="eyebrow">最新回</p>
+      <article class="error-latest-card">
+        <p class="episode-date">{{ latest.date | date: "%Y-%m-%d" }}</p>
+        <h2><a href="{{ latest.url | relative_url }}">{{ latest.title }}</a></h2>
+        <p>{{ latest.summary }}</p>
+      </article>
+    </div>
+    {% endif %}
+  </div>
+</main>
+
+<script>
+(function () {
+  var episodes = [
+    {% for post in site.posts %}{"title":{{ post.title | jsonify }},"url":{{ post.url | relative_url | jsonify }}}{% unless forloop.last %},{% endunless %}{% endfor %}
+  ];
+
+  var input = document.getElementById("error-search-input");
+  var results = document.getElementById("error-search-results");
+
+  function render(query) {
+    var q = query.trim().toLowerCase();
+    if (!q) { results.innerHTML = ""; results.hidden = true; return; }
+    var matches = episodes.filter(function (e) {
+      return e.title.toLowerCase().includes(q);
+    }).slice(0, 8);
+    if (!matches.length) {
+      results.innerHTML = "<li class=\"error-search-empty\">該当するエピソードが見つかりませんでした。</li>";
+    } else {
+      results.innerHTML = matches.map(function (e) {
+        return "<li><a href=\"" + e.url + "\">" + e.title.replace(/</g, "&lt;") + "</a></li>";
+      }).join("");
+    }
+    results.hidden = false;
+  }
+
+  input.addEventListener("input", function () { render(input.value); });
+}());
+</script>
