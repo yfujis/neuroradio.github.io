@@ -4,7 +4,7 @@ NeuroRadioのGitHub Pages向けJekyllサイトです。エピソードは `_post
 
 ## 新しいエピソードを追加する
 
-新しいエピソードは `_posts/` にMarkdownファイルを1つ追加すると作れます。JSONや管理画面は使いません。
+新しいエピソードは `_posts/` にMarkdownファイルを1つ追加すると作れます。
 
 ファイル名は `YYYY-MM-DD-slug.md` にします。
 
@@ -110,6 +110,13 @@ assets/episodes/105-new-episode-title/image-1.jpg
   <img src="/assets/episodes/105-new-episode-title/image-1.jpg" alt="">
 </figure>
 ```
+画像はキャプションがなければ、マークダウンの画像形式で書いても大丈夫です。
+
+```markdown
+![代替テキスト](/assets/episodes/105-new-episode-title/image-1.jpg)
+```
+
+変更したら、GitHubにpushしてください。GitHub Actionsが自動でサイトをビルドしてデプロイします。Actionsで、デプロイが成功したかどうかを確認できます。
 
 ## 既存エピソードを編集する
 
@@ -119,25 +126,10 @@ assets/episodes/105-new-episode-title/image-1.jpg
 _posts/2026-04-08-real-projections-and-tangential-matters.md
 ```
 
-`bundle exec jekyll serve` 実行中なら、保存するとローカルサイトが自動で更新されます。
-
-## ローカルで確認する
-
-初回だけ依存関係を入れます。
-
-```sh
-bundle install
-```
-
-ローカルサーバーを起動します。
-
-```sh
-bundle exec jekyll serve
-```
-
-表示されたURLをブラウザで開いて確認します。
 
 ## GitHub Pagesデプロイ
+
+一度設定してあるので、いじる必要ないです。
 
 GitHub PagesはGitHub Actionsで `_site/` をデプロイします。`.github/workflows/jekyll.yml` が `bundle exec jekyll build` を実行します。
 
