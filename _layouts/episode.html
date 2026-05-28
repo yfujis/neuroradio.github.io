@@ -2,7 +2,7 @@
 layout: default
 ---
 <main id="main" class="episode-page">
-  <article class="episode-detail">
+  <article class="episode-detail" data-pagefind-body>
     <p class="eyebrow">Podcast</p>
     <h1>{{ page.title }}</h1>
     <p class="episode-date">{{ page.date | date: "%Y-%m-%d" }}</p>
@@ -22,9 +22,9 @@ layout: default
       <h2 id="editorial-notes">Editorial Notes</h2>
       {{ page.editorial_notes_html }}
     </section>
-    {% include related_episodes.html %}
-    {% include share_buttons.html %}
-    <nav class="episode-nav" aria-label="エピソードナビゲーション">
+    <div data-pagefind-ignore>{% include related_episodes.html %}</div>
+    <div data-pagefind-ignore>{% include share_buttons.html %}</div>
+    <nav class="episode-nav" aria-label="エピソードナビゲーション" data-pagefind-ignore>
       {% if page.next %}<a href="{{ page.next.url | relative_url }}">次のエピソード</a>{% endif %}
       <a href="{{ '/' | relative_url }}">トップへ</a>
       {% if page.previous %}<a href="{{ page.previous.url | relative_url }}">前のエピソード</a>{% endif %}
