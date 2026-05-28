@@ -1388,6 +1388,37 @@ h3 {
   .episode-sticky-nav-inner { gap: 8px; }
 }
 
+/* ── Search page ── */
+
+.search-page {
+  max-width: 760px;
+  margin: 0 auto;
+  padding: 48px 24px 80px;
+  display: grid;
+  gap: 36px;
+}
+
+.search-hero {
+  display: grid;
+  gap: 8px;
+}
+
+.pagefind-search-container {
+  /* Pagefind UI custom property overrides */
+  --pagefind-ui-scale: 1;
+  --pagefind-ui-primary: var(--accent);
+  --pagefind-ui-text: var(--ink);
+  --pagefind-ui-background: var(--panel);
+  --pagefind-ui-border: var(--line);
+  --pagefind-ui-tag: var(--soft);
+  --pagefind-ui-border-width: 1px;
+  --pagefind-ui-border-radius: var(--radius);
+  --pagefind-ui-font: inherit;
+}
+
+/* ── End Search page ── */
+
+
 @media print {
   .site-header,
   .skip-link,

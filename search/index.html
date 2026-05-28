@@ -1,0 +1,30 @@
+---
+layout: default
+title: 検索
+summary: NeuroRadioのエピソードをShow Notesを含めて全文検索できます。
+permalink: /search/
+---
+<main id="main" class="search-page">
+  <section class="search-hero" aria-labelledby="search-title">
+    <p class="eyebrow">Search</p>
+    <h1 id="search-title">検索</h1>
+    <p class="hero-lede">エピソードタイトル・Show Notes・ゲスト名などで検索できます。</p>
+  </section>
+
+  <div id="pagefind-search" class="pagefind-search-container"></div>
+</main>
+
+<link href="{{ '/pagefind/pagefind-ui.css' | relative_url }}" rel="stylesheet">
+<script src="{{ '/pagefind/pagefind-ui.js' }}"></script>
+<script>
+window.addEventListener('DOMContentLoaded', function () {
+  new PagefindUI({
+    element: '#pagefind-search',
+    showSubResults: true,
+    translations: {
+      placeholder: 'エピソード・Show Notesを検索…',
+      zero_results: '[SEARCH_TERM] に一致するエピソードが見つかりませんでした。'
+    }
+  });
+});
+</script>
