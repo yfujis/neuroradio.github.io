@@ -6,7 +6,7 @@ date: 2025-04-02
 permalink: /2025/04/02/86-pushing-the-limits-of-drosophila-part-1/
 spotify: "https://open.spotify.com/embed/episode/03fwnSPSHwpUPSDLmoc51E?utm_source=generator"
 performers: ["ゲスト", "萩", "脇"]
-topics: ["ゲスト回", "ショウジョウバエ", "疾患", "キャリア"]
+topics: ["大学院留学", "ゲスト回", "ショウジョウバエ", "疾患", "キャリア"]
 summary: "Baylor College of Medicineの山本慎也さんがゲスト。前編。ツールとしてハエを使うNeuroscientistと脳を見ているハエGeneticistの違い、ハエForward geneticsからヒト希少疾患研究に繋がった経緯、Living test tubeとしてのハエの魅力、Reverse geneticsによるヒト化ハエのRare disease・Common disease・感染症研究への応用について (3/28収録)"
 ---
 

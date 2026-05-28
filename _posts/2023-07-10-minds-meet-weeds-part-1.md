@@ -6,7 +6,7 @@ date: 2023-07-10
 permalink: /2023/07/10/59-minds-meet-weeds-part-1/
 spotify: "https://open.spotify.com/embed/episode/3wDtOmDj1qKFhauDOA9NQM?utm_source=generator"
 performers: ["ゲスト", "萩", "脇"]
-topics: ["ゲスト回", "植物", "トランスクリプトミクス"]
+topics: ["大学院留学", "ゲスト回", "植物", "トランスクリプトミクス"]
 summary: "Salk Institute のEckerラボ で宿主-微生物相互作用研究とゲノミクス技術開発を行っており、来年夏からイギリスのThe Sainsbury Laboratoryで独立予定の登達也さん(@nobolly, @tnobo_ktcs)がゲスト。植物を研究対象としたきっかけ、マックスプランクでのPhD3部作、ポスドクでの3部作の解説、近年のSpatial Transcriptomics技術開発トレンドに関するディスカッション。後半に続く (6/22収録)"
 ---
 
