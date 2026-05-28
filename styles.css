@@ -165,6 +165,9 @@ main {
 .subscribe-section,
 .about-section,
 .episodes-section,
+.home-share,
+.archive-share,
+.otayori-share,
 .site-footer {
   max-width: 1180px;
   margin: 0 auto;
@@ -1091,14 +1094,6 @@ h3 {
   gap: 16px;
 }
 
-.home-share,
-.archive-share,
-.otayori-share {
-  max-width: 1180px;
-  margin: 0 auto;
-  padding: 0 24px 72px;
-}
-
 .share-buttons {
   display: flex;
   flex-wrap: wrap;
@@ -1339,6 +1334,9 @@ h3 {
   .subscribe-section,
   .about-section,
   .episodes-section,
+  .home-share,
+  .archive-share,
+  .otayori-share,
   .admin-page,
   .archive-page,
   .otayori-page,
