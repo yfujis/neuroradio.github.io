@@ -6,7 +6,7 @@ date: 2022-10-06
 permalink: /2022/10/06/46-the-fos-expression-we-saw-that-day/
 spotify: "https://open.spotify.com/embed/episode/7ul9GFSUxFE5b2wD0UYOxz?utm_source=generator"
 performers: ["ゲスト", "萩", "脇"]
-topics: ["ゲスト回", "再登場", "論文解説", "ジャーナルクラブ", "記憶", "細胞タイプ"]
+topics: ["ゲスト回", "再登場", "論文解説", "ジャーナルクラブ", "記憶", "細胞タイプ", "システム神経科学"]
 summary: "海馬CA1ニューロンにおけるFos発現と場所表象・神経活動の双方的な関係を調べた論文を題材に、北西卓磨さん(@tkitanishi)、吉良信一郎さん(@ShinichiroKira)、田中和正さん(@Kazu_ZT)、柳下祥さん(@sho_yagishita) とディスカッションをしました。(9/22 収録)"
 ---
 

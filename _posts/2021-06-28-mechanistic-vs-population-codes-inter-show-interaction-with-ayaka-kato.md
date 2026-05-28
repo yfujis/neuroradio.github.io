@@ -6,7 +6,7 @@ date: 2021-06-28
 permalink: /2021/06/28/16-mechanistic-vs-population-codes-inter-show-interaction-with-ayaka-kato/
 spotify: "https://open.spotify.com/embed/episode/1JHbbtugihi1x3a7tF3jkm?utm_source=generator"
 performers: ["ゲスト", "萩", "脇"]
-topics: ["ゲスト回", "大学院留学", "ポッドキャスト", "計算神経科学", "システム神経学"]
+topics: ["ゲスト回", "大学院留学", "ポッドキャスト", "計算神経科学", "システム神経科学"]
 summary: "理研風間研・研エンの仲ポッドキャスターの加藤郁佳さん（@kayautoka）をゲストに、これまでのキャリア、モデル動物選択、これからポスドク先を選ぶにあたっての悩みなどを共有して頂きました。(6/6収録)"
 ---
 
