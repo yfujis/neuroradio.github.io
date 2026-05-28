@@ -400,8 +400,20 @@ h3 {
 }
 
 .episode-card a {
-  margin-top: auto;
   font-weight: 700;
+}
+
+.episode-card > a {
+  margin-top: auto;
+}
+
+.episode-card h3 a {
+  text-decoration: none;
+  font-weight: inherit;
+}
+
+.episode-card h3 a:hover {
+  text-decoration: underline;
 }
 
 .episode-archive-link {
