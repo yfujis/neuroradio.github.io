@@ -11,6 +11,11 @@ layout: default
     <div class="spotify-embed">
       <iframe src="{{ page.spotify }}" width="100%" height="152" frameborder="0" allowfullscreen allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy" title="Spotify episode player"></iframe>
     </div>
+    {% if page.apple_podcast %}
+    <div class="platform-links">
+      <a class="platform" href="{{ page.apple_podcast }}">Apple Podcasts で聴く</a>
+    </div>
+    {% endif %}
     <section class="episode-content" aria-label="{{ page.title }} のShow NotesとEditorial Notes">
       <h2 id="show-notes">Show Notes</h2>
       {{ page.show_notes_html }}

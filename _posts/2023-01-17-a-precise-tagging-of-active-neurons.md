@@ -5,6 +5,7 @@ episode_number: "51"
 date: 2023-01-17
 permalink: /2023/01/17/51-a-precise-tagging-of-active-neurons/
 spotify: "https://open.spotify.com/embed/episode/2YZcY0TnfMBAHRmAKH8VkU?utm_source=generator"
+apple_podcast: "https://podcasts.apple.com/us/podcast/51-a-precise-tagging-of-active-neurons/id1556937028?i=1000594818420"
 performers: ["ゲスト", "萩", "脇"]
 topics: ["ゲスト回", "イメージング", "キャリア", "システム神経科学"]
 summary: "Hyungbae Kwonラボの長濱健一郎さん(@k_hammer_1001)ゲスト回。初期研修から基礎研究に進んだ経緯、狩野研でのスライスパッチャー生活、Hyungbae Kwonラボの現在の方向性、最近のST Cal..."

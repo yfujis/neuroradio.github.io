@@ -5,6 +5,7 @@ episode_number: "70"
 date: 2023-12-19
 permalink: /2023/12/19/70-transmission/
 spotify: "https://open.spotify.com/embed/episode/5mAJNMAr8eyWIQs7fP2Dut?utm_source=generator"
+apple_podcast: "https://podcasts.apple.com/us/podcast/70-transmission/id1556937028?i=1000639014059"
 performers: ["萩", "脇"]
 topics: ["雑談回", "論文解説"]
 summary: "有識者会議、Seattle Hub for SynBio、マイク談義、理論系とのコラボについて雑談。論文紹介は、性周期に依存した報酬予測誤差シグナルの違い、Cas9 RNPそのものを細胞内に導入する手法、マウス用VRゴー..."

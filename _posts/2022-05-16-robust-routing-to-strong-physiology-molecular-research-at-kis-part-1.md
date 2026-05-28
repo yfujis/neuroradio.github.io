@@ -5,6 +5,7 @@ episode_number: "36"
 date: 2022-05-16
 permalink: /2022/05/16/36-robust-routing-to-strong-physiology-molecular-research-at-kis-part-1/
 spotify: "https://open.spotify.com/embed/episode/7LILmblqgHepMMyfaprMIv?utm_source=generator"
+apple_podcast: "https://podcasts.apple.com/us/podcast/36-robust-routing-to-strong-physiology-molecular-research/id1556937028?i=1000561702560"
 performers: ["ゲスト", "萩", "脇"]
 topics: ["ゲスト回", "電気生理", "ウイルス・トレーシング", "キャリア", "システム神経科学"]
 summary: "今年３月に東大先進科学機構で独立した北西卓磨さん(@tkitanishi) をゲストに、電気生理 × AAV 黎明期の様子、ノルウェー生活、SPD～スタッフ時代の研究について伺いました。後編に続く（4/27収録）"

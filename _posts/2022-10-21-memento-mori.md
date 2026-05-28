@@ -5,6 +5,7 @@ episode_number: "49"
 date: 2022-10-21
 permalink: /2022/10/21/49-memento-mori/
 spotify: "https://open.spotify.com/embed/episode/0GjG0u575HgA0xPHtvTPHq?utm_source=generator"
+apple_podcast: "https://podcasts.apple.com/us/podcast/49-memento-mori/id1556937028?i=1000583632669"
 performers: ["萩", "脇"]
 topics: ["雑談回", "論文解説", "記憶"]
 summary: "ゲスト回ラッシュの振り返り、感染フラグ、前向性健忘に関する雑談。フラッシュ論文紹介は、皮質と海馬のタスクルール表象の違い、内在mRNA依存的な外来mRNA翻訳制御法、方位選択性コラムの起源示唆、マイクログリア用AAV、実験メタデータ管理、１分子プロテインシーケンシング、等(10/15収録)"

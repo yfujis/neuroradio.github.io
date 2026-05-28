@@ -5,6 +5,7 @@ episode_number: "15"
 date: 2021-06-11
 permalink: /2021/06/11/15-dual-career-at-stanford-dr-sayaka-inoue-and-dr-masatoshi-inoue-part-2/
 spotify: "https://open.spotify.com/embed/episode/65ZmN9Yy4AKwCbfV2RHMzF?utm_source=generator"
+apple_podcast: "https://podcasts.apple.com/us/podcast/15-dual-career-at-stanford-dr-sayaka-inoue-and-dr/id1556937028?i=1000526011247"
 performers: ["ゲスト", "萩", "脇"]
 topics: ["ゲスト回", "ツール開発", "社会行動", "イメージング", "子育て", "システム神経科学"]
 summary: "前回に引き続き、井上夫妻 (@feynman1104 , @s_k_inoue ) をゲストに、これまでとこれからのキャリア、ポスドクのお金事情、アメリカでの子育て、生活tips等について伺いました。（5/28収録）"

@@ -5,6 +5,7 @@ episode_number: "85"
 date: 2025-01-13
 permalink: /2025/01/13/85-prediction-models/
 spotify: "https://open.spotify.com/embed/episode/2lmm5zByI7YXIsLaY2IQ3e?utm_source=generator"
+apple_podcast: "https://podcasts.apple.com/us/podcast/85-prediction-models/id1556937028?i=1000683717621"
 performers: ["萩", "脇"]
 topics: ["雑談回", "お便り", "予測"]
 summary: "新年の抱負、第二回おたよりコーナー、2025年に起こる神経科学まわりの出来事予測 Top 5 (1/5収録)"

@@ -5,6 +5,7 @@ episode_number: "52"
 date: 2023-01-22
 permalink: /2023/01/22/52-my-favorite-things/
 spotify: "https://open.spotify.com/embed/episode/3pxqhKrXOFSqeNHlVuIgAu?utm_source=generator"
+apple_podcast: "https://podcasts.apple.com/us/podcast/52-my-favorite-things/id1556937028?i=1000596409467"
 performers: ["萩", "脇"]
 topics: ["雑談回"]
 summary: "新年のんびり雑談回。一時帰国の時に行きたい店、アメリカ来てから買ってよかったもの紹介、グリーンカード申請の様子、タックスリターンの混乱など。(1/20収録)"

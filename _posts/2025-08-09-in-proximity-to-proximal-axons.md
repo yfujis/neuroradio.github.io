@@ -5,6 +5,7 @@ episode_number: "93"
 date: 2025-08-09
 permalink: /2025/08/09/93-in-proximity-to-proximal-axons/
 spotify: "https://open.spotify.com/embed/episode/7qJBMfAkkn2yitJxBTsIRE?utm_source=generator"
+apple_podcast: "https://podcasts.apple.com/us/podcast/93-in-proximity-to-proximal-axons/id1556937028?i=1000721250117"
 performers: ["ゲスト", "萩", "脇"]
 topics: ["ゲスト回", "軸索", "キャリア", "論文解説"]
 summary: "University of South Carolinaで独立した小川優樹さん(@YukiOgawaPhD)ゲスト回。AISに興味を持つようになるまでの過程、ポスドクを行ったBaylor Collegeでの研究、ジョブハント体験記、最新作Hide-and-seekに関するディスカッション、今後の展望について (2/22 収録)"

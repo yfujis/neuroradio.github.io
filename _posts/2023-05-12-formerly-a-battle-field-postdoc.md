@@ -5,6 +5,7 @@ episode_number: "56"
 date: 2023-05-12
 permalink: /2023/05/12/56-formerly-a-battle-field-postdoc/
 spotify: "https://open.spotify.com/embed/episode/4O4lxop00wj5WGDxX4BMkT?utm_source=generator"
+apple_podcast: "https://podcasts.apple.com/us/podcast/56-formerly-a-battle-field-postdoc/id1556937028?i=1000612855854"
 performers: ["ゲスト", "萩", "脇"]
 topics: ["ゲスト回", "論文解説"]
 summary: "理研BDR宮道ラボの田坂元一さん aka 戦場ポスドクさんがゲスト。Adiラボ＠ヘブライ大学での仕事の背景、イスラエルでの生活、最新プレプリントのディスカッション (5/8 収録)"

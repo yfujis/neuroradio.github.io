@@ -5,6 +5,7 @@ episode_number: "12"
 date: 2021-05-23
 permalink: /2021/05/23/12-retrospection-on-retroinfection/
 spotify: "https://open.spotify.com/embed/episode/0ATTXsLRgxGuDbMcHMAt24?utm_source=generator"
+apple_podcast: "https://podcasts.apple.com/us/podcast/12-retrospection-on-retroinfection/id1556937028?i=1000522900010"
 performers: ["萩", "脇"]
 topics: ["論文解説", "ウイルス・トレーシング"]
 summary: "前回の補足も兼ねて、Pseudo-typed Rabies Virusの原理と、その開発の歴史、今後の展望について萩原がサクッと解説。（5/22収録）"

@@ -5,6 +5,7 @@ episode_number: "35"
 date: 2022-05-09
 permalink: /2022/05/09/35-introduction-to-structural-biology-for-neuroscientists/
 spotify: "https://open.spotify.com/embed/episode/54MHnmCjeqCInha6uCGXjs?utm_source=generator"
+apple_podcast: "https://podcasts.apple.com/us/podcast/35-introduction-to-structural-biology-for-neuroscientists/id1556937028?i=1000560186418"
 performers: ["ゲスト", "萩", "脇"]
 topics: ["ゲスト回", "構造生物学", "オプトジェネティクス", "ツール開発"]
 summary: "東大先進科学機構の加藤英明さん(@emeKato)をゲストに、今回のChRmine構造論文やこれまでの仕事の背景、神経科学者が構造生物学について知っておくと良いこと、今後の構造生物学の展開等を伺いました。(2/20収録)"

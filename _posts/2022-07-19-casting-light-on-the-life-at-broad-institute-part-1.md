@@ -5,6 +5,7 @@ episode_number: "40"
 date: 2022-07-19
 permalink: /2022/07/19/40-casting-light-on-the-life-at-broad-institute-part-1/
 spotify: "https://open.spotify.com/embed/episode/7MRylUnuDRd02P9Ay2Ux72?utm_source=generator"
+apple_podcast: "https://podcasts.apple.com/us/podcast/40-casting-light-on-the-life-at-broad-institute-part-1/id1556937028?i=1000570538760"
 performers: ["ゲスト", "萩", "脇"]
 topics: ["ゲスト回", "大学院留学", "CRISPR", "インダストリー"]
 summary: "Broad Instituteの齋藤諒さんゲスト回、前編。スイスFMI時代のHDAC6のお仕事、ポスドク先探し時のエピソード、CAST I-BとV-KのHoming機構論文の背景、Fengの人柄＆ラボでの生活、等について伺いました（7/9収録）"

@@ -5,6 +5,7 @@ episode_number: "103"
 date: 2026-04-08
 permalink: /2026/04/08/103-real-projections-and-tangential-matters/
 spotify: "https://open.spotify.com/embed/episode/1HSI14Qb71Cgr0Bzv3cy2m?utm_source=generator"
+apple_podcast: "https://podcasts.apple.com/us/podcast/103-real-projections-and-tangential-matters/id1556937028?i=1000760246226"
 performers: ["萩", "藤"]
 topics: ["雑談回", "学会", "旅行"]
 summary: "COSYNE2026の様子、ポルトガル旅行、萩原ラボ立ち上げ等、近況報告雑談。 (2026/04/04 収録)"

@@ -5,6 +5,7 @@ episode_number: "101"
 date: 2025-12-24
 permalink: /2025/12/24/101-taco-chronicles/
 spotify: "https://open.spotify.com/embed/episode/6jRFth2fBJcvSi3VPMsfLs?utm_source=generator"
+apple_podcast: "https://podcasts.apple.com/us/podcast/101-taco-chronicles/id1556937028?i=1000742578959"
 performers: ["萩", "藤"]
 topics: ["雑談回", "学会", "旅行"]
 summary: "SfN2025反省会。メキシコ旅行、学会での社交、ポスター発表でのコミュニケーション方法など雑談。 (2025/12/06 収録)"

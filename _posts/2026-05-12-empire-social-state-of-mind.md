@@ -5,6 +5,7 @@ episode_number: "104"
 date: 2026-05-12
 permalink: /2026/05/12/104-empire-social-state-of-mind/
 spotify: "https://open.spotify.com/embed/episode/6NjPLkBp9KZHWFXwh6594u?utm_source=generator"
+apple_podcast: "https://podcasts.apple.com/us/podcast/104-empire-social-state-of-mind/id1556937028?i=1000767349095"
 performers: ["ゲスト", "藤"]
 topics: ["ゲスト回", "社会行動", "論文解説", "システム神経科学"]
 summary: "東京科学大学 黒田研究室 特任准教授の小坂田拓哉さんゲスト回。NYUでのオキシトシン&社会行動の研究、久しぶりの日本での研究生活、NYCの思い出等。 (2026/04/10 収録)"

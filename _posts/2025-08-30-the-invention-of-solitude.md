@@ -5,6 +5,7 @@ episode_number: "95"
 date: 2025-08-30
 permalink: /2025/08/30/95-the-invention-of-solitude/
 spotify: "https://open.spotify.com/embed/episode/6JQCx5LXxCRZ965WhAl17Y?utm_source=generator"
+apple_podcast: "https://podcasts.apple.com/us/podcast/95-the-invention-of-solitude/id1556937028?i=1000724106838"
 performers: ["萩"]
 topics: ["雑談回", "ソロ回", "お便り"]
 summary: "１人雑談、１人宣伝、１人お便りフォーム回収回。 (8/15-18 収録)"

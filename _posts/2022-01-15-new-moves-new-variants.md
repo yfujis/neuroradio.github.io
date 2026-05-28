@@ -5,6 +5,7 @@ episode_number: "31"
 date: 2022-01-15
 permalink: /2022/01/15/31-new-moves-new-variants/
 spotify: "https://open.spotify.com/embed/episode/6CzFK3Veg7ip9QR190NMZX?utm_source=generator"
+apple_podcast: "https://podcasts.apple.com/us/podcast/31-new-moves-new-variants/id1556937028?i=1000547995604"
 performers: ["萩", "脇"]
 topics: ["雑談回", "ウイルス・トレーシング"]
 summary: "大陸をまたいでの２人収録。オミクロン株が蔓延する中での新生活セットアップ、Allen Institute for Neural Dynamicsの第一印象など。後半では、最近神経科学界隈で話題のウイルスの新規変異（AAV.CAP-B10）や弱毒ワクチン（YFV-17D）について（1/4収録）"

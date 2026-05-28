@@ -5,6 +5,7 @@ episode_number: "75"
 date: 2024-07-02
 permalink: /2024/07/02/75-dreaming-of-dreams/
 spotify: "https://open.spotify.com/embed/episode/0eyjE56xBmhwsFKl6odzvK?utm_source=generator"
+apple_podcast: "https://podcasts.apple.com/us/podcast/75-dreaming-of-dreams/id1556937028?i=1000660852891"
 performers: ["ゲスト", "萩", "脇"]
 topics: ["ゲスト回", "記憶", "キャリア", "大学院留学", "システム神経科学"]
 summary: "Northwestern Universityで来年1月から独立する千歳雄大さん(@yutasenzai)さんがゲスト。BuzsakiラボでのPhD、Scanzianiラボでのポスドク、ジョブハントで苦労したこと、独立後の研究計画について伺いました (6/20 収録)"

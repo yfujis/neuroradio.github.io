@@ -5,6 +5,7 @@ episode_number: "22"
 date: 2021-09-08
 permalink: /2021/09/08/22-artificial-artifactual-neural-manipulations/
 spotify: "https://open.spotify.com/embed/episode/681qGpXNjGBG5ORIHbgAag?utm_source=generator"
+apple_podcast: "https://podcasts.apple.com/us/podcast/22-artificial-artifactual-neural-manipulations/id1556937028?i=1000534647277"
 performers: ["萩", "脇"]
 topics: ["雑談回", "ライティング", "オプトジェネティクス", "論文解説"]
 summary: "印象に残っている歴史上の研究者、総説のライティング、オプトジェネティクスのアーティファクトを取り扱った論文等について話しました (9/5収録)"

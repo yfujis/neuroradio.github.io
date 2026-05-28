@@ -5,6 +5,7 @@ episode_number: "72"
 date: 2024-02-20
 permalink: /2024/02/20/72-collaborative-professionalism-in-neuroscience/
 spotify: "https://open.spotify.com/embed/episode/3Gcb2D7E6X5Lc4M2dIBRU3?utm_source=generator"
+apple_podcast: "https://podcasts.apple.com/us/podcast/72-collaborative-professionalism-in-neuroscience/id1556937028?i=1000645937491"
 performers: ["ゲスト", "萩", "脇"]
 topics: ["ゲスト回", "大学院留学", "システム神経科学", "データ解析", "鳥", "ショウジョウバエ", "計算神経科学"]
 summary: "北京脳科学研究所の大久保達夫さんゲスト回。工学部からシステム神経科学に進んだきっかけ、FeeラボPhD時代、WilsonラボPD時代、現在のデータ解析を中心とした働き方の狙い、専門の分業に関するディスカッション、等 (12/30 収録)"
