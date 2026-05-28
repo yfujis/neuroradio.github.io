@@ -1007,7 +1007,9 @@ h3 {
   z-index: 4;
   background: rgba(247, 246, 241, .92);
   border-top: 1px solid var(--line);
+  -webkit-backdrop-filter: blur(14px);
   backdrop-filter: blur(14px);
+  padding-bottom: env(safe-area-inset-bottom);
 }
 
 .episode-sticky-nav-inner {
