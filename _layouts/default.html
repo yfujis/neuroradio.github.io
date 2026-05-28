@@ -9,7 +9,14 @@
   <meta property="og:title" content="{% if page.title %}{{ page.title }} | {% endif %}NeuroRadio">
   <meta property="og:description" content="{{ page.summary | default: site.description | strip_html | escape }}">
   <meta property="og:type" content="{% if page.layout == 'episode' %}article{% else %}website{% endif %}">
+  <meta property="og:url" content="{{ page.url | absolute_url }}">
   <meta property="og:image" content="{{ '/assets/neuroradio-cover.png' | absolute_url }}">
+  <meta property="og:site_name" content="NeuroRadio">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:site" content="@NeuroRadio_">
+  <meta name="twitter:title" content="{% if page.title %}{{ page.title }} | {% endif %}NeuroRadio">
+  <meta name="twitter:description" content="{{ page.summary | default: site.description | strip_html | escape }}">
+  <meta name="twitter:image" content="{{ '/assets/neuroradio-cover.png' | absolute_url }}">
   <link rel="icon" type="image/png" href="{{ '/assets/neuroradio-cover.png' | relative_url }}">
   <link rel="apple-touch-icon" href="{{ '/assets/neuroradio-cover.png' | relative_url }}">
   <link rel="stylesheet" href="{{ '/styles.css?v=20260526' | relative_url }}">

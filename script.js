@@ -275,3 +275,36 @@
     }
   }
 })();
+
+// Share buttons
+(function () {
+  const container = document.querySelector(".share-buttons");
+  if (!container) return;
+
+  const title = container.dataset.title;
+  const url = container.dataset.url;
+  const toast = document.querySelector(".share-toast");
+
+  const xBtn = container.querySelector(".share-x");
+  if (xBtn) xBtn.href = "https://twitter.com/intent/tweet?text=" + encodeURIComponent(title) + "&url=" + encodeURIComponent(url) + "&hashtags=NeuroRadio";
+
+  const bsBtn = container.querySelector(".share-bluesky");
+  if (bsBtn) bsBtn.href = "https://bsky.app/intent/compose?text=" + encodeURIComponent(title + "\n\n" + url);
+
+  const emailBtn = container.querySelector(".share-email");
+  if (emailBtn) emailBtn.href = "mailto:?subject=" + encodeURIComponent(title) + "&body=" + encodeURIComponent(url);
+
+  function copyAndToast(label) {
+    navigator.clipboard.writeText(url).then(function () {
+      toast.textContent = label + "にペーストするURLをコピーしました ✓";
+      toast.hidden = false;
+      setTimeout(function () { toast.hidden = true; }, 3000);
+    });
+  }
+
+  const slackBtn = container.querySelector(".share-slack");
+  if (slackBtn) slackBtn.addEventListener("click", function () { copyAndToast("Slack"); });
+
+  const discordBtn = container.querySelector(".share-discord");
+  if (discordBtn) discordBtn.addEventListener("click", function () { copyAndToast("Discord"); });
+})();
