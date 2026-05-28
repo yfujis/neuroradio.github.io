@@ -6,7 +6,7 @@ date: 2024-04-30
 permalink: /2024/04/30/74-letters-to-the-editor/
 spotify: "https://open.spotify.com/embed/episode/21GrmHnwwyM3PPqTHXhPWr?utm_source=generator"
 performers: ["萩", "脇"]
-topics: ["お便り", "雑談回", "ライティング", "LLM"]
+topics: ["雑談回", "お便り", "ライティング", "LLM"]
 summary: "TED風トーク、DIY引っ越し、ライティングとLLM、買って良かった某アイテムについて雑談。後半は初のおたより回 (4/18収録)"
 ---
 

@@ -6,7 +6,7 @@ date: 2022-09-22
 permalink: /2022/09/22/44-timestamping-academic-life-events-onto-podcast-sequels/
 spotify: "https://open.spotify.com/embed/episode/5cjP3s7u2du07EhCoHPNWe?utm_source=generator"
 performers: ["ゲスト", "萩", "脇"]
-topics: ["ゲスト回", "キャリア", "学会", "再登場"]
+topics: ["ゲスト回", "再登場", "キャリア", "学会"]
 summary: "帰ってきた北沢太郎さん(@kitazawa_taro) 。これから参入するEngram業界の学会@ダブリンの印象、そしてDANDRITEでのラボ立ち上げから一カ月が経過した現在の状況。特にリクルーティング、ヨーロッパ・デンマークのファンディング事情、人的ネットワーク作りなど（9/18収録）"
 ---
 

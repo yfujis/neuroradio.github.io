@@ -6,7 +6,7 @@ date: 2024-09-15
 permalink: /2024/09/15/79-the-wizard-of-fz/
 spotify: "https://open.spotify.com/embed/episode/6O1xm51spvxFurjsBW5FnQ?utm_source=generator"
 performers: ["ゲスト", "萩", "脇"]
-topics: ["ゲスト回", "CRISPR", "論文解説", "キャリア", "再登場"]
+topics: ["ゲスト回", "再登場", "CRISPR", "論文解説", "キャリア"]
 summary: "Broadの齋藤諒さん再登場。真核生物ゲノムにコードされたFanzorがRNAで標的をプログラム可能なエンドヌクレアーゼであることを示した論文、競合、ジョブハント、来年１月から理研で主宰予定のラボ運営方針について伺いまし..."
 ---
 

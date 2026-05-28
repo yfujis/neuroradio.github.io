@@ -6,7 +6,7 @@ date: 2023-09-28
 permalink: /2023/09/28/65-dual-career-pis-in-st-louis/
 spotify: "https://open.spotify.com/embed/episode/2cTEAxQ1AYIMFmrytDb6qH?utm_source=generator"
 performers: ["ゲスト", "萩", "脇"]
-topics: ["ゲスト回", "キャリア", "ジョブハント", "再登場"]
+topics: ["ゲスト回", "再登場", "キャリア", "ジョブハント"]
 summary: "Washington University in St. Louis でそれぞれ独立PIになる井上昌俊さん（@feynman1104）と井上清香さん（@s_k_inoue）がゲスト。最新ジョブハント事情、パートナーとのジョブハント、WashUでの研究プランなど（9/5 収録）"
 ---
 

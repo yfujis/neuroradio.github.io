@@ -6,7 +6,7 @@ date: 2023-10-14
 permalink: /2023/10/14/66-timestamping-academic-life-events-onto-podcast-sequels-part-2/
 spotify: "https://open.spotify.com/embed/episode/45fmrj4MXl9KFPQKGBa0y4?utm_source=generator"
 performers: ["ゲスト", "萩"]
-topics: ["ゲスト回", "キャリア", "記憶", "再登場"]
+topics: ["ゲスト回", "再登場", "キャリア", "記憶"]
 summary: "定期ゲスト北沢さん (@kitazawa_taro) のデンマーク・DANDRITE生活１年目の振り返り、ラボ立ち上げ・プロジェクトの経過、Fosの発現メカニズムに関するJC、など (10/1 収録)"
 ---
 

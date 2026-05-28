@@ -6,7 +6,7 @@ date: 2024-07-14
 permalink: /2024/07/14/76-getting-out-of-the-comfort-zone/
 spotify: "https://open.spotify.com/embed/episode/2gl0MOVcomXlEtIpGxVTGf?utm_source=generator"
 performers: ["ゲスト", "萩", "脇"]
-topics: ["ゲスト回", "キャリア", "グラント", "記憶", "再登場"]
+topics: ["ゲスト回", "再登場", "キャリア", "グラント", "記憶"]
 summary: "UC Irvineの五十嵐啓さん(@kei_m_igarashi)再登場。転職活動振り返り、次に出る論文のSneak peek (詳細はNeuro2024のセッションにて)、R01グラント審査の実際＆それを踏まえた書き方戦略講座、若い人へのメッセージなど (7/6 収録)"
 ---
 

@@ -6,7 +6,7 @@ date: 2022-10-09
 permalink: /2022/10/09/47-on-flexibility-in-cognitive-processes-behavioral-paradigms-and-careers/
 spotify: "https://open.spotify.com/embed/episode/3Ogv2OKB6lBHQ1zNJ0jgYE?utm_source=generator"
 performers: ["ゲスト", "萩", "脇"]
-topics: ["大学院留学", "ゲスト回", "細胞タイプ", "行動", "キャリア"]
+topics: ["ゲスト回", "大学院留学", "細胞タイプ", "行動", "キャリア"]
 summary: "理研CBSの中島美保さん（@mihonakajima）がゲスト。大学院時代とポスドク時代の仕事の背景、それらを踏まえたCell Typeに関する議論、特定の高次機能を問うためのTailor-made行動試験の作り方、などを伺いました (8/17, 9/10 収録)"
 ---
 

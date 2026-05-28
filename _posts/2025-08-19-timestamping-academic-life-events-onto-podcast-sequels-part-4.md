@@ -6,7 +6,7 @@ date: 2025-08-19
 permalink: /2025/08/19/94-timestamping-academic-life-events-onto-podcast-sequels-part-4/
 spotify: "https://open.spotify.com/embed/episode/7bvudiIW6lRJrReYlV4Dsm?utm_source=generator"
 performers: ["ゲスト", "萩"]
-topics: ["ゲスト回", "記憶", "論文解説", "再登場"]
+topics: ["ゲスト回", "再登場", "記憶", "論文解説"]
 summary: "定期ゲスト北沢太郎さん(@kitazawa_taro) 回。直近に公開した自身のHisTrac-seqプレプリントと(と競合LagTagプレプリントの)解説回 (8/17 収録)"
 ---
 
