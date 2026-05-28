@@ -6,7 +6,7 @@ date: 2023-06-29
 permalink: /2023/06/29/58-not-necessarily-necessary/
 spotify: "https://open.spotify.com/embed/episode/3DIkMMIXeP3kISYLa7FR3d?utm_source=generator"
 performers: ["萩", "脇"]
-topics: ["雑談回", "論文解説", "データ解析", "技術"]
+topics: ["雑談回", "論文解説", "データ解析"]
 summary: "ラボマネ・プロマネ事情、クラウドでのデータ管理・解析、マウス/キーボード談義。論文紹介は、AAV搭載可能な最小プロモーター、AAVのBBB通過に関与する受容体の同定、高所恐怖症の回路、嗅内皮質活動の回転対称性の変化、必要十分の不必要性、について (6/25収録)"
 ---
 

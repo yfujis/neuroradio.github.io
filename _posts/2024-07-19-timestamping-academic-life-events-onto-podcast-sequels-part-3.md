@@ -6,7 +6,7 @@ date: 2024-07-19
 permalink: /2024/07/19/77-timestamping-academic-life-events-onto-podcast-sequels-part-3/
 spotify: "https://open.spotify.com/embed/episode/1rFYR6BZXfAY8sc1HGrbRC?utm_source=generator"
 performers: ["ゲスト", "萩"]
-topics: ["ゲスト回", "記憶", "PI・キャリア", "学会", "再登場"]
+topics: ["ゲスト回", "記憶", "キャリア", "学会", "再登場"]
 summary: "定期ゲスト、デンマーク・オーフスの北沢太郎さん(⁠@kitazawa_taro⁠ )。Neuro2024での記憶シンポジウムの宣伝、ラボ立ち上げから2年での進捗、初FENS参加など (7/11 収録)"
 ---
 

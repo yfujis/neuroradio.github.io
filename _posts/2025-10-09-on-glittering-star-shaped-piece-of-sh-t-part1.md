@@ -6,7 +6,7 @@ date: 2025-10-09
 permalink: /2025/10/09/97-on-glittering-star-shaped-piece-of-sh-t-part1/
 spotify: "https://open.spotify.com/embed/episode/6nKcGuNN14PxuAktmkUyle?utm_source=generator"
 performers: ["ゲスト", "萩"]
-topics: ["ゲスト回", "グリア", "アストロサイト", "記憶", "PI・キャリア"]
+topics: ["ゲスト回", "グリア", "記憶", "キャリア"]
 summary: "理研CBSの長井淳さん(@JunNagaiLab)ゲスト回(前編)。どうしてグリア研究に至ったか。大学院時代の”思い出”、再現性問題、バル・カークとのポスドク生活など (9/19 収録)"
 ---
 
